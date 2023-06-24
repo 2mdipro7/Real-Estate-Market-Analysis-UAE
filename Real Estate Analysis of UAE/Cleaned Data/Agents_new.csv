@@ -1,0 +1,979 @@
+Agent ID,Agent Name,Agent Type,Total Properties_x,Spoken Languages by Agent,Agent BRN,Company ID,Designation,Total Properties_y
+e6788367-055b-4ffb-9d11-aad22c066eea,Kunal Kumar Mohan Balani,SUPERAGENT,33,"['English', 'Hindi', 'Urdu']",26969,0e5ecfa1-561c-436b-b081-7e059591d53c,Managing Director,33
+69e6d3cf-a4fd-4996-afca-bb5fa282f2bd,Mark McCabe,SUPERAGENT,180,['English'],54469,744697e6-9519-489f-b6fe-05f8929e10da,Senior Sales Consultant,180
+f421fc9c-28a9-4d58-b1e4-5d54cdb9e8b5,Magomedsaid Gaziev,SUPERAGENT,197,"['English', 'Russian']",56956,208c2ceb-a045-4731-b002-37a04a10fe64,Sales and Leasing Consultant,197
+9e4ecdc5-d30c-4392-82b6-0ae4b3ef497b,Lewis Chambers,SUPERAGENT,285,['English'],54355,a2d1326b-947b-4fe0-bda7-f9e8d58def0b,Senior Sales Broker,285
+9fbb4d3b-59f1-4e8b-8335-3d03d753b28a,Bogdan Bondar,SUPERAGENT,309,"['English', 'Romanian']",55682,a1014eec-dc0e-4c56-a8df-48be312681ef,Sales and Leasing Consultant,309
+955e6a5b-37fe-4a7f-ba43-d2ed5e80550f,Mohammad Al Hareef,SUPERAGENT,197,"['English', 'Arabic']",53975,208c2ceb-a045-4731-b002-37a04a10fe64,Sales and Leasing Consultant,197
+e14676f8-b648-449c-829c-f71f7207ca66,Maureen Schraepler,SUPERAGENT,533,"['English', 'Dutch']",53501,bc5c7505-22b4-4826-a41e-b762c3760d8f,Sales Consultant,533
+c4ea4c16-a1b9-4310-8b0a-ffe4ad2ccffc,Abbey Priestley,SUPERAGENT,298,['English'],50925,90b8f4a2-4779-4ab4-91c2-ef901f3e2fc9,Sales Consultant,298
+332306f4-b034-4a6d-b40b-20e7570258ae,Jamie Grimshaw,REGULAR,23,['English'],33617,1505ae85-d3f3-43cd-a861-e1a499943ab5,Director,23
+a3b3f8a2-25b9-4589-a762-9765931bdf98,Nabijon Rahmatov,SUPERAGENT,197,"['English', 'Russian', 'Uzbek', 'Turkish']",55857,208c2ceb-a045-4731-b002-37a04a10fe64,Sales and Leasing Consultant,197
+c351fad5-1d2d-4f85-a8c7-7deb7e39c884,Ahlam Dourhi,SUPERAGENT,103,"['English', 'Arabic', 'German', 'Spanish', 'Dutch']",53959,84fe3d61-ac6a-4388-95b7-c93365cb29fb,Property Consultant,103
+f19e2096-1fa3-4fa0-afe2-8aa9e5a82cfe,Abduvali Gapparov,SUPERAGENT,545,"['English', 'Russian', 'Uzbek']",30515,558711c1-4bdf-4635-999c-9faebcc91cad,Property Consultant,545
+b29e284d-d6ad-4f33-abee-56f8c9253236,Caroline Krueger,SUPERAGENT,102,"['English', 'German']",48561,4776085a-6dc5-4e57-b6c3-c448e88eb8c9,Property Consultant,102
+c3905e9e-aa34-4377-bab9-730c938a0b48,Lee Weston,SUPERAGENT,298,['English'],46189,90b8f4a2-4779-4ab4-91c2-ef901f3e2fc9,Agent,298
+b9c8de88-9b74-4088-a0fd-2a9efd010d88,Abdessamed Allaoui,REGULAR,6,"['English', 'Arabic', 'French']",,6c67e900-1163-4c98-9f87-83f3e0a46abc,Sales Manager,6
+6a36ea8b-1a5d-4928-bf30-9c49cbf2a745,Hamid Gbadamosi,SUPERAGENT,584,['English'],47726,803ce959-46ba-40fb-b253-52da9718a52a,Property Consultant,584
+e754e3bf-a18b-4324-acba-5f4f5813173e,Jeremy Bentley,SUPERAGENT,362,['English'],48230,47b9c4eb-7117-4702-81d3-1c8733668357,Senior Property Consultant,362
+545ad49d-52fa-49a8-9a37-596ff71ad187,Aaron Thomson,SUPERAGENT,"1,045",['English'],42776,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Senior Client Manager,"1,045"
+029bcd8f-115e-4518-8072-3e33fb9d3088,Morgan Thomas,SUPERAGENT,309,['English'],46955,a1014eec-dc0e-4c56-a8df-48be312681ef,Sales and Leasing Consultant,309
+9ef9a0ff-1b8a-4368-87f6-7fd1042d6b73,André Henry-Watson,SUPERAGENT,"1,396",['English'],43483,443fab0c-2b26-414b-a798-c3d1a527b093,Area Manager,"1,396"
+c43ff4f9-5be2-495f-aacc-d2a2beda47a4,Yunis Khadri,SUPERAGENT,"1,045","['English', 'Arabic', 'Hindi', 'Urdu']",59388,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Client Manager,"1,045"
+fc02f2a7-8418-489d-ba4f-723e40a4cf26,Youssef Sabri,SUPERAGENT,"1,396","['English', 'Arabic', 'French']",56757,443fab0c-2b26-414b-a798-c3d1a527b093,Real Estate Agent,"1,396"
+24ae5db0-8ea3-4423-b60c-0858579b539a,Paul McCabe,SUPERAGENT,180,['English'],55551,744697e6-9519-489f-b6fe-05f8929e10da,Sales Consultant,180
+5fca31f7-431e-494b-9291-fb5d26052980,Anuj Sawhney,SUPERAGENT,227,"['English', 'Hindi']",57200,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Property Consultant,227
+ca441081-5625-4ce2-b1a4-b08939614484,Darren Collins,SUPERAGENT,227,['English'],46856,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Area Manager,227
+fda71e01-70d3-4e16-b472-e9711b828553,Michael Railes,SUPERAGENT,180,['English'],43145,744697e6-9519-489f-b6fe-05f8929e10da,Senior Sales Consultant,180
+a1224032-2359-4daf-9388-c9c186210048,Ekaterina Makarova,SUPERAGENT,393,"['English', 'Russian']",58376,7fd81022-60d1-48d6-9a6a-67a9d04a1899,Property Advisor,393
+7e8ab891-24ba-4ffe-973a-f8deb678c177,Nick Lee,SUPERAGENT,309,['English'],46552,a1014eec-dc0e-4c56-a8df-48be312681ef,Sales & Leasing Consultant,309
+0d299600-1ee7-4af8-9bad-f1c7f252d028,Maryna Alifiravets,SUPERAGENT,393,"['English', 'Russian']",50184,7fd81022-60d1-48d6-9a6a-67a9d04a1899,Property Advisor,393
+c8a76fe7-58e2-47c0-8b81-b4fa090b0da8,Jackie Johns,SUPERAGENT,143,['English'],36975,2545ebbf-2a6b-44ad-b9aa-bd1caa73046c,Managing Partner,143
+8fbb83d3-7b9b-4999-a4d3-65c521adcc7a,Zach Bywater,SUPERAGENT,180,['English'],55835,744697e6-9519-489f-b6fe-05f8929e10da,Sales Consultant,180
+96dd34f7-ae49-4742-bfaa-c81b4ce33f03,Pantea Rokni,SUPERAGENT,309,"['English', 'Persian/Farsi']",35525,a1014eec-dc0e-4c56-a8df-48be312681ef,District Manager - Dubai Marina,309
+a4da97f1-9206-4e4e-b4fe-bc3cda2223bc,Abu Tariq,SUPERAGENT,19,"['English', 'Arabic', 'Hindi']",12473,65a01cf7-4b8e-4802-89ea-ed3a0f4fe070,Sales Director,19
+cd5bfb48-a763-493b-b6e8-d08d0b3fd491,Lewis Anderson,SUPERAGENT,"1,045",['English'],50144,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Client Manager,"1,045"
+5058d912-a8a7-43d0-bbb5-1b114e059deb,Ahmad Fawad,SUPERAGENT,987,"['English', 'Urdu']",50915,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Consultant,987
+2275f80b-58dc-47b6-876d-4a9bec7cad8d,Matthew Montgomery,SUPERAGENT,"1,045",['English'],34335,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Associate Director,"1,045"
+59436f4e-e2b7-4f00-a187-3d40a1e6e161,Craig Wonnacott,SUPERAGENT,180,['English'],42700,744697e6-9519-489f-b6fe-05f8929e10da,Downtown Sales Manager,180
+475c4667-cb62-432d-837e-ecc0094eed71,Edward Walsh,SUPERAGENT,21,['English'],29724,b9048dfb-3a24-46f3-a559-3285d08a4468,Founder,21
+b3627e81-20d6-4f94-a358-aed81790199c,Niel Els,SUPERAGENT,227,"['English', 'Afrikaans']",45975,0b9f1c3d-d505-461b-90e7-eaf677837272,Area Manager,227
+be7434be-4b9a-4a8a-9717-42361e8893df,Simon Beazley,SUPERAGENT,"1,045",['English'],44375,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Senior Client Manager,"1,045"
+b7d32450-bf9e-46ea-9ebb-a870a7939e23,Chris Michaelides,SUPERAGENT,285,['English'],42277,a2d1326b-947b-4fe0-bda7-f9e8d58def0b,Senior Sales Consultant,285
+94650ac7-a254-4407-b9d5-fd123ddb5de5,Talieh Nesary,SUPERAGENT,17,"['English', 'German', 'Persian/Farsi']",42558,8afeaef3-6fa1-4971-b899-1a88d7f50b5a,Operations Director,17
+22a03a4e-9945-4415-93dd-586b01211460,Adrian Popica,SUPERAGENT,129,"['English', 'Romanian']",37845,a09cfef4-7521-4fc8-a654-a167c0fe53cb,Property Consultant,129
+18217a13-8f84-4e6e-987d-2b4c519d6d63,Chris Reeves,SUPERAGENT,"1,272",['English'],47117,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Senior Consultant,"1,272"
+e1566599-e5e7-4fd9-adf7-1f85618fe65d,Ted Speller,SUPERAGENT,180,['English'],57868,744697e6-9519-489f-b6fe-05f8929e10da,Senior Sales Consultant,180
+7d903e28-9907-4a70-8244-884ba82224a0,Adam Webber,SUPERAGENT,180,['English'],29553,744697e6-9519-489f-b6fe-05f8929e10da,Dubai Hills Estate Sales Manager,180
+467e6ab1-2b27-490e-8e76-c835598a9aa4,Simon Constant,SUPERAGENT,68,"['English', 'French']",45935,27f14337-61dc-48b9-bea6-62b630dee9a8,Sales Consultant,68
+62c576de-89f2-4e2b-8ec6-8ada46323e1b,Rebecca Baldwin,REGULAR,99,['English'],47620,8b0852d9-39ab-445d-9ef0-9e05779b9c27,Senior Sales Brokerage,99
+a734ca56-cb2b-4873-b733-a58a19f2df1f,Ahmad Abdelrahman,SUPERAGENT,879,"['English', 'Arabic']",56518,4f869f17-f152-4f4b-b86d-62fb88503946,Client Manager,879
+eee3fe36-8b98-4050-8e9b-6ae74602d38f,Amir Kasra Yousefi,SUPERAGENT,19,"['English', 'Persian/Farsi', 'Italian']",57959,1e4820aa-6468-4b34-8b5c-d97afea0f029,Co-Founder,19
+bed4c0a3-01f7-45cf-9aea-86195bc01e7d,Daniel Vukaj,SUPERAGENT,584,"['English', 'Albanian']",54992,803ce959-46ba-40fb-b253-52da9718a52a,Sales Consultant,584
+9b2c577c-6f67-4379-ad97-b3aea1973b0c,Lewis Pollitt,SUPERAGENT,"1,272",['English'],50687,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Sales Consultant,"1,272"
+85c8e38a-3a71-4237-b97f-8c2073711edd,Rosana Abdul Khalek,SUPERAGENT,103,"['English', 'Arabic']",47296,84fe3d61-ac6a-4388-95b7-c93365cb29fb,Senior Property Consultant,103
+613bcd31-921d-45f6-a639-9c1d2ae4daeb,Lana Gorbach,SUPERAGENT,117,"['English', 'Russian']",29438,9568ab14-f2e5-4cf2-b53e-49c35a51f952,Associate I Client Rep Division,117
+a84c87df-2ae4-4020-9014-9f1cd03a21b3,Mamtu Mirchandani,SUPERAGENT,545,"['English', 'Hindi']",48283,558711c1-4bdf-4635-999c-9faebcc91cad,Property Consultant,545
+0fbfc43a-d1ee-46b4-a298-f40b543dfccb,Aleli Alo,SUPERAGENT,393,['English'],47518,7fd81022-60d1-48d6-9a6a-67a9d04a1899,Property Advisor,393
+fae1e335-3414-4e19-90b8-4470a5aab718,Nidha Baig,SUPERAGENT,95,"['English', 'Hindi', 'Urdu', 'Pashto']",55261,7e5f76d9-24ec-4a6f-b876-d8cebb34d9ca,Property Consultant,95
+e5dd40e4-6c38-49e7-9696-9b3a4ecbc7fe,Adeel Ali,SUPERAGENT,629,"['English', 'Hindi', 'Urdu', 'Punjabi']",59660,98e094cb-3cf7-47ad-b811-b96ce37436e9,Property Consultant,629
+db1faf8e-0a07-4380-97b0-a2d890091cb6,Jack Bystram,SUPERAGENT,68,['English'],41159,27f14337-61dc-48b9-bea6-62b630dee9a8,Associate Director,68
+309fd90e-6686-45d0-93e0-5ebbb47f7dca,Farid Balakishiyev,REGULAR,11,"['English', 'Russian', 'Azerbaijani']",41295,cdb105e3-631c-4ebb-818c-e9c873eb49d5,Real Estate Broker,11
+b6f8f4d6-f63e-4f97-b159-cd66726e5925,Brandon Burns,REGULAR,180,['English'],59578,744697e6-9519-489f-b6fe-05f8929e10da,Sales Consultant,180
+c27b0b64-792a-4d1a-9507-9236eda0f6da,Gaukharay Argimbayeva,SUPERAGENT,173,"['English', 'Russian', 'Kazakh']",57966,9e318416-6451-4033-9163-03869a0e077a,Property Advisor,173
+dd5ac203-24d2-4ec8-822a-3efbbb56e266,Izabela Matyjaszek,SUPERAGENT,865,"['English', 'Polish', 'German']",56635,ad10c756-c3f1-4e9a-a8e0-45bc18d2450a,Sales Consultant,865
+5ef3440e-04c0-4c13-ace2-f0581207b8f8,Jamie Holland,SUPERAGENT,626,['English'],45680,f8d41f35-673b-4c58-a1cb-3c462508c243,Private Client Advisor,626
+9e3348c3-1dba-4ec1-9873-f225d164b262,Jordan Blackwood,SUPERAGENT,227,['English'],43047,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Property Consultant,227
+9f5aa8d9-5dbe-44d7-96b0-1b9b6bbc2096,Elizabeth Juralbal,SUPERAGENT,987,"['English', 'Tagalog']",42061,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Senior Consultant,987
+7fdd9ff6-dc6b-413a-9c27-5fa426a43da0,Pravin Dayalani,SUPERAGENT,266,"['English', 'Hindi', 'Gujarati', 'Punjabi', 'Danish', 'Sindhi']",40024,2657b495-3b71-41af-9910-2bbab5ccd52e,Property Advisor,266
+c981fc97-71ef-43c2-9177-c459633683a8,Feraz Dany,SUPERAGENT,545,"['English', 'Arabic', 'Spanish']",27202,558711c1-4bdf-4635-999c-9faebcc91cad,Senior Property Consultant,545
+ef6dde42-ebcb-4ae5-b387-f710924de04d,Kirill Stogniy,SUPERAGENT,"1,213","['English', 'Russian', 'Ukranian']",55929,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+2ed7cf37-5345-4039-8260-2e02fa470d09,Thalhath Ashraf,SUPERAGENT,629,"['English', 'Hindi', 'Malayalam']",59253,98e094cb-3cf7-47ad-b811-b96ce37436e9,Property Consultant,629
+9898c800-5fe4-41ed-b861-52fd2c0890ca,Liam Cors,SUPERAGENT,"1,045",['English'],50860,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Client Manager,"1,045"
+96fbafd8-5f6a-470d-9c68-b1eb5e1a2f67,Lucy Church,SUPERAGENT,20,['English'],44950,cf47455f-301c-4d61-920f-22d99b00cb6d,Owner,20
+dfcd1892-e167-4b70-aa0f-c85cacf72945,Mohammed Sajeesh,SUPERAGENT,143,"['English', 'Hindi', 'Tamil', 'Malayalam']",22695,2545ebbf-2a6b-44ad-b9aa-bd1caa73046c,Private Client Advisor,143
+251d712e-f838-48f2-9715-ac30f86a1c14,Edouard Bertrand,SUPERAGENT,30,"['English', 'French']",46132,a27121fe-d451-4119-a11a-8399d18771c9,General manager,30
+ee93733d-8136-4c20-85eb-bdf9645a119b,Edward Harvey,SUPERAGENT,84,['English'],51630,d24f3781-13c6-48bd-a974-67ec8e2b8e50,CEO & Co-Founder,84
+ebe17c51-c37d-461a-9e96-ea67c9c3a7c6,Spencer Wills,SUPERAGENT,879,['English'],44470,4f869f17-f152-4f4b-b86d-62fb88503946,Senior Sales & Leasing Consultant,879
+6f60785c-fbe1-449e-8885-cebc9fd75e23,Hady Azrieh,SUPERAGENT,285,"['English', 'Arabic', 'French']",55184,a2d1326b-947b-4fe0-bda7-f9e8d58def0b,Senior Sales Broker,285
+da1b8510-8f8f-4308-bb42-de732e153aae,Robin Tanwar,SUPERAGENT,987,"['English', 'Hindi', 'Punjabi']",42644,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Consultant,987
+25e55254-574f-4958-924b-857d5f60532b,Sivashni Kumari,SUPERAGENT,180,"['English', 'Hindi', 'Urdu']",45739,8d5eeb60-d51f-4399-849c-83237367c6ef,Property Advisor,180
+910f0ec2-b0c2-4455-8cfb-d8d2e3714ae8,Kieran Scarth,SUPERAGENT,91,['English'],42734,7ccb69d8-e9fc-4163-87f4-01f2e16c298c,Property Consultant - Allsopp & Allsopp,91
+2650eb59-c8af-492e-aaf1-dff0ac2c4684,Jack Evans,SUPERAGENT,68,['English'],58321,27f14337-61dc-48b9-bea6-62b630dee9a8,Sales Consultant,68
+4a6b2b93-e0d9-42a4-897c-ddd7bfbd8341,James Walsh,SUPERAGENT,221,['English'],24934,2482cf4e-e330-44f4-a95c-5de3fa4f36af,Senior Client Manager,221
+e015d82a-6a04-466b-9568-dc02aac6813a,Tessa Smart,SUPERAGENT,94,['English'],55276,aeab4bac-1a34-450a-b27e-0c280b08753b,Sales Consultant,94
+0bd537b4-6c8f-4740-9885-feaafb96b63b,Florencia Lacase,SUPERAGENT,85,"['English', 'Spanish']",57407,cc19acee-2f9e-4133-a1ef-7d430a6d708c,Real Estate Consultant,85
+2090738c-92b9-4507-af85-53db2fa3c457,Jad Demian,SUPERAGENT,987,"['English', 'Arabic']",55751,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Property Consultant,987
+6934b3bc-5aab-4f57-9ff7-35144a458c03,Mita Pawan Nagpal,SUPERAGENT,33,"['English', 'Hindi', 'Gujarati']",42982,0e5ecfa1-561c-436b-b081-7e059591d53c,Client Manager,33
+0b8305fa-3eea-4130-b133-e6040a5ea433,Edkar Abboud,SUPERAGENT,63,"['English', 'Arabic', 'French']",39715,b187db27-274c-4271-a204-42a2a5e0e4ef,Sales Manager,63
+3df894fa-46da-4be8-abb7-45704aba0e60,Odinma Uraih,SUPERAGENT,253,['English'],53622,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,Property Consultant,253
+71c62852-95c7-4294-9387-db14292a98ce,Ali Arikat,SUPERAGENT,545,"['English', 'Arabic']",44075,558711c1-4bdf-4635-999c-9faebcc91cad,Senior Property Consultant,545
+a5586913-472f-4637-b939-062c02dbc1d0,Sinan Agbulut,SUPERAGENT,879,"['English', 'Turkish']",54795,4f869f17-f152-4f4b-b86d-62fb88503946,Sales Consultant,879
+a4ebc0be-6bc9-4ad1-83a5-d7fdb16c2f37,Ahmed Elsayed,SUPERAGENT,67,"['English', 'Arabic']",41895,c21aaec6-49ad-4161-a410-c26e33dd55ca,Private Office Advisor,67
+bcf9e1bb-11fd-4166-9b67-553f4272f1a2,Olga Pikina,SUPERAGENT,"1,272","['English', 'Russian', 'Ukranian']",33571,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Senior Consultant,"1,272"
+254f475a-d12c-4703-9af3-be7e7df87dee,Waqar Ahmed,SUPERAGENT,261,"['English', 'Arabic', 'Urdu', 'Pashto']",45103,eca72be7-fbfb-47ff-b08f-ce783ff02db6,Associate Director,261
+6d045a69-b441-4e3b-bd08-69a8d002bbf5,Tiago Cunha,REGULAR,533,"['English', 'Spanish', 'Portuguese']",46251,bc5c7505-22b4-4826-a41e-b762c3760d8f,Sales Consultant,533
+a4e308af-56c9-4362-afd8-f4b8f64fa2d6,Marcus ODonovan,REGULAR,180,['English'],43131,744697e6-9519-489f-b6fe-05f8929e10da,Senior Sales Consultant,180
+dd9a9f95-4a02-4f7a-9810-e7517ece5377,Lisa Woods,SUPERAGENT,129,['English'],58806,a09cfef4-7521-4fc8-a654-a167c0fe53cb,Property consultant,129
+6b1e12b2-3ded-426a-b14a-3148476d55c9,Joshua Aaron Nairn,SUPERAGENT,865,['English'],53468,ad10c756-c3f1-4e9a-a8e0-45bc18d2450a,Sales Consultant,865
+d21b39e4-d420-4b2f-b26e-acb1bd53a77b,Yasin Jafari,REGULAR,68,"['English', 'Persian/Farsi']",45842,27f14337-61dc-48b9-bea6-62b630dee9a8,Property Consultant,68
+ebd0e21e-a35a-4aee-bae1-83cf0cdd330a,Serghei Gotco,SUPERAGENT,82,"['English', 'Russian']",44860,50388ccd-5506-458f-a135-13f4e46f4ee1,Broker,82
+7a6067b3-d251-4dfb-bdeb-2e175ff8b068,James Bloor,REGULAR,253,['English'],,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,Property Consultant,253
+6c90df99-987b-4fc8-8899-bab2ae877b22,Sushma Shetty Adams,SUPERAGENT,286,"['English', 'Hindi']",53047,42dbae10-bd80-4cfa-8453-f787656f41e6,Property Consultant,286
+7e4fcd74-660a-4bd6-bc16-44c9f3bb5839,Luke Woodland,REGULAR,180,['English'],59483,744697e6-9519-489f-b6fe-05f8929e10da,Sales consultant,180
+dc9275e3-3083-4a06-887c-d34b932f5471,Farah Ali,SUPERAGENT,"1,045","['English', 'Hindi', 'Urdu']",31922,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Platinum Agent,"1,045"
+ebcd9592-aa11-4c73-8f5f-c97d70b5ee95,Mohamed Azmie Mohamed Ariff,SUPERAGENT,266,"['English', 'Tamil', 'Sinhalese']",30862,2657b495-3b71-41af-9910-2bbab5ccd52e,Real Estate Investment Advisor,266
+91d6afcc-ccde-40b3-b1ea-73bc2a666818,Nathan Blake,SUPERAGENT,68,['English'],46187,27f14337-61dc-48b9-bea6-62b630dee9a8,Senior Emirates Living Specialist,68
+d6ee714e-3b43-4900-8c95-c37b08e24849,Natalya Sirkina,SUPERAGENT,266,"['English', 'Russian']",39566,2657b495-3b71-41af-9910-2bbab5ccd52e,Property Advisor,266
+2c594884-b307-4e26-a272-95f1fdcdcbad,Kai Camfield,SUPERAGENT,180,['English'],45649,744697e6-9519-489f-b6fe-05f8929e10da,Senior Sales Consultant,180
+3dceb231-db7c-4610-990f-f288a9417aaa,Nareen Al Harbi,SUPERAGENT,153,"['English', 'Arabic']",48916,8ab691ce-e2e1-4581-af65-4ae2830ae5a9,Property Consultant,153
+a7a174e5-74ca-4515-80d2-93abee43e62a,Victor Danu,SUPERAGENT,865,"['English', 'Russian', 'Romanian']",27310,ad10c756-c3f1-4e9a-a8e0-45bc18d2450a,Sales Consultant,865
+d4b2f20e-3ca7-47e8-a258-081605d3b508,Vanessa Baydoun,REGULAR,253,"['English', 'Arabic', 'French']",,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,Property Consultant,253
+ded00ed3-1902-4850-9531-939eeb4e588f,Elie murr,SUPERAGENT,149,"['English', 'Arabic']",37494,543c74e4-3e54-4983-a10e-d8a57f5031d8,Senior Property Consultant,149
+80adc01a-4a8c-4c8f-8285-0e2e0c5e912d,Sharfuddin Mohammed,SUPERAGENT,865,"['English', 'Hindi', 'Urdu', 'Punjabi']",23698,ad10c756-c3f1-4e9a-a8e0-45bc18d2450a,Sales Consultant,865
+1268a60a-93a5-4b54-9412-dd0677f90643,Rami Arabi,SUPERAGENT,266,"['English', 'Arabic']",33448,2657b495-3b71-41af-9910-2bbab5ccd52e,Real Estate Advisor,266
+d44fee6e-b45a-4220-8978-83cc8d9ac957,Alla Trenina,SUPERAGENT,191,['English'],57975,a5a0c181-9e0b-490b-83dc-51649dbcbf9b,Property Advisor,191
+37e16764-2ede-44de-80f3-8c52d14cd3bb,Abdelkarim Ghaizi,SUPERAGENT,362,"['English', 'Arabic', 'French']",56722,47b9c4eb-7117-4702-81d3-1c8733668357,Senior Property Consultant,362
+bca78ed8-cdd1-45ce-828a-57c19b65be2f,Chris Lieb Van Wyk,SUPERAGENT,227,"['English', 'Afrikaans']",51577,0b9f1c3d-d505-461b-90e7-eaf677837272,Private Client Advisor,227
+a67422ae-ed2e-4a67-8d3e-ffc5f1b0a4ae,Archie Adams,SUPERAGENT,"1,272",['English'],47432,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Sales Consultant,"1,272"
+874e5cc1-8e51-4021-a465-ef54b61cfab5,Catherine Emma Earl,SUPERAGENT,865,['English'],55968,ad10c756-c3f1-4e9a-a8e0-45bc18d2450a,Sales Consultant,865
+70743a4f-73ea-4241-b603-299a4239c501,Livia Cotescu,SUPERAGENT,309,"['English', 'Spanish', 'Romanian']",47363,a1014eec-dc0e-4c56-a8df-48be312681ef,Sales & Leasing Consultant,309
+9bf836d2-873a-460d-b2d8-197660d2919f,Charlie Serjeant,SUPERAGENT,298,['English'],54210,90b8f4a2-4779-4ab4-91c2-ef901f3e2fc9,Property Consultant,298
+34a87c7e-9f4e-4185-a462-5ccb44c3d858,Jordan Richards,SUPERAGENT,"1,272",['English'],48992,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Sales Consultant,"1,272"
+ceedd8bc-07b3-4cd9-aeac-45cf5b7b6192,Moiz Hakim,SUPERAGENT,106,"['English', 'Hindi']",59334,44cddb58-35cb-43e1-8a0c-afeb0843e44a,Client Manager,106
+e53c3dea-3a12-4045-b6c4-6cf4a5f632c8,Hannan Khan Ayubkhan Pathan,SUPERAGENT,367,"['English', 'Hindi', 'Urdu']",47813,cb12c1df-9918-4cfc-9b77-d9d8f396346d,Sales Manager,367
+f385b566-e727-445a-ab57-818c4a900791,Orlando Arbutina,SUPERAGENT,105,"['English', 'Croatian', 'Spanish']",50123,971d8671-24be-4a7d-849f-4fd195722a8c,Senior Client Manager,105
+39c20df2-e5d9-46b9-bd7a-eaa635c3cb5f,Akylbek Akimov,SUPERAGENT,"1,213","['English', 'Russian', 'Kyrgyz']",36491,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+69958844-f431-462b-b2a4-5ad52e697b6c,Muhammad Mohsan,SUPERAGENT,"1,213","['English', 'Urdu']",40268,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+e1dd5b5a-c14c-4878-9056-cddf44bef367,Daniel Barcz,REGULAR,227,['English'],51610,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Property Consultant,227
+5300b628-01ba-49c3-bd3a-ecd844651367,Connor Roberts,SUPERAGENT,"1,272",['English'],47381,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Sales Consultant,"1,272"
+3addb2cf-c6d4-4f35-b61b-5c8932574dce,Junaid Ahmed,SUPERAGENT,181,"['English', 'Urdu']",23272,a478db64-aa3b-4068-925d-ecb31e6d08de,CEO,181
+76184d03-7fe8-4b63-af13-d6305cda0e9b,Ana Carolina Oliveira,REGULAR,118,"['English', 'French', 'Spanish', 'Portuguese']",37252,29b0fac8-43af-478c-a67d-7e91c51fd53b,Real Estate Investment Advisor,118
+3931ae76-59d0-465c-bc74-8ed83d9c98d5,Muhammad Shahmir Hasnain,SUPERAGENT,46,"['English', 'Hindi', 'Urdu']",55205,8cc5d9c0-d2fd-4628-9c8e-9b5cf9d032e9,Property Consultant,46
+76b8dce8-eb83-4cd7-9951-db5430791dbc,Conor McElhinney,SUPERAGENT,"1,396",['English'],40807,443fab0c-2b26-414b-a798-c3d1a527b093,Principle Sales Broker,"1,396"
+6a7d52c0-3c08-435d-b6cc-3c24393b32dc,Dib Oueidat,SUPERAGENT,987,"['English', 'Arabic']",47846,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Consultant,987
+21f40237-0167-4eb5-82ca-883691430d0b,Jade Tyler,SUPERAGENT,253,['English'],55275,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,Sales Consultant,253
+7a45dc37-f61a-4683-9798-9c6d09566fd2,Subhan Butt,SUPERAGENT,272,"['English', 'Hindi', 'Urdu', 'Punjabi']",42294,1418ff3b-294b-441a-9c1f-cb6fb0bd35ec,Sales Director,272
+bc71e416-43af-442f-bf7d-f3b34bcdbc35,Andrie Jackel,SUPERAGENT,227,"['English', 'Afrikaans']",43157,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Sales Director & Partner,227
+b61e80cc-803b-47ee-801b-9bf2299cc20e,Elliot Longworth,SUPERAGENT,180,['English'],54215,744697e6-9519-489f-b6fe-05f8929e10da,Sales Consultant,180
+aebb9b14-965a-4d75-8cdb-8cb242304525,Kirsty Rands,SUPERAGENT,253,['English'],55365,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,Property Consultant,253
+d12796e9-ba14-4539-8c25-2b8b679b1000,Jessica Roberts,SUPERAGENT,298,['English'],48562,90b8f4a2-4779-4ab4-91c2-ef901f3e2fc9,Property Sales Consultant,298
+a55bfe24-bf52-460f-a395-a6f9fafd8662,Joelle Raad,SUPERAGENT,117,"['English', 'Arabic', 'French']",37662,9568ab14-f2e5-4cf2-b53e-49c35a51f952,Associate Director,117
+cb9935aa-9f88-40b8-aae7-45e387081204,Danny Abraham,SUPERAGENT,"1,045",['English'],36810,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Associate Director,"1,045"
+ef48603c-1c68-4150-84c3-753e330db993,Maneesh Mulani,SUPERAGENT,128,"['English', 'French', 'Hindi', 'Gujarati', 'Punjabi']",29782,bebf29aa-ea58-4cd6-9ea4-900585488cdc,Managing Director,128
+b2932339-e754-4ee3-bff8-54f9b93e01cb,Nataliia Butrik,SUPERAGENT,"1,213",['English'],45759,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+00d2603d-1c42-4a9e-b873-ea4de602ebbc,Kian O Neill,SUPERAGENT,584,['English'],55829,803ce959-46ba-40fb-b253-52da9718a52a,Property Consultant,584
+c8fa3fd0-bfde-4106-afb1-120dcf041176,Peter Blenman,SUPERAGENT,"1,272",['English'],37900,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Senior Consultant,"1,272"
+38e0f95a-eb38-475b-9afa-cc50f227c4f9,Sarah Asma Nfidsa,SUPERAGENT,362,"['English', 'Arabic', 'French', 'Spanish']",54575,47b9c4eb-7117-4702-81d3-1c8733668357,Property Consultant,362
+7650a27a-ec08-4674-886d-81c8cf75002e,Youssef Sbeity,SUPERAGENT,987,"['English', 'Arabic']",53840,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Consultant,987
+64d88ee6-1d92-4771-9b98-181720d90864,Adam Lewis,SUPERAGENT,"1,045",['English'],43939,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Senior Client Manager,"1,045"
+cf02f1ae-027a-43d1-8042-67db426b0b8e,Kamia Amarnani,REGULAR,30,"['English', 'Hindi', 'Urdu']",52599,92eb8396-b231-4fca-8b6b-2d06636fb21f,Property Consultant,30
+bd8b4e65-662c-4881-9a09-4e347600f672,Eugen Marder,SUPERAGENT,180,"['English', 'German', 'Russian']",36760,d2780db6-f83c-4370-ab83-daef491239c3,Managing Director,180
+40328187-d514-4b47-be18-9cb242527175,Mohamed Alfakir,SUPERAGENT,987,"['English', 'Arabic', 'Greek']",6819,9d759023-4f59-4a9d-9f9a-8088ff172ab3,CEO,987
+26145527-05e6-461e-9470-b7b5c97e0ebb,Benjamin John Baker,SUPERAGENT,309,['English'],46725,a1014eec-dc0e-4c56-a8df-48be312681ef,Sales and Leasing Consultant,309
+8cdbfae9-2b2b-4f1b-8ba8-cbf230771ebc,Taous Ait Yahia,REGULAR,465,"['English', 'Arabic', 'French']",22265,c1b07e4c-4116-4ba4-8ac1-fd845e605a85,Villanova Specialist,465
+437a5f8e-4ed0-4306-90f9-62b4d3dc12e6,Haider Abbasi,SUPERAGENT,420,"['English', 'Hindi', 'Urdu', 'Punjabi']",45926,cbc58ee9-9638-441b-b10f-da96fa96356c,Property Consultant,420
+a682e623-0072-4a2c-9753-cebc6ab193d7,AZCO Real Estate Brokers (LLC) - Lease JVC - 7,REGULAR,187,"['English', 'Hindi', 'Tamil', 'Malayalam']",,34b01008-7341-438c-be10-d54bc1963790,Property Consultant,187
+59814461-eaff-45d4-b68f-077a2c14a145,Dainius Gudauskas,SUPERAGENT,191,"['English', 'Lithuanian']",55223,a5a0c181-9e0b-490b-83dc-51649dbcbf9b,Property Advisor,191
+a687ebc0-28fa-46fc-9dd9-8c96f4f2945a,Adam Mcleland,REGULAR,130,['English'],59324,56ed50ed-4025-4b29-82ef-f1f8f1e98b05,Real Estate Consultant,130
+9c2fe3f4-5cd9-4333-99ef-eec3fb7b4760,Matthew Solomon,SUPERAGENT,"1,272","['English', 'German']",37227,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Palm Jumeirah Sales Team Manager,"1,272"
+0150502c-78e2-4dfe-a7d5-9e9737e6d73e,Mohamed Ouajdi,SUPERAGENT,987,"['English', 'Arabic', 'French']",52242,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Property Consultant,987
+d8502718-2c6f-4823-8ea7-fc85ba438f63,Claire Rainey,SUPERAGENT,"1,396",['English'],58913,443fab0c-2b26-414b-a798-c3d1a527b093,Property Broker,"1,396"
+86dc44be-04de-4b01-8ecc-ac9601e6ae33,Adel Ali Alhamwi,SUPERAGENT,7,"['English', 'Arabic']",49659,ea76e96b-b496-40c6-88e9-e43eff54158e,ADMINISTRATION MANAGER,7
+3e6184a6-056d-4871-bab3-9ca40fb02f03,Jassim Ameer,REGULAR,924,"['English', 'Hindi', 'Urdu', 'Tamil', 'Malayalam']",12108,13811c85-1501-49cc-8937-64a5b5890401,Property Consultant,924
+bf39dcd9-cd74-4805-8a66-0e585054ef0d,Shiras Sulaiman,SUPERAGENT,7,"['English', 'Arabic', 'Hindi', 'Malayalam']",31772,6a5bb812-1832-49a6-a1f4-8c770389114f,Managing Director,7
+30934ce0-cac4-4c0b-bd0e-31a377cfc68e,Leigh Wilmot,SUPERAGENT,227,"['English', 'Afrikaans']",46462,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Area Manager,227
+357428ec-62ab-4e06-9b11-d174e5610f47,Annabelle Acomb,SUPERAGENT,397,['English'],54923,b69bd112-07e0-469d-ba04-d321a0e13d06,Sales Associate,397
+dbe2481b-0451-49f9-8856-e226bde0e977,Sameer Nagpal,SUPERAGENT,71,"['English', 'Hindi', 'Punjabi']",56584,317fef56-509a-4074-8483-4e43cd4add40,Property Advisor,71
+6f6c2eae-f9cf-4958-915d-60c99cc13d08,Hanieh Deylami,SUPERAGENT,117,"['English', 'Persian/Farsi']",38948,9568ab14-f2e5-4cf2-b53e-49c35a51f952,Executive Partner,117
+29f729da-011a-4604-91c3-fdec3da10a7d,Zeeshan Raheem,SUPERAGENT,339,"['English', 'Urdu', 'Punjabi']",53494,427861b8-1ece-410d-bf25-d6a570593d95,Sales and Leasing Manager,339
+42e40be1-ad5a-4466-94bd-3cc219d3f78b,Anton Qubrosi,SUPERAGENT,227,['English'],51627,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Property Consultant,227
+cf91bcf3-edcb-4366-8b1b-f930c1a219bf,Ahmed Sonbal,SUPERAGENT,284,"['English', 'Arabic']",54931,bee0ae89-aee4-420c-ad62-d2dc9b283e9e,Real Estate Agent,284
+6e45e058-0619-4968-b1aa-524a691b723d,Oleksii Horbachov,SUPERAGENT,"1,213","['English', 'Russian', 'Ukranian']",54730,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+99d6030f-c929-4e21-b1dd-ddf71b5d9337,Zeena Dsouza,SUPERAGENT,52,"['English', 'Hindi']",32930,dd974c21-cfc0-4320-9f81-2a23c5530041,Sales Manager,52
+c8f36c75-5bbf-435c-9d68-ae4e3c7010ad,Olivia Allen,REGULAR,253,['English'],54871,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,Property Consultant,253
+dcf1de62-ac39-4cf4-945b-0417f805908e,Mariam Abbas,SUPERAGENT,103,"['English', 'Arabic']",53255,84fe3d61-ac6a-4388-95b7-c93365cb29fb,Property Consultant,103
+252369d1-2fb7-44af-a583-4593ea1375b0,Samer Jammal,SUPERAGENT,22,"['English', 'Arabic', 'French']",32345,81c67d44-ab7c-4783-a3c1-755354061749,Managing Director,22
+e7639143-4f85-4a3a-82f5-27d4a1f503b0,Orhan Ipekcioglu,REGULAR,66,"['English', 'German', 'Turkish']",54341,04f4accf-e483-49b0-ba4e-6f3a1a87a771,Real Estate Broker,66
+0b45c7e3-52b0-4202-a70b-166badac37b3,Ali Ehsan Barakat,SUPERAGENT,420,"['English', 'Arabic']",56749,cbc58ee9-9638-441b-b10f-da96fa96356c,Property Consultant,420
+8f7d00fd-7c1f-4048-8ece-6217202de0cd,Edina Julia Forgo,SUPERAGENT,"1,393","['English', 'Hungarian']",55122,dd7cf045-aab3-422a-970d-b96e298f4781,Dubai Marina Specialist,"1,393"
+5a57bffc-fad2-4f88-bee6-667a886c8595,Haitham Aboassy,SUPERAGENT,266,"['English', 'Arabic']",46882,2657b495-3b71-41af-9910-2bbab5ccd52e,Property Advisor,266
+75b9ab56-dd22-44ea-9e07-cdbb049986f5,Samarth Patel,SUPERAGENT,143,"['English', 'Hindi', 'Gujarati']",54075,c189517f-c482-4547-87be-d0f6f713cdad,Real Estate Consultant,143
+6a3c2655-d736-48f2-b14d-7081638cc75f,Luke Styles,REGULAR,253,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Allsopp & Allsopp - Motor City Sales,
+aed9ed86-d410-4f2b-8712-77320e3d35e3,Katerina Pasat,SUPERAGENT,118,"['English', 'French']",47830,29b0fac8-43af-478c-a67d-7e91c51fd53b,Real Estate Investment Advisor,118
+4a14b39c-c12d-48d8-b2d8-a3927b1f69d1,Alexandra Rumenova Taneva,SUPERAGENT,387,"['English', 'Spanish', 'Bulgarian']",48441,a507ffd3-603b-4f0c-a8fe-49030c8029b5,Property Consultant,387
+19bf1c31-440c-4575-890d-3c826a1275cc,Adrian Shillingford,REGULAR,"1,272",['English'],40929,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Emirates Living Team Manager,"1,272"
+666e8360-10c6-467a-b9fe-43a2259727fc,Karla Blanka Macasaet Martin,SUPERAGENT,89,"['English', 'Tagalog']",37944,347d5f27-28fb-46cf-a0e9-8131be1786ae,Managing Director,89
+d1f5384e-2cbd-4321-b94e-de4dc651b75b,Maria Valmocena,SUPERAGENT,924,"['English', 'Tagalog']",56510,13811c85-1501-49cc-8937-64a5b5890401,Property Consultant,924
+6aa2039b-7161-41a6-a93f-6bcb5ce52a0b,Hannah Darby,REGULAR,"1,272",['English'],46082,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Senior Consultant,"1,272"
+15eb42e7-7d2c-465b-b572-4204d7fb4228,Zeina Khoury,SUPERAGENT,63,"['English', 'Arabic']",26255,b187db27-274c-4271-a204-42a2a5e0e4ef,CEO,63
+6befb9d9-2a99-4d91-b39c-2eac6a869882,Imran Abu Bakar,SUPERAGENT,102,"['English', 'Hindi', 'Urdu']",46515,42bc96fd-d85e-4079-8639-076e77a6245b,Agent,102
+3593aa55-dd47-4828-9892-b5aa3b1ca602,Ibrahem Saleh,SUPERAGENT,27,"['English', 'Arabic']",59707,abddfc6e-b08b-4e5f-91c8-c6f6caee2be0,Agent,27
+4bb82f78-2066-435b-bc43-b48d498cfd9d,Rahul khushalani,REGULAR,173,"['English', 'Hindi', 'Telugu']",54294,9e318416-6451-4033-9163-03869a0e077a,Agent,173
+52413a48-b2ee-465a-95a8-5136809d4334,Bahjat Joubi,SUPERAGENT,266,"['English', 'Arabic', 'French']",59551,2657b495-3b71-41af-9910-2bbab5ccd52e,Property Advisor,266
+4fc9959e-359d-4189-8ec3-9d08de4a0d6c,Muboriz Saidasanshoev,REGULAR,256,"['English', 'Russian']",58404,d376f2c6-e059-4aea-8d40-5c8d631ffb21,Property Advisor,256
+84c1639e-b3fe-4dac-83f8-ff390c776cd8,Bhavendeep Shanker,SUPERAGENT,615,"['English', 'Punjabi']",55754,40a96d9c-1afb-4452-9ed6-0fc6c6e66a81,Leasing Consultant,615
+8de2a7ff-e87a-40e3-b44d-cccb7e82ee79,Thomas Anderson,SUPERAGENT,"1,045",['English'],57000,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Client Manager,"1,045"
+78503e24-524e-4769-bc00-fed5b6ef52fd,Lewis Dudley,SUPERAGENT,879,['English'],46729,4f869f17-f152-4f4b-b86d-62fb88503946,Property Consultant,879
+d172a31b-6d7f-42a2-9cd6-024c19d39c4d,Chloe Newcombe,REGULAR,227,['English'],53437,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Property Consultant,227
+21d18a61-8549-4fb0-b3d6-d9acddc00c95,Robbie Blair,SUPERAGENT,326,['English'],52619,12d7c8bd-80a6-4e12-9ce4-d112e06fa5bc,Marina Sales Area Manager,326
+e06020a6-8c40-4538-8010-7a2b61f7def5,Alexandar Varghese,SUPERAGENT,655,"['English', 'Russian', 'Hindi', 'Malayalam']",45793,da41dceb-187e-4723-a071-55d52a6213ad,General Manager,655
+a76e5e1d-086c-4a8d-ba64-ccedd974e9a8,Mounia Tallou,SUPERAGENT,879,"['English', 'Arabic', 'French']",56976,4f869f17-f152-4f4b-b86d-62fb88503946,Agent,879
+1c20cddb-bf48-4818-a049-f7ae9d62d48e,Alex Calamari,SUPERAGENT,"1,045",['English'],52159,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Client Manager,"1,045"
+6bc19f7c-a0f6-43b4-bbd5-ed727832c370,Ward Abdlhafiz,SUPERAGENT,79,"['English', 'Arabic']",,c5c0317a-c1be-4afc-ac4b-a5e6356f9e2a,Senior Sales Consultant,79
+efb5e314-3971-4dc0-9b9b-ceb9f45b08db,Ellie Street,REGULAR,15,['English'],44382,2e888117-7c5d-4aa5-b157-219d76cd1909,Senior Property Advisor,15
+44c8260b-520f-47b7-85ed-2a039844c6c0,Mohamed Elbeledy,SUPERAGENT,25,"['English', 'Arabic']",49621,d5f0a8e1-1d1a-443b-bd39-d197516faeeb,Team Leader - Luxury Property Sales,25
+54b5829b-b47d-49da-baca-7ec261eb756f,Lewaa Ghraizy,SUPERAGENT,35,"['English', 'Arabic']",52790,f2b0b798-ce6e-477d-a9a7-91eb96bbd576,Sales & Leasing Conusultant,35
+caa58f88-0cd0-455f-b8bc-9446140bdd43,Raef Mousa,SUPERAGENT,265,"['English', 'Arabic']",48704,820cf849-a702-43a3-b7aa-3d464a90db36,Client Manager,265
+1039e58f-abb0-463b-9347-7704dace52aa,Joseph Hoskins,SUPERAGENT,129,['English'],56911,32c7bfdb-577b-40bb-ac14-ab5d2607bf31,Property Consultant,129
+721b5275-aa78-4c43-83bb-2914054bf42d,Chathuranga Buddhika Wijenayaka,SUPERAGENT,154,['English'],58600,cb5e8b38-ead1-42a3-86cc-01c6934146a2,Listing Manager,154
+f4bc7ea1-62fc-412d-9aa2-4e527442a45a,Vadym Bikerskyy,SUPERAGENT,235,"['English', 'Russian', 'Spanish', 'Ukranian', 'Catalan']",48636,bd9719ba-cd16-4b9f-aa30-c3bb46ad873a,Senior Property Consultant,235
+40bb7a1f-1f7e-4275-9d5c-2b68619decbc,Roshan Shah,REGULAR,253,['nan'],,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,Sales Consultant,253
+70c64220-f25f-4c25-9838-0c28ec26fa9c,Rizwan Khan Omer,REGULAR,40,"['English', 'Hindi', 'Urdu']",32009,d090e6bf-8f86-4cf0-945b-d5dc5a7b355c,Senior Heading Sales,40
+c1a41a6c-e8e6-4b70-86d1-65c4253df4ec,Winston Harrison,SUPERAGENT,"1,272","['English', 'Thai']",53265,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Sales Consultant,"1,272"
+2916fb4b-a789-47be-9618-e3de89dfd605,Imrann Nawab,SUPERAGENT,300,"['English', 'Hindi']",12258,08019031-1705-46c9-8f3b-abecc93cda8a,Associate Director,300
+6cd57619-1998-4048-8b16-703b0f006b88,Khagendra Handa,SUPERAGENT,200,"['English', 'Hindi', 'Punjabi']",48884,18e79f86-1fd9-476a-903a-27956944310c,Sales Manager,200
+d8658f81-8bd2-4649-8220-6cacbd458acb,Bankul Guglani,SUPERAGENT,29,"['English', 'Hindi', 'Punjabi']",44836,c1b83feb-1c8c-4f96-8476-898cf05b4e68,Property Investment Advisor,29
+7c71ea99-6c8c-4094-87a2-4702452a80e7,Mehron Mashayekh,SUPERAGENT,"1,272","['English', 'Persian/Farsi']",52384,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Sales Consultant,"1,272"
+e989fed3-dff4-4241-b5af-3e63177dbbbb,Josh Buckle,SUPERAGENT,253,['English'],50719,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,Property Sales Consultant,253
+55643eb4-3701-49f8-81f5-88c6cb26657c,James Casserley,SUPERAGENT,265,['English'],57664,820cf849-a702-43a3-b7aa-3d464a90db36,Client Manager,265
+6fb36bdd-0f7b-489b-b4f0-0f33ceb4ef58,Megan Acomb,SUPERAGENT,397,['English'],54909,b69bd112-07e0-469d-ba04-d321a0e13d06,Sales Associate,397
+5131a416-01ed-4f20-b52f-7c6760d477ed,Russell Wilson,REGULAR,68,['English'],46332,27f14337-61dc-48b9-bea6-62b630dee9a8,Property Consultant,68
+e2e5d4c4-6c3a-4ea1-bb71-806e8da5755a,Callum Doherty,SUPERAGENT,"1,272",['English'],50484,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Sales Consultant,"1,272"
+21a45bd9-1f43-4095-9b3e-9ae391bf41b5,Raisa Bajerean,SUPERAGENT,265,"['English', 'French', 'Russian', 'Romanian']",38864,820cf849-a702-43a3-b7aa-3d464a90db36,Client Manager,265
+7112670a-6828-4a05-9a9d-9c340e8dbb54,Wisam Eitouni,SUPERAGENT,191,"['English', 'Arabic']",50548,a5a0c181-9e0b-490b-83dc-51649dbcbf9b,Real Estate Consultant,191
+7d073191-5afa-4744-8abe-588c67a1ae4b,Tom Rees,SUPERAGENT,"1,045",['English'],45971,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Senior Client Manager,"1,045"
+1c20524a-de3c-47f8-bdc2-5998e5b65386,Vicky Bhambhani,SUPERAGENT,655,"['English', 'Hindi']",51144,da41dceb-187e-4723-a071-55d52a6213ad,Sales and Leasing Consultant,655
+4350589d-f2d8-42e5-8bb1-ca77b0987e9e,Rafat Al Atassi,SUPERAGENT,20,"['English', 'Arabic']",43134,f0efd81a-0b4e-4e25-9ff6-dbece8892247,General Manager,20
+0e5adfbe-43af-48eb-bf13-971b61d78050,Mohammad Mustafa,SUPERAGENT,987,"['English', 'Arabic']",34544,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Property Consultant,987
+0b6d4b76-9167-40af-9f6d-8c7d519c6f13,Aasim Rady,REGULAR,143,"['English', 'Arabic']",25513,c189517f-c482-4547-87be-d0f6f713cdad,Sales and Leasing Director,143
+dbd51d18-2634-448b-88a0-a5d6f21c2a18,Ahmed El-Sebaey,SUPERAGENT,283,"['English', 'Arabic']",,6f3e8a28-b15a-48d8-ae5d-c73e24a57093,Sales Manager,283
+d433a716-eae8-4457-a651-1d948da7d76b,Halima El Maaroufi,REGULAR,13,"['English', 'Arabic', 'French']",25789,bc2389ba-adc8-440a-8413-a52c024b716f,Senior Real Estate Consultant,13
+4872692f-bb99-4867-8b21-e3bf47d78d0d,Farrah Bukhari,SUPERAGENT,200,"['English', 'Hindi', 'Urdu']",44493,18e79f86-1fd9-476a-903a-27956944310c,Property Consultant,200
+d1f7d48b-8a84-4115-bc4e-008fe3960ada,Aya Yasser,SUPERAGENT,79,"['English', 'Arabic']",,c5c0317a-c1be-4afc-ac4b-a5e6356f9e2a,Sales and Lease Consultant,79
+0d03ec23-9348-4e7c-9203-190cd1231c13,Ivonne Perez,REGULAR,24,"['English', 'Spanish']",29900,ec2f538e-4021-4f51-a586-df81f082d3a9,Operations Manager,24
+83edad55-40e6-4260-a878-2da919135c85,Jack Holland,SUPERAGENT,94,['English'],59113,aeab4bac-1a34-450a-b27e-0c280b08753b,Property Consultant,94
+240cbdfa-b2a7-4eb1-a7d9-33b5b2653930,Nikhil Thakwani,REGULAR,137,"['English', 'Hindi', 'Urdu']",51449,2a370b43-67a8-4ba4-8e35-43c40cdfebdb,Investment Manager,137
+d3657a2d-c4fe-4da6-a228-945106fccce8,Roberto Perez Lorenzo,SUPERAGENT,"1,045","['English', 'Spanish']",29166,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Associate Director,"1,045"
+5ec1430a-282c-431b-b05b-a7e44769c147,Carine Damoo,SUPERAGENT,91,['English'],28282,7ccb69d8-e9fc-4163-87f4-01f2e16c298c,Associate Director,91
+872e698f-04a0-4f87-9569-47d7333f2686,Nawida Adel,REGULAR,95,"['English', 'German', 'Persian/Farsi']",58914,7e5f76d9-24ec-4a6f-b876-d8cebb34d9ca,Real Estate Agent,95
+9330b4fd-bfeb-4cd4-ad08-b8a10261b494,Zelia Dionisio,REGULAR,149,"['English', 'French', 'Spanish', 'Portuguese']",52099,543c74e4-3e54-4983-a10e-d8a57f5031d8,Property Consultant,149
+5535b52b-2cff-4ab9-86ae-b373630de8ba,Nadia Abdelaal,SUPERAGENT,307,"['English', 'Arabic']",,d09cdda7-5dda-4928-b0c8-856b407818a1,Senior Agent,307
+42cb54f7-0578-4637-ad42-3f8dab4c1b1e,Matthew Miller,SUPERAGENT,51,['English'],52673,8d5e2667-ef04-465d-adec-9d994334b375,Sales Agent,51
+27d0bfeb-b3dc-4fb9-833d-8766e1ad3fa4,Sherif Mohamed,SUPERAGENT,552,"['English', 'Arabic']",,c0436a41-74ca-4015-a858-02aa14258bba,sales manager,552
+f0149814-352b-4cf4-9e26-b3acd0b73d57,Mohamed Al Dmour,REGULAR,149,"['English', 'Arabic']",55571,543c74e4-3e54-4983-a10e-d8a57f5031d8,Property Consultant,149
+331a288a-330f-4013-858e-186c104a9ae0,Omar Bouhalloufa,SUPERAGENT,934,"['English', 'Arabic', 'French']",,624758d5-7008-4a02-bb26-799909a76aa2,sales manager,934
+3b7f83b2-4b44-4dd2-a527-99d2b042e570,Aurash Gashgaei,SUPERAGENT,52,"['English', 'Persian/Farsi']",46056,cea45209-0c33-450e-9eac-3f5bb07c0927,Property Consultant,52
+f192c48d-a6ff-4366-81ac-521d13188ff0,Harry Woods,REGULAR,129,['English'],48114,a09cfef4-7521-4fc8-a654-a167c0fe53cb,Property Consultant,129
+b6c3155e-6fc9-493c-a740-9079aa32c355,Saad Al Hossain,SUPERAGENT,285,"['English', 'Arabic', 'Hindi', 'Urdu', 'Bengali']",47975,a2d1326b-947b-4fe0-bda7-f9e8d58def0b,Senior Sales Consultant,285
+976f9686-bf4e-4077-9aa1-c8817b6346c2,Ranzen Daculog,SUPERAGENT,987,"['English', 'Tagalog']",58311,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Property Consultant,987
+02d887e2-8aa1-48b3-82f7-2ecd6cb98463,Lauren McCarthy,SUPERAGENT,"1,045",['English'],52433,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Client Manager,"1,045"
+7dcba8b9-8a8b-4a20-9966-764f09a07dc0,Ffion Morgan,REGULAR,253,['English'],55368,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,Property Consultant,253
+9814263a-8563-49e2-ae01-508c5dddc37a,Mohammed Leath Kalomar,REGULAR,533,"['English', 'Arabic']",53453,bc5c7505-22b4-4826-a41e-b762c3760d8f,Sales Consultant,533
+f46ee1a9-8981-44c3-9c54-5669af7b7e0a,Abdullatif Ahmad Husamo,SUPERAGENT,209,"['English', 'Arabic', 'Italian']",57674,cf218b1e-8eef-4fca-8ad8-2501cbdbc1c3,Residential Consultant,209
+f7636f80-4b76-4dd4-a52b-47fb21d145a5,Safeer Shamshuddin,SUPERAGENT,200,"['English', 'Arabic', 'Hindi', 'Malayalam']",55295,18e79f86-1fd9-476a-903a-27956944310c,Sales Manager,200
+5b4b3eec-1370-4534-af49-7b09b3ccd026,Paulina Mikowska,SUPERAGENT,50,"['English', 'Polish']",48391,6b53417b-a4b3-4e35-84cf-45c4e01a6f61,Luxury Property Advisor,50
+4c971f47-94aa-43a9-8d54-a78342bbe638,Harry King,REGULAR,"1,272",['English'],51086,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Sales Consultant,"1,272"
+52a5d489-4ef8-42ca-a91a-8859fc6d74ed,Ashish Mahajan,SUPERAGENT,128,"['English', 'Hindi', 'Punjabi']",43535,bebf29aa-ea58-4cd6-9ea4-900585488cdc,Property Advisor,128
+99062787-7e3c-4745-92da-e17e497a4de8,Liezl Lanuzo,SUPERAGENT,18,"['English', 'Tagalog']",50705,6fe7122a-2687-4115-bd87-734eb901e6ac,Property Consultant,18
+c96e2326-d019-4457-a958-e9d156fcc5ab,Arif Rubani,SUPERAGENT,132,"['English', 'Urdu']",49706,af1d3b9a-ab08-403e-ac7b-52183f637d1d,Investment Manager,132
+c5dc5631-92b6-4333-91bb-ef1bbe0821d2,Kate George,SUPERAGENT,"1,045",['English'],41669,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Senior Client Manager,"1,045"
+10ad5a2d-18a5-43c0-b787-cf23699a7543,Natalie Sinead Callaghan,SUPERAGENT,987,['English'],52243,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Director of Growth and Development,987
+3767c0b5-4ba7-4131-a26a-137d82148803,Imran Rafique,SUPERAGENT,293,"['English', 'Hindi', 'Urdu', 'Punjabi']",51606,7b2b4597-a0b0-427f-b10e-68d16c500b7e,Property Advisor,293
+010c9d96-4680-4972-bc01-ba2500c7400e,Oliver Cloake,SUPERAGENT,285,['English'],51573,a2d1326b-947b-4fe0-bda7-f9e8d58def0b,Senior Sales Consultant,285
+d6a41cf0-d11d-4b98-a061-239d752881f0,Nicholas Bailey,REGULAR,"1,272",['English'],48140,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Senior Sales Consultant,"1,272"
+4c325b21-5b05-46d9-b025-ca90fc47f8b9,Mohammed Sultan,SUPERAGENT,552,"['English', 'Arabic']",,c0436a41-74ca-4015-a858-02aa14258bba,Sales manager,552
+f3d9bee5-e330-49df-8917-3b870f0f9c0d,Sabir Karimli,SUPERAGENT,"1,045","['English', 'Russian', 'Azerbaijani']",47939,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Senior Client Manager,"1,045"
+e6e6f3aa-3898-459d-a41f-2551544984fc,Siham Channa,SUPERAGENT,200,"['English', 'Arabic', 'French']",50166,18e79f86-1fd9-476a-903a-27956944310c,Sales Manager,200
+d623bba5-e62b-49ec-a89f-afa6c920b36c,Yousef Monjazebi,REGULAR,130,"['English', 'Arabic']",47910,56ed50ed-4025-4b29-82ef-f1f8f1e98b05,Real Estate Consultant,130
+7e072bcf-e129-43ed-940e-807eb80afb32,Wasim H Almassri,SUPERAGENT,533,"['English', 'Arabic']",57767,bc5c7505-22b4-4826-a41e-b762c3760d8f,Leasing Consultant,533
+1b3ab6f6-2e47-4e8d-88da-30403c41d8ab,Aleksandra Mladenovic,SUPERAGENT,"1,213","['English', 'Serbian']",56036,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant - Downtown Dubai,"1,213"
+adaa27a3-bf46-4ff0-ae84-cc3df12a7f8a,Jamal Tuzgani,SUPERAGENT,68,['English'],30457,27f14337-61dc-48b9-bea6-62b630dee9a8,Springs Branch Director,68
+906a7ad2-1ae7-4968-b839-e6db3708f74b,Michelle Billing,SUPERAGENT,865,['English'],49418,ad10c756-c3f1-4e9a-a8e0-45bc18d2450a,Sales Consultant,865
+811e7b3a-b186-43ae-9e3e-c16e583e82ee,Yvonne Hunter,SUPERAGENT,362,['English'],4272,47b9c4eb-7117-4702-81d3-1c8733668357,Property Investment Manager,362
+3e7c4b1d-53a4-4f75-a1c7-12c23c7f33c9,Muhammad Shavkatbekov,REGULAR,149,"['English', 'Russian', 'Turkish']",57994,543c74e4-3e54-4983-a10e-d8a57f5031d8,Property Consultant,149
+e6d8a72d-1e60-4057-874b-4f9d56fa8278,Usman Adrees,SUPERAGENT,95,"['English', 'Hindi', 'Punjabi']",42653,7e5f76d9-24ec-4a6f-b876-d8cebb34d9ca,Sales Manager,95
+a6e630cc-6d19-497b-bce9-8114911d2cdd,Tamer Hegab,REGULAR,13,"['English', 'Arabic']",22378,bc2389ba-adc8-440a-8413-a52c024b716f,Senior Property Consultant,13
+bbbbc276-fed6-4f3e-bb0d-e381a3d03213,Myles Bush,SUPERAGENT,242,['English'],49140,279dfd18-13a7-4b06-b99e-41d710fb2680,Director / Co-founder,242
+0db7e630-36a8-46e3-9f5f-246c1b013466,Emma Jean,SUPERAGENT,180,['English'],47724,744697e6-9519-489f-b6fe-05f8929e10da,Property Consultant,180
+d9ef55b6-b98f-4931-acef-e45fd8b4fbb4,Nadia Doherty,SUPERAGENT,129,['English'],38560,a09cfef4-7521-4fc8-a654-a167c0fe53cb,Senior Sales Consultant,129
+65ef6500-d9ca-45c4-837e-1a239a353c2f,Ollie Woodman,REGULAR,"1,272",['English'],41671,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Sales Consultant,"1,272"
+07788704-97a1-4845-a83f-918143103401,Tabaruq Bhat,SUPERAGENT,200,"['English', 'Hindi', 'Urdu']",53325,18e79f86-1fd9-476a-903a-27956944310c,Property Investment Consultant,200
+e434a107-ed93-475c-9a8f-5f2a6708cc0b,Abdul Hannan,SUPERAGENT,420,"['English', 'Urdu']",55358,cbc58ee9-9638-441b-b10f-da96fa96356c,Property Consultant,420
+fdc3bbcc-2fee-4d0a-8b1e-dbffc57dfa85,Yelena Chuiko,SUPERAGENT,987,"['English', 'Russian']",44941,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Consultant,987
+7cb83b75-6a04-473a-8b5e-dedbbc8bcf2a,Mira Brandli,SUPERAGENT,366,"['English', 'Russian']",28264,450abcd0-7efe-4b3e-a1d3-372ffa1576f5,Associate Director,366
+52d7f197-44d3-4c09-8754-ea7dd532afb3,Lobana Chebli Jarbou,REGULAR,85,"['English', 'Arabic']",54460,cc19acee-2f9e-4133-a1ef-7d430a6d708c,Real Estate Consultant,85
+5fdb0ca1-6bc8-4e9e-b81f-9d04db57ba03,Andrew Hinett,SUPERAGENT,227,['English'],44680,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Leasing Director,227
+4a39120f-02bd-41d9-a88e-cb950a911a62,Elsie Seya Ndunga,SUPERAGENT,879,"['English', 'French']",53928,4f869f17-f152-4f4b-b86d-62fb88503946,Agent,879
+a97607a2-c085-46f3-b505-a804f9c54441,Cathal ONeill,REGULAR,"1,272",['English'],40841,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Associate Director,"1,272"
+a1e599bc-38af-4712-b4d7-bc2552fbfc58,Shagoofa Arif,SUPERAGENT,77,"['English', 'Hindi', 'Urdu']",52351,156cfab0-5a2c-4a26-94c6-e2f14a3825cc,Senior Property Consultant,77
+6488cc8f-fd00-40c6-9a98-7bd261e6eec6,Ryan Kasper,SUPERAGENT,12,['English'],52510,f5b37245-fcb1-435a-89db-6f71a8ddb768,Founder,12
+7e2d1365-ef04-481d-bc2d-196c9e3bb75e,Abdul Kadeer Munshi,REGULAR,300,"['English', 'Hindi']",47219,08019031-1705-46c9-8f3b-abecc93cda8a,Associate Director,300
+872fffa6-4a61-4cda-9a3a-cb5382875353,Hazem Aboelfetoh,SUPERAGENT,283,"['English', 'Arabic']",,6f3e8a28-b15a-48d8-ae5d-c73e24a57093,Sales Manager,283
+f6755e2b-f754-4abf-be7f-b5baa92ec98f,Martin Nan,REGULAR,465,"['English', 'Arabic', 'German', 'Russian', 'Mandarin']",22256,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,AGCO PROPERTIES,
+391e226a-18e1-42e4-860b-0342cbe3b14c,Peter van Gulick,SUPERAGENT,"1,045","['English', 'Dutch']",56025,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Senior Client Manager,"1,045"
+819f33f4-b052-441c-80aa-8a768690a0ff,Mohammad Salman,SUPERAGENT,61,"['English', 'Arabic']",42007,ce977831-d653-4357-b2b5-2b6736f723c9,CEO/Founder,61
+d900129f-247a-42a1-8c66-f513171f5f53,Alex Whayman,SUPERAGENT,309,['English'],33206,a1014eec-dc0e-4c56-a8df-48be312681ef,Sales Consultant,309
+5c4fd8a8-21fe-45c7-a005-bc01e4fb2418,Mohammed Faisal,SUPERAGENT,247,"['English', 'Hindi', 'Urdu']",,bb44488a-dadb-43bd-9637-16ec2f308e57,Real Estate Consultant,247
+f372cb24-5e36-4518-b13a-06b1a8132aaf,Paresh Kamlani,SUPERAGENT,40,"['English', 'Hindi']",8635,d090e6bf-8f86-4cf0-945b-d5dc5a7b355c,Director,40
+ed6d2ea8-b06c-4f97-91ad-d2d32301d6e2,Daniel Kawa Hassan,REGULAR,37,"['English', 'Arabic']",55728,b2060dc6-5989-43b6-beb9-1acec8faaf1b,OWNER/MANAGER,37
+27ef187d-2bbd-410a-a3c9-0a4df50f4466,Kianoush Darban,SUPERAGENT,"1,296","['English', 'Persian/Farsi']",46127,ad82d91d-6018-4313-9af5-381d6898c20a,Associate Partner,"1,296"
+bd277636-34d0-4e57-81e6-be6f653cf5b0,Krunal Panchal,SUPERAGENT,62,"['English', 'Hindi', 'Gujarati']",52578,db4f0cdd-0791-4e2a-a3f1-61b778ba8a4b,Property consultant,62
+94ca652c-231d-449d-a185-be9c1b241a63,Liam Mumford,REGULAR,227,['English'],57199,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Property Consultant,227
+c30ba58a-4d61-408e-a4cb-3e4d8be374e2,Yara Qais,REGULAR,31,"['English', 'Arabic']",,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Space & Place Real Estate,
+c46b3b01-619a-4e35-8e57-2ba4ea3fd5b3,Thomas Breeds,SUPERAGENT,285,['English'],46951,a2d1326b-947b-4fe0-bda7-f9e8d58def0b,Senior Sales Broker,285
+ded70d9b-5c76-4bd9-bf57-ebaca656eef0,Hashem Alfares,REGULAR,465,"['English', 'Arabic']",2228,c1b07e4c-4116-4ba4-8ac1-fd845e605a85,Villanova and Town Square Specialist,465
+286c4bd0-b610-4c3b-94a8-7c2f7312c134,Chloe Davey Thomson,SUPERAGENT,195,"['English', 'French']",39763,2632bcb2-a5c7-4924-b390-6136b0b6f742,Senior Property Consultant,195
+f22e6648-943d-4335-bbf4-ca6d157382e4,Aziz Mallick,REGULAR,465,"['English', 'Hindi', 'Urdu']",234352,c1b07e4c-4116-4ba4-8ac1-fd845e605a85,Dubai Creek Harbour Specialist,465
+78f1c80d-7072-4000-a960-d01f36b00da4,Muhammad Haseeb,SUPERAGENT,61,"['English', 'Hindi', 'Urdu']",25223,363b56ea-5197-4c05-af87-147042cffd4d,"Client Manager, Senior Sales Executive",61
+bc8ba50a-9a4f-4fe9-aa73-2905ad40a4ea,Sangeen Khan,SUPERAGENT,20,"['English', 'Hindi', 'Urdu']",45219,24f798f4-f07c-4b4f-9d65-20f76005b78d,General Manager,20
+aa952682-3ddb-4f07-83d5-e2decfcafa03,Lavjit OB Sra,REGULAR,288,"['English', 'Turkish']",31539,ec028426-e033-4f0b-abae-8e93b45a0406,Client Manager,288
+b3328a0d-6740-49f9-bd35-b626872e0985,Mevand Wassel,SUPERAGENT,865,"['English', 'German', 'Persian/Farsi']",48118,ad10c756-c3f1-4e9a-a8e0-45bc18d2450a,Sales Consultant,865
+9591261a-4cbc-4709-b9c0-6632a914d81f,Ghulam Sarwar,SUPERAGENT,230,"['English', 'Urdu']",46018,fee00af8-3027-459c-a8f4-c5447b0a1c78,Agent,230
+db097f79-53fd-42e3-aab4-5c6383b8a648,Bertie Scoble,REGULAR,253,['English'],50927,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,Property Consultant,253
+59db03a2-fe6c-46f3-b119-3000712fff72,Mohcine Bayna,REGULAR,118,"['English', 'Arabic', 'French', 'German', 'Dutch']",40483,29b0fac8-43af-478c-a67d-7e91c51fd53b,Associate Director,118
+dc4ae532-3114-454d-955c-4f2436105c96,Brice Dsouza,REGULAR,30,"['English', 'Hindi']",53159,92eb8396-b231-4fca-8b6b-2d06636fb21f,Property Consultant,30
+4e1a73b6-2950-437f-bfc4-a478711233db,Lottie Carnall - Margetts,SUPERAGENT,397,['English'],55613,b69bd112-07e0-469d-ba04-d321a0e13d06,Sales Associate,397
+e661fa2e-363c-4c7c-8f8f-b113dab48a23,Faisal Farooqi,SUPERAGENT,66,"['English', 'Urdu']",39297,04f4accf-e483-49b0-ba4e-6f3a1a87a771,PROPERTY CONSULTANT,66
+f51d51ce-1dd3-452e-a29d-94672488aef2,Burhan Aqeel,SUPERAGENT,148,"['English', 'Urdu']",40390,3f916f27-cfcd-44ec-a8f6-402a411a7423,Property Consultant,148
+710128d9-ad46-4d0f-a441-28f8e4fc09a3,Vijay Bhatia,SUPERAGENT,143,"['English', 'Hindi']",25991,2545ebbf-2a6b-44ad-b9aa-bd1caa73046c,Senior Client Executive,143
+ff9af82c-7a4e-4c11-a940-0fb4aebc549b,Anusha Bhowan,SUPERAGENT,387,"['English', 'French']",44247,a507ffd3-603b-4f0c-a8fe-49030c8029b5,Director,387
+7b186d4b-d27b-47f4-8cab-3fd7726f63a4,Ahmed Abouelnasr,SUPERAGENT,987,"['English', 'Arabic']",47742,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Consultant,987
+62578ca3-7698-4bb7-8643-8384471d516b,Muhammad Ibrahim,SUPERAGENT,200,"['English', 'Hindi', 'Urdu']",59545,18e79f86-1fd9-476a-903a-27956944310c,Sales Manager,200
+3ed2d0e0-a5fe-4a6a-a193-e7436cb1a278,Ziad Tarek,SUPERAGENT,552,"['English', 'Arabic']",,c0436a41-74ca-4015-a858-02aa14258bba,Sales Manager,552
+f03f74cd-01f0-49b3-997f-a61679215d53,Karolina Plowecka,SUPERAGENT,"1,045","['English', 'Polish']",57859,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Client Manager,"1,045"
+9e32598a-42f0-43c6-a41e-cd8510c4d7c1,Muhammad Asad Khan,REGULAR,533,"['English', 'Urdu']",57753,bc5c7505-22b4-4826-a41e-b762c3760d8f,Leasing Consultant,533
+82ad6679-1571-4011-ad18-bf425729bb63,Ruslan Sharipov,SUPERAGENT,"1,213","['English', 'Russian']",56914,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+3befd15e-8409-43f9-a090-7b655f95765f,Marcus Jordan,REGULAR,227,['English'],49001,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Property Consultant,227
+f0e6bd2e-72cf-4d88-83af-b8186f1076f9,Saber Zeroual,SUPERAGENT,629,"['English', 'French']",10017,98e094cb-3cf7-47ad-b811-b96ce37436e9,Client Manager,629
+0d0152f4-8ebb-4216-872d-da73558f1176,Khoder El Banna,SUPERAGENT,200,"['English', 'Arabic']",56034,18e79f86-1fd9-476a-903a-27956944310c,Sales Manager,200
+6d89ee49-a089-4fac-9ac8-68737665c2c1,Noor Baderaldin,SUPERAGENT,286,"['English', 'Arabic']",53080,42dbae10-bd80-4cfa-8453-f787656f41e6,Property Consultant,286
+e9f886c7-a544-48f8-a5b8-a7aaf47e34d1,Hassan Fida,REGULAR,95,"['English', 'Hindi', 'Urdu', 'Pashto']",58621,7e5f76d9-24ec-4a6f-b876-d8cebb34d9ca,Property Consultant,95
+e3ae5a70-c0db-4572-b4ae-f5b383810283,Patrick Devine,REGULAR,"1,272",['English'],48954,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Sales Consultant,"1,272"
+8e10ceb1-2164-4f87-b5a7-711e0b372e44,Paul Wilkie-Page,SUPERAGENT,227,"['English', 'Afrikaans']",47388,0b9f1c3d-d505-461b-90e7-eaf677837272,Private Client Advisor,227
+caf119a1-a3da-4c64-9b52-3020a9c0f1f4,Olga Domkina,REGULAR,6,"['English', 'Russian', 'Ukranian']",,a7be8b41-cf5e-4f93-bd89-41adc596c3f9,Real Estate Agent,6
+68674e40-a968-41f9-9603-dbe44745b997,Dhira Kachari,REGULAR,95,"['English', 'Hindi', 'Other']",58605,7e5f76d9-24ec-4a6f-b876-d8cebb34d9ca,Property Consultant,95
+38435004-429e-4203-8a04-70ec5ac8ffa0,Tony McMahon,REGULAR,397,['English'],37789,b69bd112-07e0-469d-ba04-d321a0e13d06,Sales Associate,397
+8e598ac3-c4e2-4ada-b3c7-4fa985aeb337,Swati Sinha,SUPERAGENT,13,"['English', 'Hindi']",29365,bc2389ba-adc8-440a-8413-a52c024b716f,SENIOR PROPERTY CONSULTANT Coldwell Banker UAE,13
+ea2daaea-bb0b-485d-b524-1d29df734168,Dany Matta,SUPERAGENT,71,"['English', 'Arabic']",54118,5c0dd3b8-70f9-40d9-970c-4a1156a4b3cc,Property Advisor,71
+ef17b194-5a0f-4438-bc7b-7ca60cfd778d,Akmarzhan Kuatova,REGULAR,95,"['English', 'French', 'Russian', 'Kazakh']",52356,7e5f76d9-24ec-4a6f-b876-d8cebb34d9ca,Property Consultant,95
+2403301c-83e2-4bf4-aecf-aa597077c717,Tracey Cutts,REGULAR,227,['English'],59777,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Property Consultant,227
+d2d71124-e0d7-49c3-9b3a-57cb851ff2ac,Akanksha Bellaney,REGULAR,62,"['English', 'Hindi']",50010,db4f0cdd-0791-4e2a-a3f1-61b778ba8a4b,Property consultant,62
+5d3ccea1-f667-4564-87ab-ee99bdd381d5,Sycamore JJ,REGULAR,114,"['English', 'French']",,78d56fbb-ce62-4905-88d7-d1194da7ff06,Senior Property Consultant,114
+79cb1023-f2dc-4a5f-8dc5-7772b42108e1,Sumeet Sawlani,SUPERAGENT,367,"['English', 'Hindi']",53564,cb12c1df-9918-4cfc-9b77-d9d8f396346d,Sales Manager,367
+6c424358-bfc2-43d7-8b5b-29ca9427a763,Henry Daniels,SUPERAGENT,298,['English'],45139,90b8f4a2-4779-4ab4-91c2-ef901f3e2fc9,Property Leasing Consultant,298
+3531e990-3093-4c64-89a0-7a0a7f3ad30c,Michael Wilson,REGULAR,397,['English'],46063,b69bd112-07e0-469d-ba04-d321a0e13d06,Sales Associate,397
+590ac564-5798-4492-8d9c-3e76f319e5ae,Linda Kuhn,SUPERAGENT,206,['English'],28038,fa67f2a7-55e0-42b3-b4de-bb5fe11f52d2,Senior Client Manager,206
+64849445-52be-4197-8177-7f03c40e96d9,Osman Sherzod,SUPERAGENT,121,"['English', 'Russian', 'Spanish', 'Turkish']",54179,7ae5703d-1bef-4281-8725-1d2146f0c0f5,Investment Advisor | Secondary & Off-plan Sales | Executive,121
+a67efe8a-abb0-422a-9648-24e7b68e502e,Daimon John Meredith,SUPERAGENT,615,"['English', 'Afrikaans']",53642,40a96d9c-1afb-4452-9ed6-0fc6c6e66a81,Sales Consultant,615
+e437f4c1-7cf9-44a1-ade6-8145f82cb794,Tawanda Kawanzaruwa,REGULAR,397,"['English', 'Shona']",45691,b69bd112-07e0-469d-ba04-d321a0e13d06,Sales Associate,397
+f9e29973-990d-4023-b747-d95f70630e50,Darryl Viegas,REGULAR,130,"['English', 'Hindi']",52439,56ed50ed-4025-4b29-82ef-f1f8f1e98b05,Real Estate Consultant,130
+102c4799-dbe2-4e21-80fa-7a0d8424938a,Callum Fletcher,SUPERAGENT,"1,272",['English'],46274,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Senior Consultant,"1,272"
+6cbba044-5a4a-4881-8728-38f50fb0c755,Kiva Amirah Alkatiri,SUPERAGENT,483,"['English', 'Bahasa Melayu']",49147,32149099-9f2e-4706-a273-7f590b3f8430,Senior Client Manager,483
+67776974-58fd-4543-ae83-fa7096f4af37,Pierce Bennett,REGULAR,298,['English'],46954,90b8f4a2-4779-4ab4-91c2-ef901f3e2fc9,Senior Sales consultant,298
+7c87f65e-db00-420b-bb5f-45c8bfa2b878,Matthew Macloughlin,SUPERAGENT,"1,045",['English'],43696,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Platinum Agent,"1,045"
+352011f3-9aa9-440d-a612-2420647b5cc3,Nitesh Ramnani,SUPERAGENT,470,"['English', 'Hindi', 'Spanish']",55695,29e11b52-e16f-478e-a76a-a386cae9cd70,Senior Client Advisor,470
+5c7bac9e-ce57-4aeb-8213-5b7f1efc3feb,Dmitrii Myslin,REGULAR,18,"['English', 'Russian']",56665,e4679c5d-b2dd-4797-88f9-9cca89356c3c,Managing Partner,18
+d177f2a1-4644-45e2-9f02-a3008f9cb636,Robbie McDonald,SUPERAGENT,"1,045",['English'],37695,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Senior Client Manager,"1,045"
+29b0e69c-9882-424f-b106-895462405395,Nazik Oskonova,REGULAR,393,"['Russian', 'Kyrgyz', 'Turkish']",45470,7fd81022-60d1-48d6-9a6a-67a9d04a1899,Property consultant,393
+07000bf6-af8c-4934-8731-f3111269185b,Rawan Abdel Sayed,REGULAR,153,"['English', 'Arabic']",58846,8ab691ce-e2e1-4581-af65-4ae2830ae5a9,Property Consultant,153
+20fb473c-ddc8-4ebf-a589-60e2c7aecfd4,Mohammad Farah,SUPERAGENT,202,"['English', 'Arabic']",37247,6911a3f7-2b43-497d-96a5-62a06aad91ab,District One Specialist,202
+0318b199-c06f-460f-9bea-81e2d88dfc84,Michael Byrne,SUPERAGENT,"1,272",['English'],55956,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Senior Sales Consultant,"1,272"
+34748a1a-96f0-47a3-95b3-808bdefd6f4d,Anna Marie,REGULAR,227,['English'],58907,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Property Consultant,227
+e76ccfe2-b7ac-48fd-b63c-6543b6628994,Joseph Dahdah,SUPERAGENT,17,"['English', 'Arabic', 'French']",48580,77236e3c-c665-46bf-a0ae-ba6d9570634d,CEO,17
+4a25c882-b5b5-4926-8c45-c0e3e3c7a94b,Adilet Abylgaziev,REGULAR,256,"['English', 'Russian']",48743,d376f2c6-e059-4aea-8d40-5c8d631ffb21,Real Estate Agent,256
+1bccf2cd-b8d3-41d6-b13b-a95186432ef8,Zakir Khan,SUPERAGENT,35,"['English', 'Hindi', 'Pashto']",,0393a41b-1a0a-4842-9f2c-599ebf984bf5,Sales and Leasing Agent,35
+079f4694-c79b-4cac-88bb-c97392fa20b1,Nadia Chamor,SUPERAGENT,"1,213","['English', 'Arabic', 'French']",52644,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+71a47b77-388b-41d0-b36b-430643784aac,Carlos Cruz,SUPERAGENT,626,"['English', 'Spanish']",31057,f8d41f35-673b-4c58-a1cb-3c462508c243,Private Client Advisor,626
+f1e9d9fd-06a9-44c5-a3e4-1ea5dc4db1aa,Vincent Soreng,SUPERAGENT,"1,243","['English', 'Hindi', 'Urdu', 'Bengali']",52780,4b1f158c-973d-4797-a42f-2b931d688c02,Property Consultant,"1,243"
+277a4fac-e359-4964-b5e8-5f88349fc623,Patrick Luft,REGULAR,"1,045","['English', 'French']",40364,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Platinum Agent,"1,045"
+ca289777-e0c1-4284-b675-7dae857a5d2a,Olga Petrova,SUPERAGENT,513,"['English', 'Russian', 'Romanian']",54284,5e8fc096-c07b-437f-917c-4882ffd7d74e,Agent,513
+c2c09304-9123-45e8-ba2f-e55aa5c818a3,AbdulKarim Ali,SUPERAGENT,180,"['English', 'Arabic', 'Hindi', 'Urdu', 'Punjabi']",52212,d2780db6-f83c-4370-ab83-daef491239c3,Real Estate Consultant,180
+a929d6f9-3e3c-48a6-9286-76758acb21ac,Shahmir Gill,REGULAR,27,"['English', 'Urdu']",49541,123937c9-7289-4cf5-aa0a-7a2d180fc7ff,CEO,27
+06f6b2c8-31e7-4d3f-9cf2-ae7dea48189f,Irakli Badalashvili,REGULAR,85,"['English', 'Russian']",49539,cc19acee-2f9e-4133-a1ef-7d430a6d708c,Real Estate Consultant,85
+9c941f36-30df-4ef4-8e9b-37a1ac259b24,Amie Squire,REGULAR,180,['English'],46912,744697e6-9519-489f-b6fe-05f8929e10da,Sales Consultant,180
+4d4754a0-1cf9-4b1f-b893-6cfa909763b6,Adil Iqbal,SUPERAGENT,97,"['English', 'Arabic']",,04c846f4-3b70-4755-8c17-8bcfcdfb4984,Managing Director,97
+b3185856-8f03-48e6-b918-446812cab4ea,Jurij Haveman,SUPERAGENT,"1,243","['English', 'German', 'Spanish', 'Dutch']",52152,4b1f158c-973d-4797-a42f-2b931d688c02,Property Consultant,"1,243"
+e0944639-0381-4148-8567-a9d9cd39ae66,Ghufran Adnan Shaker,REGULAR,254,"['English', 'Arabic']",42426,702d4eeb-3300-4d8d-8a29-7f2e68a9b1be,Sales & Leasing Consultant,254
+126b8ca7-caf8-46ad-8be2-f620187ce425,Vidhi Jawa,SUPERAGENT,167,"['English', 'Hindi']",47269,ae17dced-ca40-408f-a505-22dde8135c86,Sr. Property Consultant,167
+a8b629e1-947f-4ed3-baa3-edf8b98cb095,Malaz Al Kasem,REGULAR,31,"['English', 'Arabic']",52970,68f5b8c7-2364-44a1-9f54-c32bd646141c,Property Consultant,31
+2a0cb870-d52c-4456-b309-cb7a8b006b9c,Gareth Davies,REGULAR,3,['English'],41277,215007ba-ecf7-48cd-bae3-c01c648acde7,Founder,3
+3f2162d7-8514-4c23-b473-8ce79ed9bd4e,Hayley Brent,REGULAR,119,['English'],43237,16088daa-78b1-4b28-9358-2110c311c29a,Private Client Advisor,119
+d33bd070-fbc1-4eaf-beef-9501297db2ad,Surayya Abdulla,SUPERAGENT,14,"['English', 'Arabic', 'Russian', 'Uzbek']",40625,ba5ddd75-0bda-4d91-82f7-3129876b5e70,Founder,14
+c08b42a8-5edf-42a5-866d-709e87fc0e69,Ralph Kondakji,REGULAR,987,"['English', 'Arabic', 'French', 'Italian']",60278,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Property Consultant,987
+9fd9fce9-36f6-4dfc-a8c0-1fb8f3da2c9b,Amaan Nanabhai,SUPERAGENT,171,['English'],58877,d9917a00-ee0a-46f8-98d2-22ee4b627b5d,Client Manager,171
+18cf9d75-4004-4a17-88b0-e0c817bf2b7e,Peter Shehan De Silva,SUPERAGENT,513,"['English', 'Sinhalese']",56197,5e8fc096-c07b-437f-917c-4882ffd7d74e,Property Consultant,513
+b7f03e1d-9bf2-47c0-83f6-c3d540fec426,Andrew Cummings,REGULAR,119,['English'],42772,16088daa-78b1-4b28-9358-2110c311c29a,"Partner, Head of Prime Residential",119
+5b330bba-5f8a-4eca-b18d-55efb7f81987,Harry Ogilvie,REGULAR,"1,045",['English'],47176,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Senior Client Manager,"1,045"
+bffd51f2-dbb2-44f7-835d-30c5b7d55f63,Sharon McIntosh,REGULAR,129,['English'],41559,a09cfef4-7521-4fc8-a654-a167c0fe53cb,Senior Sales Consultant,129
+48d4090d-a96c-425e-bda2-059251ff9d8b,Muhammad Ahmad,SUPERAGENT,260,"['English', 'Arabic', 'Hindi', 'Urdu', 'Punjabi']",,c698d086-5018-490e-8fbf-926c9a5c95f2,Managing Director,260
+5cce581b-423e-4645-864a-bf44574f4b30,Fadi Elfares,REGULAR,288,"['English', 'Arabic']",52316,ec028426-e033-4f0b-abae-8e93b45a0406,Client Manager,288
+ac486d84-2a3d-42fd-b371-588f4682b911,Bilal Ahmed Lone,SUPERAGENT,66,"['English', 'Urdu']",49084,acc4a63f-dccf-4e7a-9565-f05bae7cfe69,Investment Manager,66
+375e3d8c-beac-44eb-92ad-8e7045039a24,Rabah Kehail,SUPERAGENT,26,"['English', 'Arabic']",33910,f96edad7-95ad-488f-9c73-64d59f472cca,Sales Director,26
+da407c1b-9936-4381-b904-a550bb37d3ac,Maha Hikmat,SUPERAGENT,260,"['English', 'Arabic', 'Turkish']",,c698d086-5018-490e-8fbf-926c9a5c95f2,Senior Sales & Leasing Consultant,260
+84135b0f-22f7-4fef-ada8-9218b53b87d2,Marina Atzert,SUPERAGENT,16,"['English', 'French', 'German']",35940,705ff2dc-4ad4-4df4-9a75-82ccf4ac9481,Client Manager,16
+03f99972-ef2a-42c8-bd43-dc3b0886d41d,Charlie Moxom,SUPERAGENT,119,['English'],54312,16088daa-78b1-4b28-9358-2110c311c29a,Senior Private Client Advisor,119
+0234ba2b-a671-4e18-ab66-35fea04b1bba,Muhammad Saeed,SUPERAGENT,177,"['English', 'Urdu']",,04dd2ee3-7b83-4a43-b203-7613aaa21b41,Property Consultant,177
+8ff57e3b-1ffb-43ee-a68b-7bdffc1edc41,Rahul Tulsidas Vaswani,SUPERAGENT,655,"['English', 'Hindi']",49279,da41dceb-187e-4723-a071-55d52a6213ad,Agent,655
+b1c12444-ec90-40e9-bb9b-99d5af12b6c9,Fam Agent,REGULAR,215,"['English', 'Russian']",,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,fam Properties - Property Management,
+d4f050ca-bf74-49f1-bc26-5e90ea730ec2,Anna Bier,REGULAR,309,"['English', 'Russian']",6009,a1014eec-dc0e-4c56-a8df-48be312681ef,Sales Consultant - Palm Jumeirah,309
+64b2880e-ce63-453d-916a-fea53ab25cf1,Abrar Maqsood,SUPERAGENT,24,"['English', 'Arabic', 'Hindi', 'Urdu', 'Pashto']",50034,e7c52161-74e0-423d-b680-bf6884322304,Manager,24
+75d1fec4-cfdf-4b83-ab52-69b951606f7e,Neil Bryans,SUPERAGENT,75,['English'],49066,5aca6a70-6e86-4e3a-b7c2-112ba741bad9,Senior Property Advisor,75
+f356d03b-28d6-4b95-a035-330c563d8f85,Saleh Saeed,SUPERAGENT,347,"['English', 'Arabic']",49777,8c977e97-041a-43a3-bcaf-4a0549928ccc,Real estate consultant,347
+707f1a12-8006-460a-85a5-4ad3bad740c7,Monika Lukasz,SUPERAGENT,265,"['English', 'Polish']",1852,820cf849-a702-43a3-b7aa-3d464a90db36,Client Manager,265
+8b40f903-087b-48f2-9687-35927e702ae7,Arian Ajdari,SUPERAGENT,137,"['English', 'Arabic', 'Persian/Farsi']",47268,2a370b43-67a8-4ba4-8e35-43c40cdfebdb,Chief Executive Officer,137
+4b4ca9df-a38d-4158-a909-74e839ec2b4d,Saad Khan,SUPERAGENT,35,"['English', 'Hindi', 'Urdu']",48623,2f44d0a2-3d94-4ccb-bb6a-c7a8b405c822,Sales Manager,35
+036309fa-adc1-45b5-9743-08dab3c813ce,Imran Ellam,SUPERAGENT,356,['English'],,11f92194-8325-4499-98dd-5220fed96e78,Property Consultant,356
+63ebdd90-396a-4116-ad05-d54455383f54,AQUA Properties,REGULAR,300,"['English', 'Arabic', 'Russian', 'Urdu', 'Tagalog', 'Uzbek']",303,08019031-1705-46c9-8f3b-abecc93cda8a,"Real Estate Buying, Selling & Leasing Property Brokerage",300
+a9812cf0-39ea-486a-a206-20244b6c49bb,Rebecca Reid,SUPERAGENT,"1,396",['English'],50341,443fab0c-2b26-414b-a798-c3d1a527b093,Property Broker,"1,396"
+3b1ec725-56c9-416b-a4df-bfab14124549,Sharmila Nahata,REGULAR,130,"['English', 'French', 'Hindi', 'Dutch']",48710,56ed50ed-4025-4b29-82ef-f1f8f1e98b05,Real Estate Consultant,130
+dde242a5-b019-4692-a0fe-d76c37934527,Aigul Beishembieva,SUPERAGENT,254,"['English', 'Russian']",28023,702d4eeb-3300-4d8d-8a29-7f2e68a9b1be,Sales & Leasing Manager,254
+3f8aa7ca-4c16-417b-b7db-c719e9f1a335,Lydelle Marie Blackwell,REGULAR,75,['English'],52013,5aca6a70-6e86-4e3a-b7c2-112ba741bad9,Property Advisor,75
+d9ca7ab3-1dcd-4b09-83f0-b374b07de110,Andrew Said,SUPERAGENT,143,"['English', 'Arabic']",46518,c189517f-c482-4547-87be-d0f6f713cdad,Real Estate Consultant,143
+99bc68bb-d426-4f04-812b-0963a466a4b8,Abbas El Ali,REGULAR,14,"['English', 'Arabic']",49082,4a2154fe-2a8e-4b8b-ae51-94727fdffe69,Executive,14
+78cdca1a-d3a3-47f6-b1b1-d4f396bdbf1b,Lin Zhou,REGULAR,119,"['English', 'Mandarin']",46949,16088daa-78b1-4b28-9358-2110c311c29a,Private Client Advisor,119
+6d276637-8be7-4016-911d-50dc6e0fdc78,Agnieszka Gomoluch,SUPERAGENT,"1,243","['English', 'Polish', 'German']",49351,4b1f158c-973d-4797-a42f-2b931d688c02,Property Consultant,"1,243"
+7634b5ae-43d8-4696-be67-bb33a7e84ce4,Fadi Fouad Cassis,REGULAR,13,"['English', 'Arabic', 'Swedish']",54766,558287d1-af28-4035-a2fd-846f421c162d,Real Estate Agent,13
+0d15d14d-7660-4adb-be50-5b7573ae5bbf,Adil Sait,SUPERAGENT,143,"['English', 'Hindi', 'Urdu']",35677,914bc42d-a94b-42b8-ba41-7164f480920e,Managing Director,143
+8964c342-2933-45ce-8fbd-d71c6eb21e97,Ryan Jarvis,REGULAR,227,['English'],48691,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Property Consultant,227
+ca686678-7e49-4d99-be76-3b6ad9b9d8e8,Pankaj Ahuja,SUPERAGENT,102,"['English', 'Hindi']",29448,42bc96fd-d85e-4079-8639-076e77a6245b,Manager,102
+85ccd5a2-93fe-43c5-85a2-cdeb9e260e9c,Chhahita Panjwani,REGULAR,95,"['English', 'Hindi']",57876,7e5f76d9-24ec-4a6f-b876-d8cebb34d9ca,Property Consultant,95
+911d4002-3493-45db-a6ab-e3f461f7ee72,Mahmoud Salem,SUPERAGENT,386,"['English', 'Arabic']",,fbbd544f-67f0-4216-ab8e-f371766f65e1,Broker,386
+c986d03e-68f7-47d4-addc-777814c08d1a,Juwerya Fatema Hossain,REGULAR,972,"['English', 'Bengali']",,12013432-61ac-4d34-a5d3-e469e06735fb,Property Sales Consultant,972
+2fbef4d5-4790-4fbf-a22c-054a6215e884,Mohammad Zaid,SUPERAGENT,987,"['English', 'Hindi', 'Urdu']",45477,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Senior Property Consultant,987
+2c1da8ff-145b-4c4f-8a2d-6b5ee86797eb,Elif Dulger,REGULAR,"1,272",['English'],46333,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Senior Consultant,"1,272"
+39add463-0dd6-4ead-9d58-8fe5e86de4a9,Ziad Oweiss,SUPERAGENT,149,"['English', 'Arabic']",51635,543c74e4-3e54-4983-a10e-d8a57f5031d8,Sales Manager,149
+a23e30c5-8be7-4f89-9df7-e38ef24e6eea,Mohamed Elshamy,SUPERAGENT,552,"['English', 'Arabic']",,c0436a41-74ca-4015-a858-02aa14258bba,Sales manager,552
+e609a8c1-da31-42e1-894a-fc645932bf97,Abdul Wahab,SUPERAGENT,420,['English'],52105,cbc58ee9-9638-441b-b10f-da96fa96356c,Property Consultant,420
+921b2f04-d17c-4708-9be9-bc1ac487d8ed,Jacob Fletcher,SUPERAGENT,865,['English'],47994,ad10c756-c3f1-4e9a-a8e0-45bc18d2450a,Leasing Manager,865
+6aed02be-de6c-4bc8-b283-0e235e9939f6,Hanaa Taha,SUPERAGENT,200,"['English', 'Arabic']",56005,18e79f86-1fd9-476a-903a-27956944310c,Sales Manager,200
+5ca21e64-b7ad-41c1-9f67-d7e24fba7aa2,Bekzod Anarkulov,SUPERAGENT,"1,340","['English', 'Russian', 'Uzbek']",59623,a1da46c0-90ce-4496-aac1-a8c1df4da256,Sales Manager,"1,340"
+8c5f371b-8535-46d8-aa28-d7b5c61e308a,Slava Shidlovskiy,SUPERAGENT,920,"['English', 'Russian']",36935,6b903cc4-cca8-429e-a62a-64e61692519a,Senior Property Consultant,920
+d320f7ab-a354-42c0-ac9d-2e6dc32088d5,Qaiser Bajwa,REGULAR,293,"['English', 'Hindi', 'Urdu', 'Punjabi']",46143,7b2b4597-a0b0-427f-b10e-68d16c500b7e,CEO,293
+3e8c113f-6526-4b8c-9889-c7da9f5511f4,Laith Yared,SUPERAGENT,267,"['English', 'Arabic']",,91ce169a-09ef-4c47-a6bb-e02bf3b144d8,Sales Manager,267
+c9593dd3-355d-4232-b23f-ae63635c474a,Anas Serdar,REGULAR,35,"['English', 'Arabic']",42242,43086d7d-d7c9-4d1a-9722-3619ab9bfcc4,Founder,35
+89d426d3-7bd2-489a-9737-6894b04559a2,Muhammed Ansad,SUPERAGENT,187,"['English', 'Hindi']",47762,34b01008-7341-438c-be10-d54bc1963790,Property Consultant,187
+4fa7c985-a828-42a2-9ee6-beef169e0005,Cristina-Adriana Miu,REGULAR,95,"['English', 'Spanish', 'Romanian']",58980,7e5f76d9-24ec-4a6f-b876-d8cebb34d9ca,Property Consultant,95
+10c81301-57f4-46fd-93df-c8123904954f,Rama Jouni,SUPERAGENT,173,"['English', 'Arabic']",58030,109a8b4c-d95e-48e3-9bab-71f5c9aaeaee,Real Estate Broker,173
+a6fd3c4e-4638-44cd-8b94-c251010a6b88,Safinaz Commons,REGULAR,253,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Allsopp & Allsopp - Motor City Sales,
+88f0c156-ecae-4722-9ea9-950d7f54475c,Victoria Davie,REGULAR,10,['English'],50403,1d2e1ef2-408c-4c27-8dbd-1244bf3a2034,Managing Partner,10
+d91e822a-73e0-46fa-bb86-9024e9d1ab86,Ben Perry,REGULAR,91,['English'],31806,7ccb69d8-e9fc-4163-87f4-01f2e16c298c,Property Sales Consultant,91
+657741b5-fda6-47d4-9c01-ad9b31b7de44,Eslam Taha Ahmed Mohamed Hazaa,REGULAR,467,"['English', 'Arabic']",2032009,c1b07e4c-4116-4ba4-8ac1-fd845e605a85,Dubai Creek Harbour Specialist,465
+fe0831a1-671f-4f77-8fb7-9979ff22ed72,Muaaz Mehmood,SUPERAGENT,216,"['English', 'Hindi', 'Urdu']",48794,8c5e69d4-ca6d-4e42-8ee1-b4cd4d82bdfd,Associate Director,216
+92293421-9c91-42e2-ba92-42555bc3d3de,Burulcha Musabkova,REGULAR,889,"['English', 'Russian', 'Turkish']",59878,4f869f17-f152-4f4b-b86d-62fb88503946,Agent,879
+28037b0f-8c66-4d1a-b5d8-1d8c199a1b91,Asall Inanlou,SUPERAGENT,180,"['English', 'Persian/Farsi']",30004,d2780db6-f83c-4370-ab83-daef491239c3,Real Estate Consultant,180
+bc4bdac1-3c04-4bb1-a129-bf531847ea64,Diane Dennison,SUPERAGENT,920,['English'],48421,6b903cc4-cca8-429e-a62a-64e61692519a,Dubai Marina Specialist,920
+5e61b3db-e25e-4ea1-8e6c-68f806f2c10b,Dean Parrett,REGULAR,259,['English'],,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,sale broker,253
+0d017617-095b-4f4a-bbb3-be7a104b9263,Egejuru Obinna,SUPERAGENT,284,['English'],48813,bee0ae89-aee4-420c-ad62-d2dc9b283e9e,Property Consultant,284
+8efbea1b-2353-423f-9760-828d4bebed94,Oscar Mildenhall,REGULAR,4,['English'],56776,a7692cc9-d512-4977-aad3-31eae8d4dcb8,Managing Director,4
+ec54a905-2029-420d-9d72-4d5d1d6d1d75,Thomas Hick,REGULAR,"1,263",['English'],60018,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Sales Consultant,"1,272"
+5ddf62db-b591-48a4-bde9-3a5c57ad0196,Ajmal Roshan,REGULAR,268,"['English', 'Hindi', 'Malayalam']",,73b8d8fb-925b-4cf3-b0a2-8feb4b2626e6,Property Consultant,268
+d7075944-cd95-4f4c-9f3d-e2894fb4747a,Aisha Khurram,SUPERAGENT,889,"['English', 'Urdu']",55071,4f869f17-f152-4f4b-b86d-62fb88503946,Senior Agent - Special Projects,879
+2e4cad87-917d-4d60-9318-42f3868dd388,Muhammed Al Shebli,SUPERAGENT,393,"['English', 'Arabic', 'French']",,f1356155-ac85-46e3-9d26-4c5297cee78c,Property Consultant,393
+f56266ff-a7d4-47fd-bc53-cd7b51f4f2db,Ihab Hegazy,SUPERAGENT,25,"['English', 'Arabic']",49546,d5f0a8e1-1d1a-443b-bd39-d197516faeeb,Team Leader - Primary Sales,25
+6a3d7c88-3f4a-4f0d-b78e-ccb5e427db0e,Sandra Darwiche,REGULAR,149,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,ENGEL & VÖLKERS Dubai - S4,
+a41f1d90-bf15-41d4-b5de-4c9e253c01e8,Khalid Ahmed,SUPERAGENT,154,"['English', 'Urdu']",45485,bae55e48-728e-4b7f-8536-ba03acc51363,Sales Director,154
+2628bf62-adae-428b-a3e8-14411da525e1,Jake Jones,SUPERAGENT,484,['English'],37157,32149099-9f2e-4706-a273-7f590b3f8430,CEO & Founder,483
+f8503496-7a34-4ebf-b47b-e86f245c6a40,Maria Varnava,REGULAR,398,"['English', 'Greek']",56710,b69bd112-07e0-469d-ba04-d321a0e13d06,Sales Associate,397
+383bce1c-898a-40cd-8961-589aa997ec71,Youssef Medhat Youssef Mohamed,SUPERAGENT,359,"['English', 'Arabic', 'French', 'Russian']",54525,47b9c4eb-7117-4702-81d3-1c8733668357,Property Advisor,362
+8c896446-3958-44d2-bb26-2fc71f3d82ff,Ronald Abboud,SUPERAGENT,"1,041","['English', 'Arabic', 'French']",26894,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Senior Client Manager,"1,045"
+c9204f70-b702-4340-8fcd-40e099d79007,AZCO Real Estate Brokers (LLC) - Lease JVC -10,REGULAR,425,"['English', 'Urdu', 'Punjabi']",,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Azco Real Estate - JVC Secondary,
+6e0f43fb-72d9-4a1b-a489-22f9841678bc,Muhammad Mateen,REGULAR,66,"['English', 'Urdu']",26081,89d53c7b-dd6c-4667-aade-6b650e399bfa,Agent,66
+be4e2cc3-1dd6-40b7-a1cc-b756167243f1,Callum RadfordIK,REGULAR,85,['English'],46526,33d9ef41-7a96-4902-9f95-1484eb6ee504,Real Estate Agent,85
+41c21749-7def-4e58-9cd6-1f583ff4ad84,Natalia Kushparenko,REGULAR,972,"['English', 'Russian', 'Turkish']",,12013432-61ac-4d34-a5d3-e469e06735fb,Sales Manager,972
+b76ee639-6a07-48e0-a79f-23bc49b1ceda,Igor Vinogradov,REGULAR,"1,215",['English'],60173,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+a3bede4c-216e-4c63-914d-9813dbed7284,Mohamed Yakout,SUPERAGENT,"3,832","['English', 'Arabic']",45951,626130b7-ba9d-45b8-9fd4-19517c6b2161,Sales Manager,"3,832"
+f2f3ea8e-2188-419d-b818-0727d7391103,Khaled Benzitoune,REGULAR,922,"['English', 'Arabic', 'French']",,13811c85-1501-49cc-8937-64a5b5890401,Property Consultant,924
+12377e49-192e-414d-b26b-148d248ff901,Vikram Biant,SUPERAGENT,283,['English'],44234,a2d1326b-947b-4fe0-bda7-f9e8d58def0b,Real Estate Agent,285
+52493bc5-0d83-4733-ac0c-eb8bcb151f4c,Matthew Kaye,SUPERAGENT,581,['English'],47131,803ce959-46ba-40fb-b253-52da9718a52a,Property Sales Consultant,584
+592cfd9b-75e9-415b-87fa-0ae80d5a1334,Omar Alahmer,REGULAR,118,"['English', 'Arabic']",27846,d69f81eb-3c7a-42fe-ad32-f193b5964cad,Senior Property Consultant,118
+30e1194a-603a-4b5e-8a03-6f2872101cab,Arron Miller,SUPERAGENT,"1,041",['English'],48305,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Client Manager,"1,045"
+49efeb0f-ce60-4070-b316-b49856543157,Simona Mariana Barbulescu,SUPERAGENT,536,"['English', 'Spanish', 'Romanian']",22741,bc5c7505-22b4-4826-a41e-b762c3760d8f,Senior Residential Consultant,533
+01cef4d1-bb71-428b-aa03-21df224bcfbf,Nazish Khan,SUPERAGENT,191,"['English', 'Hindi', 'Urdu']",54225,bcd2df79-1b42-4fe9-be93-d7440e090daf,Chief Operating Officer,191
+02163c82-99fe-4146-9166-0745e33690de,Brandon Spink,SUPERAGENT,92,['English'],54211,7ccb69d8-e9fc-4163-87f4-01f2e16c298c,Lettings Consultant,91
+1b5394e5-87e2-4929-8a19-c26c59a2dac9,Pavlos Christodoulou,REGULAR,298,"['English', 'Greek']",36271,08019031-1705-46c9-8f3b-abecc93cda8a,Chief Executive Officer,300
+e6b1b34b-ea12-4123-9926-6ed012c7d2fe,Malka Shaad,SUPERAGENT,260,"['English', 'Hindi', 'Urdu', 'Punjabi']",,c698d086-5018-490e-8fbf-926c9a5c95f2,Sales and Leasing Consultant,260
+7435d983-15bf-469a-96fe-a24ce2266452,Andrew Cleator,REGULAR,116,['English'],28385,9568ab14-f2e5-4cf2-b53e-49c35a51f952,Managing Director,117
+f7304913-a7eb-439b-b01e-8b759b0baebb,Carine Margossian,SUPERAGENT,362,"['English', 'Arabic', 'French', 'Armenian']",,c6c1a46e-1515-454a-a13a-34626dc05972,Listing Property Consultant,362
+cdf4e13b-7a4b-4886-af45-4bedf6357964,Elina Pituscan,SUPERAGENT,920,"['English', 'Russian', 'Romanian']",54412,6b903cc4-cca8-429e-a62a-64e61692519a,Property Consultant,920
+dba487e8-d1b1-4b5c-9cd7-720d58775aab,Harrison Rackham-Beadle,REGULAR,"1,263",['English'],38131,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Sales Manager,"1,272"
+880c13eb-3c00-473c-a175-90c8817eeca7,Parham Behrooz Dorrani,REGULAR,17,"['English', 'Persian/Farsi']",41267,8afeaef3-6fa1-4971-b899-1a88d7f50b5a,Broker,17
+b4bd0fda-a167-47ba-9c92-6de4ba8c0b2e,Mohamed Fazil,SUPERAGENT,91,"['English', 'Hindi', 'Tamil', 'Malayalam']",,440ff549-bd9d-454e-93f1-fed4958ab5d8,Property Consultant,91
+fb4d9ab6-736c-4b68-aa40-d6e795f93f94,Gurpreet Kaur,REGULAR,85,"['English', 'Hindi', 'Punjabi']",8060,337e649f-7e54-44bd-8d7d-2c3e1f193b5e,Senior Property Consultant,85
+99b83aaa-c1a1-49c4-90d5-b9b935e7bf9e,Abdul Rehman,SUPERAGENT,85,['English'],33509,337e649f-7e54-44bd-8d7d-2c3e1f193b5e,Agent,85
+55da36d8-fe25-491a-bdf4-f5e73ebce27a,Ebrahim Ahmadi,SUPERAGENT,"1,266","['English', 'Arabic']",49899,4b1f158c-973d-4797-a42f-2b931d688c02,Property Consultant,"1,243"
+822d919f-8ef8-4c26-aa81-f009265adf37,Raed Elshahawy,REGULAR,28,"['English', 'Arabic']",94705,0fb6504c-c7f0-400c-85db-ac645e439516,Sales Consultant,28
+93ceeb06-79b5-487f-9c84-f80e5e21073f,Charlie Jasper,REGULAR,67,['English'],41573,27f14337-61dc-48b9-bea6-62b630dee9a8,Property Sales Consultant,68
+8cb28b2d-e97e-45db-9461-9c4a053350ad,Mon Maison International,REGULAR,18,['English'],1178004,899488ac-b03c-4b57-838b-5b2ef1dad475,Manager,18
+4d6f967c-4ad2-45b5-b298-07b6828aeb6e,Said Al Bizri,SUPERAGENT,362,"['English', 'Arabic']",,c6c1a46e-1515-454a-a13a-34626dc05972,Property Consultant,362
+b7257a4d-ddd0-4932-b5c8-038f6f2b069a,MARKET FIRST REAL ESTATE L.L.C,REGULAR,4,['English'],58874,ea617b93-4616-41d2-8334-3a46c337aeec,Real Estate Manager,4
+7be6cc62-6699-4051-99ee-caf36e02df0e,Vikram Sah,REGULAR,31,"['English', 'Hindi']",52309,68f5b8c7-2364-44a1-9f54-c32bd646141c,Sales Manager,31
+90daa5f9-f1b4-4606-82a0-173ef75217af,Jackson Downie,SUPERAGENT,398,['English'],52585,b69bd112-07e0-469d-ba04-d321a0e13d06,Sales Associate,397
+401566bd-0593-4fed-b6bd-ab2f0c5d8735,Victoria Anne Dewar,SUPERAGENT,265,['English'],58573,820cf849-a702-43a3-b7aa-3d464a90db36,Client Manager: sales and leasing,265
+c522eb17-0a2c-433a-a279-3e011bfe636a,Callum RadfordTR,REGULAR,85,['English'],46526,33d9ef41-7a96-4902-9f95-1484eb6ee504,Real Estate Agent,85
+c0e1dc4c-f342-4625-a637-bcb989eea15d,Chris Ralph,REGULAR,259,['English'],47640,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,Property Consultant,253
+2be0828a-b325-4626-8499-1650eb378cfe,Shereen Fawzi-Skinner,SUPERAGENT,208,['English'],32628,fa67f2a7-55e0-42b3-b4de-bb5fe11f52d2,Senior Client Manager,206
+dd06ed5f-0fb4-49ff-80b0-9ad66ed69a92,Yousef Salama,SUPERAGENT,170,"['English', 'Arabic']",,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,#NAME?,
+478bdf2e-8368-4d02-8592-f41abaa577dc,James Royle,SUPERAGENT,"1,266",['English'],57046,4b1f158c-973d-4797-a42f-2b931d688c02,Property Consultant,"1,243"
+a1c83601-0977-467a-967d-2cfe58b4be9b,Manal Hasan,SUPERAGENT,"1,215",['English'],53936,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+e1b89c85-723f-490e-8975-04ab572bfd63,Dandan Lei,SUPERAGENT,266,"['English', 'Other']",55645,bb749c40-99fd-493f-8f3d-a153a753da3e,Property Manager,266
+58512f8e-525f-4137-a6c5-fb7369f48566,Ayoub Nemeur,REGULAR,118,"['English', 'Arabic', 'French']",27846,d69f81eb-3c7a-42fe-ad32-f193b5964cad,Senior Property Consultant,118
+0f5975bb-f0f7-4f14-9617-8f1ff144329c,Mohit Jain,SUPERAGENT,128,"['English', 'Hindi']",53028,969e5eb3-b8b8-441f-93b3-4bcd975b8ba3,Senior Property Consultant,128
+6c754f4e-61ea-423b-a7d6-f7e9f13501ef,Syed Uzman,REGULAR,200,"['English', 'Arabic', 'Hindi', 'Urdu']",50480,18e79f86-1fd9-476a-903a-27956944310c,Sales Manager,200
+72fe1741-9ee3-452c-9b94-065eb1c8079f,Adam Peter Miller,REGULAR,136,['English'],57787,2a370b43-67a8-4ba4-8e35-43c40cdfebdb,Investment Manager,137
+27809c90-26cd-4e4f-87fa-41a38baeaaf8,Alfie Saidi,SUPERAGENT,228,['English'],59125,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Property Consultant,227
+ee4d3537-d533-47e7-9098-a169e9fd7168,Imran Ghani,SUPERAGENT,86,"['English', 'Hindi', 'Urdu']",,bb98fc7f-ff2c-436b-a24c-c0a88f95534a,Sales and Leasing Consultant,86
+d5d159ed-8524-4088-bed2-fad066600c26,Mike Lloyd,REGULAR,988,['English'],40951,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Property Consultant,987
+df4d532b-1cf6-46a2-9cca-5e19db6107f5,Natasha Singh,SUPERAGENT,129,"['English', 'Hindi']",6364,a09cfef4-7521-4fc8-a654-a167c0fe53cb,Senior Sales Consultant,129
+32bdb45e-29de-449a-9b4a-4e6de6699263,Inna Ageyeva,SUPERAGENT,332,"['English', 'Russian', 'Italian', 'Ukranian', 'Czech']",35304,bb82ed35-432d-43c2-97b8-6a4f267cf8ee,Senior International Sales Executive - ELITE AGENT,332
+0e85d277-ba53-42aa-a5c5-3543591533d0,Manav Serai,SUPERAGENT,633,"['English', 'Hindi']",44150,da41dceb-187e-4723-a071-55d52a6213ad,Sales Manager,655
+8678de46-359e-4268-abb9-9d3f05696e50,Angley Varghese,REGULAR,18,"['English', 'French', 'Hindi', 'Malayalam']",51533,519f3672-52b8-4514-ad34-3de54f91d05f,Property Consultant,18
+3c456d2c-fae4-4dca-b4ba-5dacec5ff3a1,Mahmoud Abdullah,REGULAR,5,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Rich Homes,
+bccc0501-5b0e-4c6a-9b9b-441e29cb83bb,Chris Watson,SUPERAGENT,"1,266",['English'],57032,4b1f158c-973d-4797-a42f-2b931d688c02,Property Consultant,"1,243"
+1a59c032-3f04-48e1-9a49-1dbf405e937d,Hassan Jehad,REGULAR,467,"['English', 'Arabic']",,c1b07e4c-4116-4ba4-8ac1-fd845e605a85,Sobha Hartland Specialist,465
+e4429f37-edb6-4664-999f-48fa21ee6541,Charonel Van Wyk,SUPERAGENT,226,"['English', 'Afrikaans']",48774,0b9f1c3d-d505-461b-90e7-eaf677837272,Associate Director,227
+5935f51e-29a0-43c7-b6f6-5a3793dad7e8,Purnima Motwani,REGULAR,53,"['English', 'Hindi', 'Urdu']",49732,f120a18e-1f46-4574-8350-65bc515b8a57,Director Sales (Freehold / Leasehold),53
+8296d1a3-f6c7-4352-ac67-8a9bd2c505e3,Rida Jaber,REGULAR,116,"['English', 'Arabic']",41421,9568ab14-f2e5-4cf2-b53e-49c35a51f952,Sr. Global Property Consultant,117
+286e68b2-beeb-4fb7-bca9-7acf0d2a30c9,Palwasha Gul Manan,REGULAR,972,"['English', 'Urdu', 'Pashto']",,12013432-61ac-4d34-a5d3-e469e06735fb,Property Sales Consultant,972
+82792588-bdb6-45cd-8a3c-47dc09a34fd7,Chris Van Der Berg,SUPERAGENT,84,"['English', 'Afrikaans']",59027,d24f3781-13c6-48bd-a974-67ec8e2b8e50,Property Consultant,84
+d77b794d-548d-41a6-b4bc-4ffbff3d860e,Ahmed Saidi,REGULAR,140,"['English', 'Arabic', 'French']",59877,66632362-a050-4697-bfa7-e466cb9418ea,Real Estate Consultant Coldwell Banker,140
+9a64dbbe-97ce-4bc8-820e-723e97e6fefc,Connor Manning,REGULAR,619,['English'],45439,40a96d9c-1afb-4452-9ed6-0fc6c6e66a81,Area Manager,615
+425c3371-82dc-4311-952a-71e3316e08d5,Yiannis Karalis,REGULAR,131,['English'],58074,56ed50ed-4025-4b29-82ef-f1f8f1e98b05,Real Estate Consultant,130
+fac4fe02-5ab5-474d-b588-53f894251280,Ahmed El Atrash,SUPERAGENT,889,"['English', 'Arabic']",53044,4f869f17-f152-4f4b-b86d-62fb88503946,Senior Agent - Special Projects,879
+dde78767-782a-4673-a554-fc324bcc7e6e,Samson Olagunju,REGULAR,619,['English'],43601,40a96d9c-1afb-4452-9ed6-0fc6c6e66a81,Sales Consultant,615
+bc8e2209-9813-442c-a61d-d9f5664db896,Ricardo Abou Faissal,REGULAR,26,"['English', 'Arabic']",50764,f96edad7-95ad-488f-9c73-64d59f472cca,Sales Director,26
+a50d313a-a9a3-4561-96a5-10f121e3819d,Fayozjon Khomidov,SUPERAGENT,109,"['English', 'Russian', 'Turkish']",,aa9856b8-2f7b-4eaa-a68a-5719f56f216f,Sales & Leasing Consultant,109
+d3e0c6d4-5a33-4542-aa46-41a0770d7117,Asim Naim,REGULAR,7,"['English', 'Arabic', 'Urdu']",46732,7f2b9089-ca32-4e8a-a727-e4f15b58f6dc,CEO - Partner,7
+f6acb2fe-946f-4573-8584-c1d9c661f08e,Mohamed Hamed Sobh,SUPERAGENT,988,"['English', 'Arabic']",49319,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Property Consultant,987
+d38b14ca-a87e-492d-876d-b9607dc9aeec,Sary Jabr,REGULAR,30,"['English', 'Arabic']",35570,18aaf9ad-e0d5-4830-a7c8-c93706d6cc67,Sales &amp; Leasing Director,30
+c7b9b280-deab-4e4b-b45a-6ea10d9b2203,Adnan Haider,REGULAR,228,"['English', 'Urdu', 'Pashto']",50213,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Property Consultant,227
+f3552600-dd33-4e96-9451-b106971c3f03,Zara Thamanna,REGULAR,127,"['English', 'Hindi', 'Tamil', 'Malayalam']",42837,bebf29aa-ea58-4cd6-9ea4-900585488cdc,Senior Property Advisor,128
+d0a48469-66a5-4a85-ba66-4862c130a646,Aidar Kunbayev,REGULAR,"1,215",['English'],51893,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+51dfa9f8-d613-4408-9873-be89ed594ad5,Stephane Manga,REGULAR,261,"['English', 'French']",,73c08bc0-c392-43d8-8ba3-d0dec96a91aa,Senior Real Estate Consultant,261
+044697da-08f1-4721-9ada-44df39329b50,Karan Bang,REGULAR,343,"['English', 'Hindi', 'Gujarati']",51337,667c1963-d2e4-424f-9a47-0a2e7b038421,Property Consultant,343
+d609e317-a7b4-4fc7-9880-8014f7752859,Zoe Martin,SUPERAGENT,120,['English'],36426,16088daa-78b1-4b28-9358-2110c311c29a,Private Client Advisor,119
+eeba379f-f53d-48b2-a253-afbda13b9c21,Lester Verma,SUPERAGENT,81,"['English', 'Hindi']",40443,e4571905-8c88-44a3-9122-8ad31baf20c1,Managing Partner,81
+bc4a96ef-15e4-43e2-9abe-45e757f201ee,Ahmed Samir,REGULAR,7,"['English', 'Arabic']",49345,7f2b9089-ca32-4e8a-a727-e4f15b58f6dc,Founding Partner,7
+386714d2-a3fd-4a6b-9b2a-4c232ddad800,Merle Arshed,SUPERAGENT,180,"['English', 'Hindi']",51735,d2780db6-f83c-4370-ab83-daef491239c3,Real Estate Consultant,180
+b81b118d-5e93-4a23-ae62-88c508377eca,Nadiyeh Hossein Mohammadi,SUPERAGENT,451,"['English', 'Arabic']",,16e60619-4fa9-431e-bc00-6004fe871998,Managing Partner,451
+db227fcf-26bf-42b3-b489-d89aa5b6ef8e,Mark Andersen,SUPERAGENT,92,"['English', 'Danish']",44700,7ccb69d8-e9fc-4163-87f4-01f2e16c298c,Property Consultant,91
+6a2b23c8-acce-485e-a5b1-ae38ca0ad91f,Aleksandra Kosova,REGULAR,7,"['English', 'Russian']",59955,24c3e87b-24fa-40bf-9eff-98bb39a8f3ea,Broker,7
+9a355a46-cfc1-487e-ac95-00c5251a8128,Magdolna Jano,SUPERAGENT,889,"['English', 'Hungarian']",42141,4f869f17-f152-4f4b-b86d-62fb88503946,Property Consultant,879
+a27ba2af-bc79-45f1-8937-dfe5e2ab7975,Saliq Zahoor,REGULAR,308,"['English', 'Arabic', 'Urdu']",44039,a1014eec-dc0e-4c56-a8df-48be312681ef,Villa Sales Specialist - Dubai Hills Estate,309
+2348909c-2f62-4570-a298-20bf5c629a1f,Bharat Singh,SUPERAGENT,"1,041","['English', 'Hindi', 'Punjabi']",47403,ad2c2398-e963-4b0d-8f0f-a8dc8a59d9fc,Senior Client Manager,"1,045"
+a617c8f3-1ca1-408e-936d-646b58689d5d,Callum RadfordED,REGULAR,85,['English'],46526,33d9ef41-7a96-4902-9f95-1484eb6ee504,Real Estate Agent,85
+c918450b-07c9-426a-90a9-1d94f043a24b,Robert Jenkins,REGULAR,92,['English'],32358,7ccb69d8-e9fc-4163-87f4-01f2e16c298c,Property Sales Consultant,91
+ebfa018f-41c5-4d4a-a21e-ac61e386cf5d,Ayman Gumaa,SUPERAGENT,20,"['English', 'Arabic']",,523c8cd4-713d-476b-85b1-025ebaaa6150,CEO and Founder,20
+cf2cf91f-3a56-4082-8ee2-420b324c0e15,Syed Imran,SUPERAGENT,"1,215",['English'],37271,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+49f572f2-3099-4387-a7c3-8021fa91cc7e,Saood K,REGULAR,20,['English'],444,264c77cb-e5fe-4007-ad10-3e7c67928cbf,sales,20
+a797dd02-71f5-4e49-a3cc-b1c287cefbf1,Tata Nfon,REGULAR,283,"['English', 'French']",36940,3320ef66-7f84-44e6-8363-7197d4a811eb,Senior Client Manager,283
+d9bf6be3-4e4b-41a3-b157-c75fa4437831,Geraldine Peyraud,REGULAR,21,"['English', 'French']",43712,1d97cc95-4cd9-40c2-938f-c9f5b1282080,Managing Partner,21
+06269a9b-1371-484d-b066-317ab191731d,Sneha Gupta,REGULAR,922,"['English', 'Hindi']",,13811c85-1501-49cc-8937-64a5b5890401,Property Consultant,924
+b713e266-f814-4af4-956f-3307b823cade,Bradley Prota,REGULAR,67,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Allsopp & Allsopp - The Springs,
+c973ee19-430a-4e13-9686-dcf8406227ff,Rimsha Badar,SUPERAGENT,44,"['English', 'Arabic', 'Hindi', 'Urdu', 'Punjabi', 'Pashto', 'Sindhi']",,bcd7c4e4-a779-4f36-a34b-be3a35a52d31,Founder / Investor,44
+a919d2a3-0e0a-439b-9c33-3d873bccf1dc,Khaled Zainab,SUPERAGENT,258,"['English', 'Arabic']",742193,257141b1-ca75-43b4-a3c7-ec18b8fc9487,real estate advisor,258
+7f4f1b28-0255-4991-a701-36298c40bbaa,Barry Ryan,REGULAR,14,['English'],,76ad9d8e-703a-4f4c-8336-af96b71b2b9b,Broker,14
+a5138cac-eeab-484a-b172-c8555794c972,Danyal Minter,REGULAR,182,['English'],43778,744697e6-9519-489f-b6fe-05f8929e10da,Sales Director,180
+1da88e9c-2e1c-4461-a7c1-b59e1b6ba382,Vasileios Kandris,SUPERAGENT,920,"['English', 'Greek']",53542,6b903cc4-cca8-429e-a62a-64e61692519a,Property Consultant,920
+bb2b9cb4-36a0-450d-a2ba-f40edd39dfb4,Olga Durova,SUPERAGENT,920,"['English', 'Russian']",44076,6b903cc4-cca8-429e-a62a-64e61692519a,Executive Property Consultant,920
+5749a9d9-4a58-4016-b295-87188c1552b8,Khristine Marie,SUPERAGENT,89,['English'],47020,347d5f27-28fb-46cf-a0e9-8131be1786ae,Senior Property Consultant,89
+cc9c163a-34b1-479f-b622-d608003168f8,Rondon Lozano,REGULAR,17,['English'],59838,c4ce27ce-107c-4f86-8044-d02cd46e1110,Sales and Compliance Manager,17
+eb2d9799-5591-441f-b9d7-e253584b6449,Mike Sanchez,SUPERAGENT,64,"['English', 'Tagalog']",43284,8d2aaa6b-5f4c-486f-9861-3aa53438f192,Senior Property Consultant,64
+b05a1ccd-58e2-474d-8c16-7c340284d1e7,Mohammed Rais,SUPERAGENT,889,"['English', 'Hindi']",48133,4f869f17-f152-4f4b-b86d-62fb88503946,Property Consultant,879
+5483ba87-0e3a-492d-b535-824dd970ed5e,Saeed Abdulnasir,SUPERAGENT,9,"['English', 'Arabic', 'Urdu', 'Persian/Farsi', 'Baluchi']",28493,71073ecc-f11e-4be9-b531-b5bd932ce496,senior sales executive,9
+86733035-24ca-4c34-ab05-d1de507c72a3,Hakim Ali,SUPERAGENT,200,"['English', 'Hindi', 'Pashto']",55333,18e79f86-1fd9-476a-903a-27956944310c,Sales Manager,200
+b8a89f6f-541a-4c93-8bfd-9f19e7e660da,Angelica Salazar,SUPERAGENT,889,"['English', 'Spanish', 'Portuguese']",59474,4f869f17-f152-4f4b-b86d-62fb88503946,AGENT - SPECIALIST PROJECT,879
+14921815-9455-4072-a28f-f81443fb1704,Maya Siarheyeva,SUPERAGENT,247,"['English', 'Russian']",,bb44488a-dadb-43bd-9637-16ec2f308e57,Real Estate Consultant,247
+45a14885-82d0-449a-b55e-214220706274,Imane Kouzmi,SUPERAGENT,247,"['English', 'Arabic', 'French']",,bb44488a-dadb-43bd-9637-16ec2f308e57,Real Estate Consultant,247
+2a123134-d620-486f-bfc6-584b31234e74,AZCO Real Estate Brokers (LLC) - Lease JVC - 9,REGULAR,187,"['English', 'Hindi', 'Urdu', 'Punjabi']",,34b01008-7341-438c-be10-d54bc1963790,Property Consultant,187
+930a9484-f56e-439a-9a08-45cea626d35f,Ben Bandari,REGULAR,2,"['English', 'Persian/Farsi']",44490,40aca3db-a66c-4802-8751-cb46e3f801c6,CEO,2
+86490f5d-3590-48ae-96d5-34b632280857,Idres Abuhalawh,SUPERAGENT,170,"['English', 'Arabic']",,fe3d83b9-7ca0-4dea-a03d-c59842f9623b,Real Estate Consaltant,170
+02a07028-7abd-4d11-8535-05a34486fb5a,Daud Khan,SUPERAGENT,136,"['English', 'Hindi', 'Urdu']",57313,2a370b43-67a8-4ba4-8e35-43c40cdfebdb,Investment Manager,137
+dd40f2bd-163a-41e8-ab7f-5462094be599,Faizan Javaid Sheikh Muhammad Javaid Iqbal,SUPERAGENT,56,"['English', 'Hindi', 'Urdu', 'Punjabi']",,9f8b0e1e-19f2-4209-b3de-b6505e782ada,Manager,56
+c9f5bfb6-32ed-4064-805c-b311d08ff9b6,May Haroun,SUPERAGENT,99,"['English', 'Arabic']",56939,be72a6dc-faed-43ae-abc9-1a97554ec564,Real Estate Agent,99
+01357f22-a05c-4ba6-b250-c14be273a688,Ahmed Al Jack,SUPERAGENT,126,"['English', 'Arabic']",51395,32c7bfdb-577b-40bb-ac14-ab5d2607bf31,Senior Property Consultant,129
+ab48e587-fc44-4e20-82f9-f4f956657fc9,Mansour Akbari,SUPERAGENT,153,"['English', 'Persian/Farsi']",49880,cfbbdaf9-ab7c-4925-b2ca-7f30dcbdfa2c,Property Advisor,153
+831517c7-6b78-46bb-b0b7-8d3f206b3c43,Mokhir Muminkhodjaev,SUPERAGENT,282,"['English', 'Russian', 'Uzbek']",51167,647ca9bd-1d0f-4023-8c96-66639a1407a0,District Manager,282
+c4c01034-499c-4186-a3aa-cd36b273ecbe,Zena Osuhor,REGULAR,619,['English'],55967,40a96d9c-1afb-4452-9ed6-0fc6c6e66a81,Sales Consultant,615
+16558352-2e2b-46a9-b5a8-b61814eaa352,Tatiana Boustany,REGULAR,298,"['English', 'Arabic', 'French']",50579,08019031-1705-46c9-8f3b-abecc93cda8a,Property Consultant,300
+601e680c-b338-4678-9a4c-159d48c6a78f,Bachar Arnous,SUPERAGENT,258,"['English', 'Arabic']",742193,257141b1-ca75-43b4-a3c7-ec18b8fc9487,Manager,258
+1816deea-c347-4e23-9685-c50f704857d0,Samira Tebaili,SUPERAGENT,401,"['English', 'Arabic', 'French']",,f32a4dec-6968-4f1e-a1a7-30047342e8a6,Senior Sales Consultant,401
+78539a1f-e58f-4512-a22f-642d0002cfd5,Georgian Daniel Nedelcu,SUPERAGENT,536,"['English', 'French', 'Romanian']",45570,bc5c7505-22b4-4826-a41e-b762c3760d8f,Senior Sales Consultant,533
+1e7f7cbf-7cc7-4f3d-b15d-7307c8557e56,Jason Dunne,REGULAR,265,['English'],26799,820cf849-a702-43a3-b7aa-3d464a90db36,Senior Client Manager,265
+acce3b93-9f82-4377-b23c-6c0870c9a541,Kristina Podornikova,SUPERAGENT,"1,215","['English', 'Russian', 'Ukranian', 'Romanian']",53140,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+4fdff1e5-d470-4f48-8f80-d8773f1c17c2,Michael McSorley,SUPERAGENT,96,['English'],43084,b61c40fe-0913-4630-8344-813f2f15c725,Sales Manager - Palm Jumeirah,96
+ae6ae33b-8f22-43a2-8004-e9f01b5b898b,Kareem Abdelazeem,SUPERAGENT,317,"['English', 'Arabic']",,7101c1a3-98cd-464d-9627-c31321885558,Sales Executive,317
+d7a43749-e8c1-4dc4-b38b-fb995759d36f,Azco Real Estate Business Bay 9,REGULAR,515,"['English', 'Arabic']",,5e8fc096-c07b-437f-917c-4882ffd7d74e,Agent,513
+03c1eb58-fc7e-407c-ad2a-66bc51338901,Vipin Sharma,REGULAR,66,"['English', 'Hindi']",45573,8e37c172-9311-4d0f-926a-72f87779e2d5,Real Estate Consultant,66
+9ab8bf8c-0d47-4c21-b20e-bbde2c2b689a,Ajay Singh,REGULAR,52,"['English', 'Hindi']",42646,8bce9ccc-b3f4-4554-9058-bd0a954f3e82,Manager,52
+3bfe2819-da21-417e-9cd0-f6c2399286c9,Catia Pereira,REGULAR,83,"['English', 'French', 'Spanish', 'Portuguese']",52273,cc19acee-2f9e-4133-a1ef-7d430a6d708c,Real Estate Consultant,85
+06657a2a-e86f-404f-ad18-99aa0df5ccfc,Anait Martirosyan,SUPERAGENT,154,"['English', 'Russian', 'Turkish']",32353,bae55e48-728e-4b7f-8536-ba03acc51363,Co-Founder & Managing Partner,154
+3f6d81d5-c3b8-44ea-ac2d-51d8fd556851,Adham Raed Fayiz Younis,REGULAR,889,"['English', 'Arabic']",51619,4f869f17-f152-4f4b-b86d-62fb88503946,Client Manager,879
+501d6fa7-5f57-4bab-b41f-719dbed8572f,Noor Usmani,SUPERAGENT,140,"['English', 'Hindi', 'Urdu']",52284,66632362-a050-4697-bfa7-e466cb9418ea,Real Estate Consultant,140
+7427a6f8-d392-466c-9e32-53f225364360,Liam Storey,REGULAR,92,['English'],36906,7ccb69d8-e9fc-4163-87f4-01f2e16c298c,Senior Property Consultant,91
+4a5d4230-37a9-4e77-bbba-e3fd2ae17bb2,Xanthea Hargrave,REGULAR,96,"['English', 'Greek']",,b61c40fe-0913-4630-8344-813f2f15c725,Sales & Leasing Agent,96
+34bf0ec2-16f9-4efa-a2a3-0726be2d7edd,Ikhwak Singh,SUPERAGENT,"1,259","['English', 'Hindi', 'Urdu', 'Punjabi']",59143,ff8fda50-542e-47f6-8575-5b1a27c2a061,Property Consultant,"1,259"
+d2e9bac5-f419-478d-906b-9adc91739b59,Dmitriy Guzov,REGULAR,629,"['English', 'Russian']",39263,98e094cb-3cf7-47ad-b811-b96ce37436e9,Property Consultant,629
+68fe6958-c3bc-4012-996c-f196b69298b7,Faisal Mehmood,SUPERAGENT,111,"['English', 'Hindi', 'Urdu']",44984,f9926804-6f88-438b-9631-e47f0dbf0bbd,Property consultant,111
+f6fb0b6c-7478-4599-b90f-800647797f68,Muhammad Hamdani,SUPERAGENT,401,"['English', 'Arabic', 'Hindi', 'Urdu']",,f32a4dec-6968-4f1e-a1a7-30047342e8a6,Managing Director,401
+d3538d49-da3b-4c5b-b894-0ca7e1aabe89,Rachel Stephens,REGULAR,259,['English'],36745,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,Senior Sales Consultant,253
+a777dad0-3b73-46b4-b944-d901c8896a22,Mark Darsy,SUPERAGENT,988,"['English', 'Arabic']",52456,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Property Consultant,987
+a8e19b92-82f6-4ec7-967f-552f360e9d47,Pratik Morjaria,REGULAR,"1,259","['English', 'Hindi', 'Gujarati']",29867,ff8fda50-542e-47f6-8575-5b1a27c2a061,Development Manager,"1,259"
+0b8f7374-75c7-4ae0-8abe-9bf70cdede46,EVA Real Estate L.L.C,REGULAR,256,['nan'],,d376f2c6-e059-4aea-8d40-5c8d631ffb21,Senior Property Advisor,256
+63b1d800-c95d-4c84-9e7b-2476713051e2,Zain Ismail,REGULAR,236,['English'],51233,bd9719ba-cd16-4b9f-aa30-c3bb46ad873a,Property Consultant,235
+4eb5e146-4230-46a2-b1c4-f7cb60b52488,Gayrat Pereligin,SUPERAGENT,198,"['English', 'Russian', 'Uzbek']",54007,208c2ceb-a045-4731-b002-37a04a10fe64,Sales Manager,197
+81292e9b-dfb8-4e91-9c78-aa1019a932de,Ljiljana Simic,SUPERAGENT,127,"['English', 'Russian', 'Serbian']",57049,bebf29aa-ea58-4cd6-9ea4-900585488cdc,Property Advisor,128
+48894b6c-7d52-4df1-87c2-18ce08473e78,Esraa Mohamed Elhadad,REGULAR,140,['English'],58893,66632362-a050-4697-bfa7-e466cb9418ea,Real Estate Agent,140
+0b68838d-c5ef-40f3-8be5-cbb14e405cd9,Shilakha Sanjay,REGULAR,66,"['English', 'Hindi', 'Punjabi']",58986,8e37c172-9311-4d0f-926a-72f87779e2d5,Real Estate Consultant,66
+3687cab2-01e5-4f9b-819f-d2d4382eb00f,Fadi Alkhatib,SUPERAGENT,225,"['English', 'Arabic']",45316,c1826183-86f1-44d1-8171-8397b090a3ea,Sales Manager,225
+dd597f5c-05a7-42ad-9ca8-5f8b2b7ef3f4,Areen Majid Abouhasson,SUPERAGENT,90,['Arabic'],,5de8d724-cfbd-4ac4-ba95-0988f4debf1e,Sales Agent,90
+e46b2778-6946-402c-9872-a68d81b072d4,Preeti Shah,SUPERAGENT,317,['English'],31110,c0a88da6-0c9b-4161-a71d-9fcbe54d3afb,Senior Property Consultant,317
+7439a57d-1e26-4e89-beed-9fde64a0e288,Rym Taher,REGULAR,629,"['English', 'Arabic', 'French']",5165,98e094cb-3cf7-47ad-b811-b96ce37436e9,Client Manager,629
+63a02031-9876-4dac-b235-fc2b3808c5f1,Douaa Abo Hashmah,REGULAR,176,"['English', 'Arabic']",,4eb73151-dcc4-4821-8baa-4fe41d576475,Off Plan Specialist,176
+11b01e89-14f5-48ca-afa4-e7e2563c9a5e,Tanweer N Khan,REGULAR,26,"['English', 'Hindi', 'Urdu']",45425,e8356d51-4771-4583-b054-1a5c2919cbb4,Real Estate Rental - Sales Specialist,26
+1ba82a35-2afa-4a7b-a5f3-6f9cd8dbaec9,Sobey Alex George,REGULAR,208,"['English', 'Hindi']",31111,fa67f2a7-55e0-42b3-b4de-bb5fe11f52d2,Senior Client Manager,206
+f53ad928-b54b-40b8-87da-b35317a01479,Ansh Virmani,REGULAR,18,"['English', 'Hindi']",49379,ec7e7983-3d3c-4479-beef-356c337d32b3,CEO,18
+599882be-1bd5-49d0-b2eb-2e3ce624f763,Youssef Elsayed Ahmed,SUPERAGENT,476,"['English', 'Arabic']",,a21c76f5-c9ba-4916-a263-43a9df247fbf,Agent,476
+fe366e05-7224-4dca-ad44-0641d6fca92f,Amani Mufadi Abed AlHelo,REGULAR,972,"['English', 'Arabic']",,12013432-61ac-4d34-a5d3-e469e06735fb,Property Sales Consultant,972
+afa441c7-33e7-416f-b527-ef934065ae37,Hichem Guechi,SUPERAGENT,266,"['English', 'Arabic', 'French']",59852,9f247d15-3bff-411e-9acc-05654023d724,Property consultant,266
+ab156c31-d2c9-4224-8cdb-1c3e68017748,Deepika Rao,REGULAR,922,"['English', 'Hindi', 'Punjabi']",52171,13811c85-1501-49cc-8937-64a5b5890401,Property Consultant,924
+b0c2e491-c17b-4076-bbec-102cac5ea00d,Gautam Vaswani,REGULAR,104,"['English', 'Hindi']",59023,42bc96fd-d85e-4079-8639-076e77a6245b,Real Estate Agent,102
+bf0f559c-5a30-4a88-86f1-bfeed34e6ef0,Vikas Dahiya,REGULAR,10,"['English', 'Hindi']",28968,f3831a20-f539-46e4-a023-c41cbc7f76cb,Managing Director,10
+5d872c81-2c69-4ece-83dd-6eeb5c502b3c,Eman Mohamed,SUPERAGENT,317,"['English', 'Hindi']",,7101c1a3-98cd-464d-9627-c31321885558,Property Advisor,317
+651e1405-9079-48d4-9fde-408f7c580bd1,Fadi Aloref,SUPERAGENT,365,"['English', 'Arabic']",,96339ba7-4314-41ac-89f2-326d67cca8d2,Property Consultant,365
+0e6ec619-2825-4bc7-8309-643d7a65554a,Sunny Savani,REGULAR,120,"['English', 'Hindi', 'Gujarati']",48755,16088daa-78b1-4b28-9358-2110c311c29a,Private Client Advisor,119
+ce032de0-f1ba-4183-9e59-6f6e5429d909,Aidan Kitch,SUPERAGENT,398,['English'],55466,b69bd112-07e0-469d-ba04-d321a0e13d06,Sales Associate,397
+ff00f085-989a-45c1-9c88-7eeaf78424f3,Natasha Ramsay,SUPERAGENT,120,['English'],52822,16088daa-78b1-4b28-9358-2110c311c29a,Private Client Advisor,119
+511e37e0-b37d-4e09-9dfa-ad8b25869212,Upenn Bassa,SUPERAGENT,35,"['English', 'Hindi', 'Urdu', 'Punjabi']",,0393a41b-1a0a-4842-9f2c-599ebf984bf5,Sales and Leasing Consultant,35
+3d0698ad-798d-4eac-9d46-0bdb8f7209d6,Shweta Rathore,REGULAR,92,"['English', 'Hindi', 'Urdu']",242477,f832e0e1-d68e-4ae5-a2a4-8750aca28552,Client Relationships Manager,92
+c21dd60b-e362-43ea-b703-2a21778fb269,Shivam Goswami,SUPERAGENT,"1,259","['English', 'Hindi']",52269,ff8fda50-542e-47f6-8575-5b1a27c2a061,Property Consultant,"1,259"
+8c4bb2c0-7e6a-4cac-ba0e-b4acc469aed4,Rubin Phan,REGULAR,283,['English'],45000,3320ef66-7f84-44e6-8363-7197d4a811eb,Senior Client Manager,283
+3ba587fb-793a-4204-96cd-e5aaca60a225,Christies International Real Estate Dubai,REGULAR,143,['English'],11814,2545ebbf-2a6b-44ad-b9aa-bd1caa73046c,Agent,143
+1bfb5b76-41ff-4072-af6c-b4718a8e8d4f,Shahnawaz Burdi,SUPERAGENT,275,"['English', 'Hindi', 'Urdu']",58608,197953bb-a6a4-410b-9378-9b4a1d5d6811,Property Consultant,275
+ca3cefad-fa76-4cac-b165-ab8722467c77,Omar Bamasood,REGULAR,76,"['English', 'Arabic']",,5aca6a70-6e86-4e3a-b7c2-112ba741bad9,Property Advisor,75
+5f124bec-4d7a-454c-b8ee-9011e9516017,George Burns,REGULAR,398,['English'],50504,b69bd112-07e0-469d-ba04-d321a0e13d06,Sales Associate,397
+5d48a700-aa89-4fdb-b631-0597c3e21052,Nesrine Belaid,SUPERAGENT,920,"['English', 'Arabic', 'French']",46464,6b903cc4-cca8-429e-a62a-64e61692519a,Property Consultant,920
+ae3e7fb2-6a52-42da-be60-c371ac8a1ffc,Satish Moorthy,SUPERAGENT,265,['English'],48086,820cf849-a702-43a3-b7aa-3d464a90db36,Client Manager,265
+731d1fb3-f19b-4f89-beb3-56fd0e23d8fb,Jessica Gane,REGULAR,367,['English'],,a7c3655f-fdba-4e24-8b60-3e4f9059e85c,Property Consultant,367
+6461b0a6-0265-4fab-93b9-7838afa99396,Khaled El Sherif,SUPERAGENT,10,"['English', 'Arabic', 'French']",49935,1efb27fc-500d-44a1-be30-5213aabb3930,CEO,10
+0d62b445-5d0d-4ac6-a54e-2a25710dbe7e,Waqar Ali,SUPERAGENT,274,"['English', 'Urdu']",57533,6cf6616b-3614-4b66-853b-d2c9b3199d23,Real Estate Broker,274
+fa929d83-91c6-4046-99a5-f12e00330837,Majed Khalili,SUPERAGENT,"3,832","['English', 'Arabic']",45951,626130b7-ba9d-45b8-9fd4-19517c6b2161,Sales Manager,"3,832"
+be581baa-f9d5-44fd-b1a7-adb75fb0ff77,Michael Harlegren,REGULAR,109,"['English', 'Swedish', 'Danish', 'Norwegian', 'Finnish']",60290,1242010a-0ada-4aec-86f8-3ac63143a72c,Luxury Property Advisor,109
+da481290-f19c-4609-8e06-fe3a2d8fac20,AZCO Real Estate Brokers (LLC) - Lease JVC - 6,REGULAR,425,"['English', 'Urdu']",,cbc58ee9-9638-441b-b10f-da96fa96356c,Property Consultant,420
+75b017ff-4c15-41d4-bb27-77a70e65ae20,Karim Hanna,SUPERAGENT,157,"['English', 'Arabic']",58658,cb5e8b38-ead1-42a3-86cc-01c6934146a2,Property consultant,154
+4c3919b7-3cdb-4e6f-b9c0-705ac592f045,Daniela-Lavinia Cudrici,REGULAR,157,"['English', 'Spanish', 'Hungarian', 'Romanian']",1057,cb5e8b38-ead1-42a3-86cc-01c6934146a2,Property consultant,154
+694ed22d-d0a0-4386-b36e-c1fcedf82428,Akbota Karagulova,REGULAR,"1,215",['English'],54059,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+b1f9fab5-194a-4910-bbfb-09f6480883dd,Ibrahim Khalil,REGULAR,94,"['English', 'Arabic']",58966,7210e2d5-8ea2-47d7-9a32-7a5b70c2bce4,Senior Property Advisor,94
+fa315cc5-3e71-4dce-a9c1-fec41f6264a5,Karim Badreldin,SUPERAGENT,235,"['English', 'Arabic']",35385,1c432a3d-4999-4f2f-86e7-eee431c27aef,Emaar Off plan Specialist,235
+1cc27419-fbc6-4575-828a-40fd9be74b5b,Jordan Smith,REGULAR,"1,394",['English'],55489,dd7cf045-aab3-422a-970d-b96e298f4781,Palm Jumeirah Sales Specialist,"1,393"
+cd902028-4f6a-4b94-a69e-c660e4e9fd03,Awais Abbasi,SUPERAGENT,425,"['English', 'Urdu', 'Punjabi']",54188,cbc58ee9-9638-441b-b10f-da96fa96356c,Property Consultant,420
+bfa8e66b-ab9f-49dd-bd07-514920a7444c,Mohammed Abbas,REGULAR,467,"['English', 'Arabic']",568972,c1b07e4c-4116-4ba4-8ac1-fd845e605a85,Damac Hills 2 Specialist,465
+e32c0b97-947b-4d51-9224-5716156c31af,MOUMEN WALID,REGULAR,393,"['English', 'Arabic', 'French']",,f1356155-ac85-46e3-9d26-4c5297cee78c,Real Estate Broker,393
+cd598ceb-97ce-4c63-ba9e-6a09af1365b0,Khaled Dokhan,REGULAR,149,"['English', 'Arabic']",59127,543c74e4-3e54-4983-a10e-d8a57f5031d8,Property Consultant,149
+61be56dd-8845-4208-bf56-04920fc44cae,Elle May Searle,SUPERAGENT,"1,266",['English'],48983,4b1f158c-973d-4797-a42f-2b931d688c02,Property Consultant,"1,243"
+14ca87b8-9309-44cf-861a-d6d0c3de0db4,Samaher Bouzeghaia,REGULAR,2,"['English', 'Arabic', 'French']",57653,a2822634-5a39-4813-8919-535eb894edec,Chief executive officer,2
+d9003724-8543-4a65-946e-00e72bd31130,Nadia Chourabi,REGULAR,83,"['English', 'Arabic', 'French']",57650,cc19acee-2f9e-4133-a1ef-7d430a6d708c,Real Estate Consultant,85
+16a56d10-5111-4f43-af5a-7fddef0c34f0,Callum RadfordCP,REGULAR,85,['English'],46526,33d9ef41-7a96-4902-9f95-1484eb6ee504,Real Estate Agent,85
+353a58e4-1938-46fa-9848-92fb341468ee,Hitesh Paryani,SUPERAGENT,216,"['English', 'Hindi', 'Urdu']",52811,8c5e69d4-ca6d-4e42-8ee1-b4cd4d82bdfd,Client Manager,216
+1a4d8fb2-15b6-4a57-a84b-59ea06638d5b,Sharon Addo,REGULAR,"1,294",['English'],46214,ad82d91d-6018-4313-9af5-381d6898c20a,Property Consultant,"1,296"
+7ca1df7f-411a-4e05-8fe6-e8a47ed808cf,Aleksandra Corneo,SUPERAGENT,367,"['English', 'French', 'Russian']",,a7c3655f-fdba-4e24-8b60-3e4f9059e85c,Property Consultant,367
+84cd614e-16b6-408c-8797-cd8606a9287d,Noor Mohammad,SUPERAGENT,39,"['English', 'Arabic']",,58d07043-6669-4235-972e-1ca76c49ccc7,Property Consultant,39
+4f4c43ba-ee36-4a4b-9bb9-135305672eb2,Abir El Attar,REGULAR,149,"['English', 'Arabic']",58965,543c74e4-3e54-4983-a10e-d8a57f5031d8,Property Consultant,149
+f6033e40-fe6c-4040-bbcd-5ea03bfb3f59,Sherif Mabrouk,SUPERAGENT,247,"['English', 'Arabic']",,bb44488a-dadb-43bd-9637-16ec2f308e57,Real Estate Consultant,247
+3fe0bd75-12dd-4685-9160-99392f60ab14,Mouaad Benjelloun,SUPERAGENT,372,"['English', 'Arabic', 'French']",46667,cb12c1df-9918-4cfc-9b77-d9d8f396346d,Sales Manager,367
+75f9f1cd-0051-4d2e-b72f-a7a245014a81,Sehban Sawani,SUPERAGENT,48,"['English', 'Hindi', 'Urdu']",51960,2c0e824c-4716-4dc0-8faa-cd652db3c26e,Sales Director,48
+38c7a66a-fcbc-42e6-aee4-2a92c9e2055f,Shokhrukh Boymatov,REGULAR,198,"['English', 'Russian', 'Uzbek', 'Turkish']",56208,208c2ceb-a045-4731-b002-37a04a10fe64,Senior Sales Consultant,197
+92061cc9-fecf-4fc7-bc5d-df3b7803ba94,Saif Nasser-Shah,SUPERAGENT,367,['English'],,a7c3655f-fdba-4e24-8b60-3e4f9059e85c,Property Consultant,367
+01aa3f43-c7ee-4663-b513-727f462a13c3,Majd Ibrahim Barshini,REGULAR,140,"['English', 'Arabic']",49602,66632362-a050-4697-bfa7-e466cb9418ea,Real Estate Consultant,140
+638c872f-e7a4-45ec-8799-eaf8f587487d,Rory Michael Sweeney,REGULAR,261,['English'],,73c08bc0-c392-43d8-8ba3-d0dec96a91aa,Real Estate Consultant,261
+afc9aff0-0d8d-430d-94c0-b0ed324dadd9,Louise Webb,REGULAR,182,['English'],46062,744697e6-9519-489f-b6fe-05f8929e10da,Sales Consultant,180
+81511083-615e-4309-8701-15db12e7e0a0,Emma Hogan,REGULAR,208,['English'],26363,fa67f2a7-55e0-42b3-b4de-bb5fe11f52d2,Senior Client Manager,206
+12d356f4-d85b-439e-99e7-3e0129d46b74,Himanshu Yadav,SUPERAGENT,90,"['English', 'Hindi', 'Urdu']",55187,4b511d24-0083-4080-9387-fcd4b88ce540,Sales Manager,90
+c3e2a642-f5b6-42ea-8843-bd9594a00cb5,Jaismeen Reen,SUPERAGENT,30,"['English', 'Hindi']",49167,dceaa1d0-a775-4478-b14a-59f5f6fb9e6a,Senior sales manager,30
+93713516-dc80-4a70-868b-e0be6d03d8c8,Olfah Hayek,SUPERAGENT,51,"['English', 'Arabic', 'French']",51663,8d5e2667-ef04-465d-adec-9d994334b375,Managing Partner,51
+3e694abf-a8a3-446b-adec-514ba94b3301,Alfiya Musina,REGULAR,972,"['English', 'Arabic', 'Russian']",,12013432-61ac-4d34-a5d3-e469e06735fb,Sales Director,972
+f28ec50a-e748-4b36-9325-fbe24960b72a,Yuxue Wang,REGULAR,4,"['English', 'Tagalog', 'Mandarin']",52104,70baae58-193a-4a7d-bfed-c33382c169e5,Agent,4
+024ae324-b5dd-415a-852e-183014088815,Amel Labidi,REGULAR,"1,294","['English', 'Arabic', 'French']",51043,ad82d91d-6018-4313-9af5-381d6898c20a,Property Consultant,"1,296"
+f311b772-ebbc-4e4e-9c76-c381a12d9275,Pavan Lalvani,REGULAR,30,"['English', 'Hindi']",29085,92eb8396-b231-4fca-8b6b-2d06636fb21f,Founder & CEO,30
+0f7cc6e8-ff94-4532-9621-209aa7adace8,Georgia Swords,SUPERAGENT,920,['English'],46790,6b903cc4-cca8-429e-a62a-64e61692519a,Palm Jumierah Specialist,920
+ea7d2abc-4471-4910-b21a-ee353f0378e5,Oksana Uzgalova,SUPERAGENT,"1,215","['English', 'Russian', 'Latvian']",59037,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+1b9659e2-9b93-4cae-9e6b-866ad749f599,Amir Javed,SUPERAGENT,75,"['English', 'Arabic', 'Hindi', 'Urdu', 'Tagalog']",,f659acac-906a-46bb-894f-3bfc1b0b1a3d,sales Manager,75
+db737817-d4fe-4acf-9bb7-81344e5b922f,Sarah King,SUPERAGENT,"1,263",['English'],47352,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Senior Off Plan & Investment Consultant,"1,272"
+be7c9569-5544-4f10-9af8-5b8eeeee4e5a,Olena Myronenko,SUPERAGENT,"1,215","['English', 'Russian', 'Ukranian']",47247,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+7313aa55-fd0e-4f43-975d-8e1736777ee3,Mukund Chettri,REGULAR,"1,259","['English', 'Hindi', 'Bengali']",55100,ff8fda50-542e-47f6-8575-5b1a27c2a061,Sales & Leasing Manager,"1,259"
+41061796-b532-43f4-b1ae-4408a74dc24b,Ahmed Younis Mohamed Ismail,SUPERAGENT,104,"['English', 'Arabic']",59957,ba8277c6-9b46-4c08-a8b8-166123afc56a,Senior Property Consultant,104
+6a4a1b51-6256-49cd-afd1-1d8a1af51f5b,Raghad Rabah,REGULAR,972,"['English', 'Arabic']",,12013432-61ac-4d34-a5d3-e469e06735fb,Senior Property Consultant,972
+cf18780c-48c3-4ae8-bc4e-885d342004fd,Rehan Adil Shaikh Rahim,REGULAR,"1,294","['English', 'Urdu']",46601,ad82d91d-6018-4313-9af5-381d6898c20a,Property Consultant,"1,296"
+1e01922f-e901-407f-8ac5-1ed4cb805bb1,Abdul Razak Kayali,REGULAR,298,"['English', 'Arabic']",28441,08019031-1705-46c9-8f3b-abecc93cda8a,Sales Consultant,300
+a4f1f15f-e000-459f-b405-9637c79acff1,Svetlana Vasilieva,REGULAR,"1,336","['English', 'French', 'Russian']",50564,a1da46c0-90ce-4496-aac1-a8c1df4da256,Sales Manager,"1,340"
+982ea2cb-0e3a-4f3b-a8c6-b838df9bdb34,Umair Mirza,SUPERAGENT,372,"['English', 'Hindi', 'Urdu']",44492,cb12c1df-9918-4cfc-9b77-d9d8f396346d,Property Consultant,367
+8cf2749d-1130-4919-9024-f85f171654f3,Abdul Sabour,SUPERAGENT,275,"['English', 'Hindi', 'Urdu']",57442,b4f4871d-ed5d-4696-b948-ebebf59c056e,Business Development Manager,275
+0c422bff-ab17-4d77-9b7a-767ff558489c,Saddique Dada,SUPERAGENT,67,"['English', 'Arabic', 'French', 'Russian', 'Hindi', 'Urdu', 'Persian/Farsi']",49754,1c5c9c76-6b27-444f-bb14-279e697c9041,Chief Executive Officer,67
+27c0309f-1cab-4a1c-aa8d-a84173ac638a,Helen Hughes,REGULAR,76,['English'],46737,5aca6a70-6e86-4e3a-b7c2-112ba741bad9,Luxury Property Advisor,75
+38a22a8d-4e5a-498a-8eff-db70675ad44c,Mahmoud Al Hinnawi,REGULAR,18,"['English', 'Arabic']",51752,519f3672-52b8-4514-ad34-3de54f91d05f,Agent,18
+1ce56841-dfcb-4bbc-849e-bd85d3c211d6,Muhammad Amir Bashir,SUPERAGENT,104,"['English', 'Urdu']",46736,42bc96fd-d85e-4079-8639-076e77a6245b,Agent,102
+90ace9ee-3b16-47b9-817e-54ed4c0f8759,Haneen Bilal,REGULAR,972,"['English', 'Arabic']",,12013432-61ac-4d34-a5d3-e469e06735fb,Property Sales Consultant,972
+c4bd6d7d-0472-460f-b4f3-8b31a3f30b1b,Mahsa Bakhshayesh,REGULAR,308,"['English', 'Arabic', 'Persian/Farsi', 'Swedish']",47616,a1014eec-dc0e-4c56-a8df-48be312681ef,Sales and Leasing Consultant,309
+5ebc80a8-dabf-471f-b69d-7080499a9198,Ryan Dixon,REGULAR,120,"['English', 'German']",46832,16088daa-78b1-4b28-9358-2110c311c29a,Private Client Advisor,119
+cf596083-5a28-41c6-900e-c2b1a87384c6,Aaron Parkins,REGULAR,581,['English'],36128,803ce959-46ba-40fb-b253-52da9718a52a,Senior Property Sales Consultant,584
+cea215c3-5f80-401f-ad16-9484eaf7a9a5,Ali Hail,REGULAR,385,"['English', 'Arabic', 'French']",58092,a507ffd3-603b-4f0c-a8fe-49030c8029b5,Property Consultant,387
+1e561342-d9bd-4aa3-bc35-c74c65d4735c,Saber Moutii,SUPERAGENT,26,"['English', 'Arabic', 'French']",56482,305d98ea-f59e-4c46-9569-06d474f9a6cf,Manager,26
+536ae55a-aa62-4acb-ba2b-e35629df5177,Roopa Shetty,REGULAR,127,"['English', 'Hindi']",45212,bebf29aa-ea58-4cd6-9ea4-900585488cdc,Property Consultant,128
+1a47b217-075f-4fbb-94a7-07406aca74b1,Nitin Chopra,REGULAR,81,"['English', 'Hindi']",38292,e4571905-8c88-44a3-9122-8ad31baf20c1,CEO,81
+c7c22a1e-9cc5-4a39-b537-441a0792c0fb,Mohamed Rashad,REGULAR,972,"['English', 'Arabic']",,12013432-61ac-4d34-a5d3-e469e06735fb,Property Sales Consultant,972
+6ea37291-0ed5-44c0-870f-36b24d07bc9d,Emma Lopez,SUPERAGENT,91,"['English', 'Tagalog']",54905,9daede07-9e5f-4eb1-8ce4-caa83928b4e0,Client Manager,91
+5e151d0c-ae8e-4933-82ec-018ee059528d,Abbie Elliott,SUPERAGENT,"1,266",['English'],52623,4b1f158c-973d-4797-a42f-2b931d688c02,Property Consultant,"1,243"
+7e24cc11-ced7-4a24-b489-0df07b933dce,Mohamad Amoush,SUPERAGENT,972,"['English', 'Arabic']",,12013432-61ac-4d34-a5d3-e469e06735fb,Property Sales Consultant,972
+cce06ea7-3915-47d4-8e79-27def5d4b3b0,Alina Djeilan,SUPERAGENT,889,"['English', 'Russian', 'Ukranian']",57969,4f869f17-f152-4f4b-b86d-62fb88503946,Off-Property Consultant,879
+6e2cd088-9b01-4d85-97f9-12980525198a,Solly Clark,REGULAR,103,['English'],38335,971d8671-24be-4a7d-849f-4fd195722a8c,Managing Partner,105
+174408bc-fea0-45ed-a585-26e4c95803b2,Abdul Haseeb,REGULAR,"1,294","['English', 'Urdu']",27123,ad82d91d-6018-4313-9af5-381d6898c20a,Property Consultant,"1,296"
+00c2ca33-767f-49a9-8fe8-ade45495e8f7,Ahmed Abdelghany,REGULAR,282,"['English', 'Arabic']",57357,647ca9bd-1d0f-4023-8c96-66639a1407a0,District Manager,282
+960e1c96-1975-45ed-bcd8-c4ceb2bd8ca6,Jonathan Caddick,SUPERAGENT,17,['English'],55739,209cb6aa-c07b-4fa8-b796-d62c09780850,Property Consultant,17
+cdd745f0-a8de-470d-a6fe-71786eb46b77,Abdalla AbdelRaouf,SUPERAGENT,"3,832","['English', 'Arabic', 'French']",54053,626130b7-ba9d-45b8-9fd4-19517c6b2161,Agent,"3,832"
+3b1b630e-64f6-4d8e-ac06-9f2f8f995ae4,Jordan Hughes,REGULAR,259,['English'],53906,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,Property Consultant,253
+db93c4d5-6eeb-4aee-801f-d7c7b11bdb21,Oscar Lamb,REGULAR,259,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Allsopp & Allsopp - Motor City Sales,
+4fea9e77-5e91-4560-a58b-f130210d68fa,Nafis Ahmad,SUPERAGENT,143,"['English', 'Hindi', 'Urdu']",35774,914bc42d-a94b-42b8-ba41-7164f480920e,Manager Sales & Leasing,143
+c458192f-4999-4797-8576-21874d088aac,Edward Millward,SUPERAGENT,889,['English'],34759,4f869f17-f152-4f4b-b86d-62fb88503946,Client Manager,879
+77683443-aa5f-40a0-a0eb-f5169368db94,Fadi Al Jabbour,REGULAR,12,"['English', 'Arabic']",43363,c5f94b51-4d7c-45a1-b3da-2e176e0b6d51,Business Development Manager,12
+95d2d5ec-8b11-4735-b9d4-cc2c433b8239,Alec James Smith,REGULAR,889,['English'],38513,4f869f17-f152-4f4b-b86d-62fb88503946,Client Manager,879
+8997df57-b8b7-46f4-8f2c-249bac50d0ba,Sarine Sarafian,SUPERAGENT,608,"['English', 'Arabic', 'French']",55297,f8855e12-6504-4890-843a-dc05bfb678a6,Client Advisor,608
+d4e79775-3235-483f-aa05-e01ab7739627,Hitesh Bhaktani,REGULAR,"1,294","['English', 'Hindi']",37509,ad82d91d-6018-4313-9af5-381d6898c20a,Senior Property Consultant,"1,296"
+64f10ef8-796b-4866-af88-d98781d16979,Mayuresh Mondkar,SUPERAGENT,171,"['English', 'Hindi']",22913,d9917a00-ee0a-46f8-98d2-22ee4b627b5d,Sales Director,171
+ae2e2fe8-e269-46f7-bb87-fc0c375664b8,Mohammad Yaghmour,REGULAR,306,"['English', 'Arabic', 'Turkish']",,81ac6ca2-3324-4d6a-b076-81add73ec74f,Relationship Manager,306
+ad1d2ec4-e79d-4d15-9c99-84861954e622,Lauren Hutton,REGULAR,120,['English'],41679,16088daa-78b1-4b28-9358-2110c311c29a,Private Client Advisor,119
+da35dd2d-bd5d-4361-8e9d-772be5aaf4aa,Ritu Agarwal Liang,REGULAR,633,"['English', 'Hindi', 'Bengali']",12038,da41dceb-187e-4723-a071-55d52a6213ad,Senior Property Consultant,655
+342d6fcf-75b0-49aa-8251-b805d864e74b,Ijaz Tahir,REGULAR,85,['English'],49591,1e8475eb-3c32-4ea9-98e4-053d7aa116b6,Managing Director,85
+d4b6cd61-7efe-40ef-9ee9-b69ef6c066f9,Qasim Chaudhry,REGULAR,928,"['English', 'Hindi', 'Urdu']",59867,6b903cc4-cca8-429e-a62a-64e61692519a,Real Estate Broker,920
+60d0c36b-f563-41ca-874e-9a278ac2d65b,Salma Ibrahim Mostafa Kamel Khalil,REGULAR,209,"['English', 'Arabic']",55301,cf218b1e-8eef-4fca-8ad8-2501cbdbc1c3,Residential Consultant,209
+322e1d88-0542-4cf9-afe7-9dad37b958f2,Mounir Amal,REGULAR,261,"['English', 'Arabic']",52266,73c08bc0-c392-43d8-8ba3-d0dec96a91aa,Property Consultant,261
+dce86822-2e0d-444a-8830-d6095b3c1082,Wassim Lamari,REGULAR,261,"['English', 'Arabic', 'French']",,73c08bc0-c392-43d8-8ba3-d0dec96a91aa,Client Relationship Manager,261
+eab39b9e-96c9-4e30-806e-983eff27bcbc,Laura Victoria Adams,REGULAR,940,['English'],7870,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Residential Director,987
+9fc9f4ac-07b3-4731-9c51-344266f26393,Eddie Ismail,REGULAR,5,"['English', 'Arabic']",,9330782e-3dee-4104-b614-4b859dfb713c,International Sales Manager,5
+197a91e5-9535-4208-921d-f2ef9b7a6ab1,Majed Ibrahim,REGULAR,468,"['English', 'Arabic']",,c1b07e4c-4116-4ba4-8ac1-fd845e605a85,Property Consultant,465
+d10ddf92-93d9-44dd-90ba-eb740fe716ce,Karalina Charnashei,REGULAR,538,"['English', 'Russian', 'Belarusian']",46923,bc5c7505-22b4-4826-a41e-b762c3760d8f,Senior Sales Consultant,533
+13ac999b-f010-4656-b421-6aede72993f6,Mohamed Elshahed,REGULAR,152,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,fam Properties - Branch 13,
+c8e15a78-8b50-4d1c-b0c0-967979e4fd8e,Steven Leckie,REGULAR,"1,266",['English'],33119,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Off Plan & Investment Consultant,"1,272"
+c1c067a0-4612-4be0-a78a-d33792654878,Shakir Naveed,REGULAR,275,"['English', 'Urdu']",56839,6cf6616b-3614-4b66-853b-d2c9b3199d23,Agent,274
+36569157-aed0-49a6-b772-ce8f21370986,Sorin Blajinu,SUPERAGENT,21,"['English', 'Russian', 'Romanian']",51809,3213d490-75f2-4181-81d4-4ade71899338,Offplan Sales Manager,21
+b99af706-e2c5-4a01-a2ed-6198741d0730,Dipti Gandhi,REGULAR,141,"['English', 'Hindi', 'Gujarati']",52810,7919a93f-a0b5-4624-a089-d4a43563a440,Senior Property Consultant,141
+d2cb6723-732e-44cc-a64f-dc1edf2f743e,Rob Kempton,REGULAR,93,['English'],25807,aeab4bac-1a34-450a-b27e-0c280b08753b,Associate Director,94
+6ae80266-e07b-4f57-868d-5887b5a95f30,Bouthaina Zidi,SUPERAGENT,367,"['English', 'Arabic', 'French']",,96339ba7-4314-41ac-89f2-326d67cca8d2,Property Consultant,365
+b6749de6-9922-451c-8ff9-1e273e6d9aa6,Chad Spink,SUPERAGENT,226,"['English', 'Afrikaans']",49419,0b9f1c3d-d505-461b-90e7-eaf677837272,Private Client Advisor,227
+28a3ee65-810e-4fd3-8e74-a9075e7f8600,Hosi Merchant,SUPERAGENT,374,"['English', 'Arabic', 'Urdu']",43268,cb12c1df-9918-4cfc-9b77-d9d8f396346d,SALES CONSULTANT,367
+7475b9ad-2f1e-42ee-a841-853aa9142722,Paul Musson,REGULAR,"1,301",['English'],33673,ad82d91d-6018-4313-9af5-381d6898c20a,Sales Manager,"1,296"
+9ae5df0c-fb7e-4cbb-b3bf-6669b3940370,Jivan Magar,REGULAR,174,['English'],54294,9e318416-6451-4033-9163-03869a0e077a,Sales Director,173
+25f34c53-89c7-4f51-b4f0-595d38143fbe,Rita Mouawad,REGULAR,869,"['English', 'Arabic', 'French']",1402,ad10c756-c3f1-4e9a-a8e0-45bc18d2450a,Executive,865
+422cb602-7915-43ec-97db-df69a9572b87,Sofia Stavrakoglou,REGULAR,355,"['English', 'Greek']",48185,be878123-53fe-4f73-8f65-eae356ac8501,Investment Advisor,355
+700a1e13-f8cb-482a-b7f1-a3173ff22f6e,Allegiance Real Estate (NZ),REGULAR,378,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Allegiance Real Estate,
+1aa57193-1491-420c-bcce-c0816d5cfd01,Waqas Qammer,SUPERAGENT,275,"['English', 'Urdu']",32162,6cf6616b-3614-4b66-853b-d2c9b3199d23,CEO,274
+2b9dafa6-9a96-4316-8fa1-017481dcbe9b,Annabelle MJW Beernaert,REGULAR,299,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,AQUA Properties,
+e7dcffed-33de-4e7f-8e57-fb5ca56080c3,Pierre Ibrahim,REGULAR,9,"['English', 'Arabic']",,83d62214-7cde-4875-98ec-2fb9d506a9c3,Sales & Leasing Manager,9
+959e0474-8857-4fcd-af64-6d14ff83912f,Amit Masand,SUPERAGENT,381,['English'],29038,fafefed6-4075-4226-9c8a-ec5e78a40602,Associate Director,381
+b414c2f4-1301-49c3-a827-fe3dd36969bc,Rikan Nofal,REGULAR,27,"['English', 'Arabic']",36732,85ded97b-4572-4df9-91af-cd8aa6ad71ef,Sales Manager,27
+7eb8d589-d9f4-44a2-b46f-8d91cf0bc051,Biljana Tasic,SUPERAGENT,"1,264","['English', 'Croatian']",58928,ff8fda50-542e-47f6-8575-5b1a27c2a061,Property Consultant,"1,259"
+875a24b2-c862-4bf0-95f0-8a1f2f077dbb,Reka Fenyi,REGULAR,"1,301","['English', 'Hungarian']",52633,ad82d91d-6018-4313-9af5-381d6898c20a,Senior Property Consultant,"1,296"
+785ecc20-c13e-4cb9-bf0c-c426569f87ab,Adil Ismail,REGULAR,15,"['English', 'Hindi']",33681,7e4516b1-c767-462d-9120-df47f01429e6,CEO,15
+87d14c14-6dcd-4db1-b64a-e6aab3f84d41,Mohammad Khalid Khan,SUPERAGENT,108,"['English', 'Hindi', 'Urdu']",44986,0205eb76-97ba-4719-b6c4-53cd095fa6c2,Sales Director,108
+dbe32313-3f07-4065-8400-ff8a4897355a,Josh Chidgey,SUPERAGENT,284,['English'],57229,8cbb7592-78cf-4bd6-baaf-24a9de045d25,Client Manager,284
+613ea76c-b341-4f51-b56a-0ee3a9920ce6,Shaun Garratt,SUPERAGENT,3,['English'],27840,77ad8382-7290-4602-80e9-a0562bc1261c,Head of Sales and Leasing,3
+c03232ac-b22b-49a7-8740-e71aec98b746,Ali Anbar,REGULAR,572,"['English', 'Arabic']",,b00cf441-bb72-4707-a7eb-8bb3aa31ac99,Leasing Consultant,572
+4db404bb-d0dd-417e-823a-07f99c2e622b,Thomas Pashby,REGULAR,179,['English'],49464,744697e6-9519-489f-b6fe-05f8929e10da,Senior Sales Consultant,180
+47202a4f-e9e2-4df6-b082-41d4fe9ff194,Maria Lafar,SUPERAGENT,50,"['English', 'Arabic', 'French']",58463,24ccb2c5-e98a-4429-9601-b560df8f386d,Sales Manager,50
+e1f2a219-0ff9-46ed-b268-332ba4eb47ea,Zawar Hussain,SUPERAGENT,147,"['English', 'Arabic', 'Hindi', 'Urdu', 'Punjabi']",40326,679c863a-06cd-4409-929d-5472ddfc28a5,Managing Director,147
+12569935-46ca-4562-9b69-d5b50373104b,Myla Diasanta Lagdameo,SUPERAGENT,25,"['English', 'Tagalog']",27976,d2cb252f-58d6-4d19-884c-62c7df5add72,Leasing Consultant,25
+7fed3625-1b87-46d6-b5d2-094f2d18bf11,majdouleen Eshak,REGULAR,468,"['English', 'Arabic']",939893,c1b07e4c-4116-4ba4-8ac1-fd845e605a85,Emaar South Specialist,465
+056dc036-83ea-4b32-8bdb-8658f8c3fe53,Sunny Mehndiratta,SUPERAGENT,77,"['English', 'Hindi']",42804,a443b62c-af4f-451f-889a-05ec27ea7839,CHAIRMAN,77
+896c5bbb-0aac-4c29-86d9-c01a0ee994d7,Nadir Ali,SUPERAGENT,515,"['English', 'Hindi', 'Urdu']",54392,5e8fc096-c07b-437f-917c-4882ffd7d74e,Portfolio Manager,513
+87a5b7e9-f149-4388-a946-9816cf790b9b,Kais Aiyan,SUPERAGENT,166,"['English', 'Arabic']",54900,8f5b4a31-e316-408e-b3ad-571561b3521d,Property Sales Consultant,166
+1de5251f-8164-48e6-9adc-173021769404,Ellis Barratt,REGULAR,294,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Allsopp & Allsopp - Business Bay,
+75528d1b-157f-43ff-b836-abc27c549a9d,Hitesh Lakhwani,SUPERAGENT,390,"['English', 'Arabic', 'Hindi']",47262,62ba1a07-da1d-4476-a413-a32e1ed52deb,Managing Director,390
+a8861cb4-9521-4ef8-b01b-cc9cb04d5759,Asad Khan,SUPERAGENT,218,"['English', 'Hindi', 'Urdu']",53451,8c5e69d4-ca6d-4e42-8ee1-b4cd4d82bdfd,Investment Consultant,216
+b236fbb7-9b65-4e67-889a-f1574051ede5,Volha Rudaya,REGULAR,110,"['English', 'Belarusian']",57340,1242010a-0ada-4aec-86f8-3ac63143a72c,Property Consultant,109
+918faa39-6d4b-4917-9516-f824c784cebc,Jessa Baricaua,SUPERAGENT,66,"['English', 'Tagalog']",,b29ef2d9-545f-4d9b-8b40-37b2509d2f4a,Sales and Leasing Agent,66
+dbb6d925-abae-4f0b-896a-0e8606429706,Shishir Ahuja,SUPERAGENT,381,"['English', 'Hindi', 'Urdu', 'Punjabi']",55016,fafefed6-4075-4226-9c8a-ec5e78a40602,Sales Manager,381
+2f40b822-24cd-4ef7-a9cb-1af5c33e444b,Nyree Bouwer,SUPERAGENT,143,['English'],46261,2545ebbf-2a6b-44ad-b9aa-bd1caa73046c,Client Executive,143
+4641741c-833a-458d-8f6b-0aa1531e4efe,Amber Trimble,REGULAR,260,['English'],50892,70ca5372-df1a-42cf-8c4e-98ebeb815d0a,Town Square Specialist,253
+d36d70c0-f5fb-4d36-bbab-fb28eef7e272,Alan Harthy,SUPERAGENT,358,"['English', 'Arabic', 'Russian']",,c6c1a46e-1515-454a-a13a-34626dc05972,Property Consultant,362
+fef26891-54d7-46ed-affc-4193762d59b7,Jamie Hemingway,REGULAR,"1,266",['English'],50337,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Senior Consultant,"1,272"
+36fb0a53-3fb7-42a7-b1bb-956b7f0a2550,Yash Gajria,SUPERAGENT,"1,264",['English'],46817,ff8fda50-542e-47f6-8575-5b1a27c2a061,Senior Sales Manager,"1,259"
+0353f537-1000-4b19-8c66-630eba631582,Azco Real Estate Business Bay 7,REGULAR,515,"['English', 'Arabic']",,5e8fc096-c07b-437f-917c-4882ffd7d74e,Agent,513
+68f06080-8c2f-4666-8614-0c8b428df37d,Sandra Damanskaite,REGULAR,132,"['English', 'Lithuanian']",,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Coldwell Banker - Dubai Marina,
+07da5033-3ad9-4592-b48f-30548cea0812,ALEJANDRO VEGA,SUPERAGENT,31,"['English', 'Spanish']",55786,dd4ec2ab-ebc1-495f-9900-85fd478ec9c3,CEO,31
+e48f2ba7-ddb3-4968-820a-df7569d7a308,Diana Martin,REGULAR,311,"['English', 'Spanish']",41477,a1014eec-dc0e-4c56-a8df-48be312681ef,Sales and Leasing Consultant,309
+63ec4d38-cd94-4dd6-9882-d1ead3be6f9e,Mustafa Khayali,REGULAR,"1,625","['English', 'Arabic']",,b0f9e823-1122-4ad9-bc5b-f50c05fdc227,Sales Team Leader,"1,625"
+674bd889-0e27-44cd-8b9a-52f9ccf7fc58,Sonika Thakwani,REGULAR,69,"['English', 'Hindi']",44532,23cf9f1f-a554-4527-8049-379dc1091ef4,Property Consultant,69
+0b2a6cac-4e0c-4fbb-8e9e-06389b9cf20f,Osman Faraz,REGULAR,269,"['English', 'Urdu']",47703,73b8d8fb-925b-4cf3-b0a2-8feb4b2626e6,Head of Sales & Leasing,268
+32898d8a-3ff1-4af3-807d-034c46dbff65,Khaled Oweimer,SUPERAGENT,940,"['English', 'Arabic']",45001,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Property Consultant,987
+fcc42300-19ad-4946-8e30-71dda2ef185b,Razan Aljumaa,SUPERAGENT,912,"['English', 'Arabic']",,cfe2e893-e2ae-4100-8cc5-c3d395a6ad34,Senior Property Consultant,912
+13b8a7de-8c05-4e52-89f8-f94a10cdc4fc,Hadi Hamra,REGULAR,"1,301","['English', 'Arabic']",49380,ad82d91d-6018-4313-9af5-381d6898c20a,Partner & Sales Director,"1,296"
+cd150830-cea3-41c1-84ec-19819376fbf7,Behrouz Khedri-Shoushtari,REGULAR,223,"['English', 'Persian/Farsi']",45614,0e2d5ad6-3e54-4392-adc8-0753c7a63fb1,Portfolio Manager,223
+90ac99c7-2403-4210-8be6-1801b1dba685,Nour Yousef,SUPERAGENT,928,"['English', 'Arabic', 'French']",53259,6b903cc4-cca8-429e-a62a-64e61692519a,Property Consultant,920
+e06bb1e3-99f6-4232-8657-87345ea76d9c,Aya Abdulmunem,SUPERAGENT,892,"['English', 'Arabic', 'Swedish']",48496,4f869f17-f152-4f4b-b86d-62fb88503946,Senior Property Consultant,879
+6b2f8f6f-1731-49ce-9c3b-124e214e1f6d,Iryna Pimenova,SUPERAGENT,"1,215",['English'],54596,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+d6ed6fc4-c9a8-4616-ba7b-33ca051d6513,Dinesh Uttamchandani,SUPERAGENT,24,"['English', 'Hindi', 'Urdu', 'Gujarati']",35261,3f86d517-2b07-497b-ba98-b77e454cc518,Manager,24
+c4867653-19af-4405-803f-4fb1ee8757b0,Better Homes Business Bay,REGULAR,538,['nan'],,bc5c7505-22b4-4826-a41e-b762c3760d8f,Residential Consultant,533
+c390102c-a3bd-4709-a147-9103fa7e3d1a,Ziad Farid,SUPERAGENT,19,"['English', 'Arabic', 'Russian']",56092,82f09245-d200-44ac-8dcc-94527d4fb5a5,Manager,19
+36df7801-6303-4fc4-86be-8dfa51a0a306,Ammar Mousa,REGULAR,782,"['English', 'Arabic']",,ab97aff5-2f6a-434d-80e8-5b0992c4016a,Property Consultant,782
+02023526-efa3-4e59-9008-6e0602c72853,Saad Waqas,SUPERAGENT,218,"['English', 'Urdu']",40429,8c5e69d4-ca6d-4e42-8ee1-b4cd4d82bdfd,Managing Partner,216
+4c9c9950-78d3-4c74-8bbf-bab33b7b2b01,Calum Newell,REGULAR,260,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Allsopp & Allsopp - Motor City Sales,
+885e6f4a-20d1-4c10-a7e7-22a092ecb4f8,Mohamed Farzan Mohamed Razeek,SUPERAGENT,76,"['English', 'Arabic', 'Tamil', 'Bahasa Melayu', 'Sinhalese']",33460,ef40690f-c7cd-4d0a-b7e3-5531117f74fd,Sales Manager,76
+52758042-c98a-4f85-bd8a-140f1ecbda6c,Paula Svensson,SUPERAGENT,36,"['English', 'French', 'German', 'Swedish', 'Norwegian']",,5ef7b5c1-6ee7-4b96-b3b8-2b94dfaa256f,Commercial Director,36
+e26c70cf-8b07-42be-896b-9607f0c26b43,U N I Q REAL ESTATE BROKER,REGULAR,20,"['English', 'Hindi', 'Urdu']",,1ad1f962-b2ed-4c1f-ac8f-516570770dd9,Agent,20
+09fbf4f4-f1ea-418e-a97f-3329fc0e61f7,Marina Dimitrova,SUPERAGENT,364,"['English', 'Russian']",42695,450abcd0-7efe-4b3e-a1d3-372ffa1576f5,Property Consultant,366
+8fbd8ce1-3cd7-4630-940c-28d44d74411c,Ubid Ahmed,REGULAR,"1,301","['English', 'Hindi', 'Urdu']",51862,ad82d91d-6018-4313-9af5-381d6898c20a,Property Consultant,"1,296"
+0ad0cffe-9886-456b-9d5b-9c9aff090896,Junaid Imtiaz Qureshi,SUPERAGENT,82,"['English', 'Hindi', 'Urdu', 'Punjabi']",,32f1fb82-5b92-4fb3-b470-8744cdf51480,Director Sales,82
+7242fc13-de92-403f-ad0e-a1f1a4a9a2fc,Imad Akhdar,SUPERAGENT,16,"['English', 'Arabic', 'French']",28727,28567308-9b4f-4976-8dec-37d5cd1056fd,Director of Sales,16
+a7d7db33-aa60-491d-813f-c3acff7579e2,Issa Talul,REGULAR,468,"['English', 'Arabic']",,c1b07e4c-4116-4ba4-8ac1-fd845e605a85,Emaar South Specialist,465
+bd3dafde-e015-4979-9766-bda2d514dfdd,Jiawei Liu,SUPERAGENT,26,"['English', 'Mandarin']",36387,82d98096-4343-437a-b61a-93889e712a2a,Sales Manager,26
+e11f05cf-a685-4dc3-a8fa-0c2fe8fa4cc8,Rizwan Niazi,SUPERAGENT,104,"['English', 'Hindi', 'Urdu']",51288,dd2c4be9-49ac-488b-9d03-59e4cbe53f3f,Property Advisor - Sales,104
+32ee8f71-96f9-4b45-bb17-71b4c84cf601,Mouad Salhi,REGULAR,62,"['English', 'Arabic']",50677,db4f0cdd-0791-4e2a-a3f1-61b778ba8a4b,Property consultant,62
+13b4ef15-5a28-4e7a-9253-486980960cf6,James Davies,SUPERAGENT,18,['English'],52547,fa5deac8-320d-4d4f-8f37-64fd031697e3,Associate Director,18
+65aeebf4-a6cb-483b-a302-17e8d28fbe3c,Rayan Al Masri,REGULAR,7,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,SAND & CEM REAL ESTATE,
+0e62d368-e10a-426a-8766-916ac62764b3,Everard Alphonso,SUPERAGENT,892,"['English', 'Hindi']",36707,4f869f17-f152-4f4b-b86d-62fb88503946,Off Plan sales consultant,879
+794fbca2-6e53-4642-b982-e26c98a911d9,Nabil Zeineddine,SUPERAGENT,236,"['English', 'Arabic']",55783,1c432a3d-4999-4f2f-86e7-eee431c27aef,Property Consultant,235
+df8573a3-ea99-4627-897c-375e337fca1c,Muhammad Waleed,SUPERAGENT,619,"['English', 'Arabic', 'Hindi', 'Urdu']",57025,da41dceb-187e-4723-a071-55d52a6213ad,Client Manager,655
+2a3ad48c-e605-422e-9f8f-2694c8bbfdcf,Casabella Property Broker,REGULAR,39,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Casabella Property Broker,
+f87549e2-1fd9-4638-9b67-43c24a66a6a9,Mohamed Khaled Hassan,SUPERAGENT,284,"['English', 'Arabic']",54295,bee0ae89-aee4-420c-ad62-d2dc9b283e9e,Real Estate Agent,284
+e8c0dc5d-5b61-405f-9174-b213d8c8357a,Muhammad Aamil Asif,SUPERAGENT,193,"['English', 'Hindi', 'Urdu']",32140,db488994-9b6a-4faa-9062-f90b3289c1b4,Director - Sales & Marketing,193
+33883796-2ffb-4195-a01b-3a9a72a59755,Rakesh Saldanha,REGULAR,345,"['English', 'Hindi', 'Kannada']",33134,667c1963-d2e4-424f-9a47-0a2e7b038421,Property Consultant,343
+7abe60db-b1a7-4547-81f0-480ce909bbdb,Angela Alvares,REGULAR,7,"['English', 'Urdu']",47420,c5d80a99-4a6a-44da-8f6f-0074e8e91ea3,Leasing Agent,7
+133b679f-85a3-4e97-b150-c0c1a76c6c92,Manisha Ramchandani,SUPERAGENT,20,"['English', 'Hindi']",48397,dc46dfe1-a60c-48a5-89dd-7f0d5109f1cd,Agent,20
+524294df-c696-4cee-a6a7-e61f0078ff53,Haris Motiwala,REGULAR,172,"['English', 'Urdu']",4330,d9917a00-ee0a-46f8-98d2-22ee4b627b5d,Sales Director,171
+6bdbd938-c033-4b54-8f43-22c689afdaff,Olga Degelo,REGULAR,364,"['English', 'German', 'Russian']",55388,450abcd0-7efe-4b3e-a1d3-372ffa1576f5,Property Consultant,366
+2fe2d765-b043-4625-8008-cdb01571e627,Mustafa Abd El Hameed,SUPERAGENT,148,"['English', 'Arabic']",,3b35dc37-bce3-45ff-87fe-eb2416361aa4,Real Estate Agent,148
+f0edc2f2-ac08-4f62-a2ee-498fe40dd43b,Muhammad Tayyab,SUPERAGENT,515,['English'],47440,5e8fc096-c07b-437f-917c-4882ffd7d74e,Sales Manager,513
+299213f8-98cd-4ce0-9792-bd41d8ec72fb,Iulia Ianus,REGULAR,28,"['Arabic', 'French', 'Russian', 'Hindi', 'Malayalam']",58730,4a18fe81-f3f4-42b6-a3bd-39201c509f53,General Manager,28
+bb313791-0b7e-424f-b88d-1b80793f01d1,Maksim Tuguchev,REGULAR,"1,215","['English', 'Russian']",27666,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+0e02a84e-6a31-470e-bf1b-7dcf3e764212,Awais Ghani,REGULAR,80,"['English', 'Hindi', 'Urdu']",48805,1f7d68df-6c12-4c5d-af2b-308a35822390,Property Agent,80
+f0dd878e-5de7-4f09-9134-d5eeb07aea48,Adnan,REGULAR,31,"['English', 'Arabic', 'Urdu']",,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Project Brokerage,
+bb65969a-f108-4f01-87ce-85eee558aafa,Ibrahim Magdi,REGULAR,122,"['English', 'Arabic', 'Russian']",40709,7ae5703d-1bef-4281-8725-1d2146f0c0f5,Property Advisor,121
+0f845e68-b788-41f7-800e-4258576861ef,Amer Toubasey,SUPERAGENT,46,"['English', 'Arabic']",,02d7c7c1-108c-4a06-bcc0-de7efa8df62f,Senior Property Consultant,46
+b068af97-ebbb-4484-a539-da8c2d513c7c,Cherry Htun,REGULAR,85,['English'],55509,1e8475eb-3c32-4ea9-98e4-053d7aa116b6,Real Estate Agent,85
+2367628c-ef15-4f32-8849-234f85751c1e,Maqsoud Odinaev,SUPERAGENT,370,"['English', 'Arabic', 'German', 'Russian', 'Persian/Farsi']",,50fcb7e1-d25e-4534-a9c1-6e2f219ec338,Senior Property Consultant,370
+c66f19b0-8274-496c-b010-26e7e6a95cc5,Darren Murphy,REGULAR,91,['English'],11297,7ccb69d8-e9fc-4163-87f4-01f2e16c298c,Branch Director - Jumeirah Golf Estates Branch,91
+5a38daaf-fda5-47b1-8e14-ea3a8f2eefce,Qadeer Nadir Khan,REGULAR,18,"['English', 'Arabic', 'Hindi', 'Urdu', 'Punjabi']",32264,5d68a628-0624-4a51-81c4-dd1269815f36,Owner / Sale Executive,18
+af87674c-5bc8-469f-aa06-8f462fb005cd,Umair Ahmed,REGULAR,358,"['English', 'Hindi']",,c6c1a46e-1515-454a-a13a-34626dc05972,Real Estate Consultant,362
+1bfd4f79-0f9d-45c5-be32-b35b2b16cfef,Rahul Bhattad,REGULAR,345,"['English', 'Hindi', 'Other']",39205,667c1963-d2e4-424f-9a47-0a2e7b038421,Manager,343
+73534dd5-7fb2-481d-822b-dd7b568222c0,Yasar Abu Hejleh,SUPERAGENT,921,"['English', 'Arabic']",,7ab3abf6-e85c-4e44-abcb-7192cd072f6c,Managing Director,921
+2685c218-faaa-4c79-b4b7-b0d0e4694c1a,Manish Kumar,REGULAR,374,"['English', 'Hindi']",51947,cb12c1df-9918-4cfc-9b77-d9d8f396346d,sales Manager,367
+4541b2a9-9eb1-47ec-90d0-c04753c36552,Muhammad Arsalan Zaheer,REGULAR,39,"['English', 'Urdu']",34097,cf95d98d-cc9d-4c07-854c-efc6ece33c2f,Sales Manager,39
+f39229c2-e404-46a6-af09-1a9456661c7f,Zhibek Batyrbek kyzy,REGULAR,199,"['English', 'Russian']",60294,208c2ceb-a045-4731-b002-37a04a10fe64,Sales and Leasing Consultant,197
+99729b91-4bf1-4aec-9b3c-578f3b7c8d6c,Bassam Harati,REGULAR,"1,625","['English', 'Arabic', 'Portuguese']",,b0f9e823-1122-4ad9-bc5b-f50c05fdc227,Sales Team Leader,"1,625"
+84b3e993-0245-4e72-9fcf-fafadd349641,Muhammad Umar Khan,REGULAR,892,"['English', 'Hindi', 'Urdu', 'Punjabi']",54165,4f869f17-f152-4f4b-b86d-62fb88503946,Senior Agent - Special Projects,879
+dd4fa6a0-6deb-443e-b62c-a46b69f62f77,Rania Kalsi,REGULAR,67,"['English', 'Hindi', 'Urdu']",47866,edf13ad9-7d57-4a3d-a4a5-03cc96ad0784,Sales Manager,67
+d818b832-5f72-4f59-984d-b4cc048908b3,Mohammad Al Midani,REGULAR,46,"['English', 'Arabic']",56480,4462403a-725a-47f3-80fc-a7a1634e363c,Senior Property Advisor,46
+d541d2a7-83af-4501-bf88-802610d56337,Hanane Aaroui,REGULAR,176,"['English', 'Arabic', 'French']",31156,014ffe4f-d498-419e-a957-797742006a3f,Agent,176
+aff083a8-c383-4cd7-8543-cd151f9a5d95,Mohammed Al Jawad Salman,SUPERAGENT,921,"['English', 'Arabic']",,7ab3abf6-e85c-4e44-abcb-7192cd072f6c,Senior Sales Agent,921
+44a9b829-0a15-4e8d-9fb7-ae58639f96d6,Tobias Leonhard Neumann,SUPERAGENT,100,"['English', 'Arabic', 'German', 'Russian']",51299,ea49aa51-ee93-47a0-ab62-60a19469b30b,Senior Property Consultant,100
+0cd2c7c3-929a-4782-a46b-18b2c085bd2b,Priyanka Shashi Nair,REGULAR,5,['English'],59039,dec7f34a-6f0a-4244-bbef-940001a24797,Property consultant,5
+1fd3ea48-48d7-42bc-86e2-76d87ea143d3,Kenan Nassar Faraj,SUPERAGENT,264,"['English', 'Arabic']",49504,2657b495-3b71-41af-9910-2bbab5ccd52e,Property Advisor,266
+92ad1303-6392-48e1-96f3-5c337afe7559,Enass Abdelbaset,REGULAR,892,"['English', 'Arabic']",35704,4f869f17-f152-4f4b-b86d-62fb88503946,Client Manager,879
+4ca869f3-ca6e-4720-916d-cd4aeb1a0867,Xhino Sherifaj,REGULAR,12,"['English', 'Italian', 'Albanian']",57741,f0963f09-e61e-4928-8353-3e30b370593a,Property Consultant,12
+b2e645b9-5819-4b74-86ac-7f3e206490f2,Sarjil Lakdawala,REGULAR,137,"['English', 'Hindi', 'Urdu']",34437,3d229b3f-f7fb-41d4-908a-0479b78ac15a,Director,137
+d6b3bc4f-1257-4ef5-9dd1-ac598b65f7c9,Raghda Shalak,REGULAR,299,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,AQUA Properties,
+c7eeaa00-64a4-466d-9be6-d67db618ec6c,Hassan Abbas,SUPERAGENT,921,"['English', 'Arabic', 'French', 'Spanish']",,7ab3abf6-e85c-4e44-abcb-7192cd072f6c,Sales,921
+fd840c9e-85d6-4bd3-8e75-cf9e50653eeb,Davide Francogallo,SUPERAGENT,23,"['English', 'Italian']",53635,009c6e59-d3fd-481c-8fe4-119d7598f960,CEO and Founder,23
+278028f7-fe76-47c0-ab71-e7b98eeffd06,Soheila Aeinehchi,REGULAR,311,"['English', 'Persian/Farsi']",37177,a1014eec-dc0e-4c56-a8df-48be312681ef,Sales & Leasing Consultant - Jumeirah Island & Jumeirah Park,309
+fa891411-64fc-47e1-af37-0d8534d53297,Dilnoza Alieva,REGULAR,"1,215","['English', 'Russian', 'Kyrgyz']",54726,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+adf6cee2-273e-48f4-b749-23ee5cfe427e,Aya Al Neama,REGULAR,83,"['English', 'Arabic']",48717,cc19acee-2f9e-4133-a1ef-7d430a6d708c,Real Estate Consultant,85
+82508e49-b358-489c-8fb5-573ab5c0dada,Mohammad Saud Khan,SUPERAGENT,71,"['English', 'Arabic', 'Hindi']",48030,b7353d95-b617-411a-a52a-334fcfe938b3,Property Consultant,71
+ab7df54f-af18-44ed-99db-8da7e55ee2da,Trent Challis,SUPERAGENT,110,['English'],57310,1242010a-0ada-4aec-86f8-3ac63143a72c,Chairman,109
+b2770147-f211-4857-b26b-5d09f4ab4883,Rashid Irshad,SUPERAGENT,264,"['English', 'Urdu']",43512,2657b495-3b71-41af-9910-2bbab5ccd52e,Property Advisor,266
+9339a1e9-20d0-49fb-9f33-5ab0b372eeca,Binoia Dzhurabaeva,SUPERAGENT,218,"['English', 'Polish', 'Russian', 'Kyrgyz', 'Uzbek', 'Turkish']",54848,8c5e69d4-ca6d-4e42-8ee1-b4cd4d82bdfd,Client Manager,216
+bb29df12-a148-43b3-8074-69b329ec5671,Tarun Bulchandani,SUPERAGENT,63,"['English', 'Hindi', 'Sindhi']",46615,cf06dc5e-1cc1-4ba5-bba9-69021809e919,Managing Director,63
+378d91c3-057e-4795-b675-95273df20c30,Ranvir Singh Sanger,SUPERAGENT,"1,266",['English'],44531,8df0fb48-e8c8-479a-8fe1-36f8dd64a6ca,Senior Off Plan & Investment Consultant,"1,272"
+a2302cc9-7f5c-43f3-a154-6b397cd00752,Mohanad Alwadiya,REGULAR,254,['nan'],2004,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Harbor Real Estate,
+2db6bb83-ff81-4f93-8453-18b44085d628,Haya Haitham Makarem,REGULAR,970,"['English', 'Arabic']",,12013432-61ac-4d34-a5d3-e469e06735fb,Sales Manager,972
+c6c613e7-7c9f-4107-9453-a82b6c1145ef,Kadir Khan,SUPERAGENT,"1,264","['English', 'Hindi', 'Urdu', 'Punjabi']",54143,ff8fda50-542e-47f6-8575-5b1a27c2a061,Property Consultant,"1,259"
+8efa6bec-c46e-4917-a48d-2227f6f5ec24,Larysa Kadyka,REGULAR,"1,215",['English'],51773,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+164236db-2d9b-4689-b403-d7b2f1d12889,Danny Langston,SUPERAGENT,93,['English'],38554,aeab4bac-1a34-450a-b27e-0c280b08753b,Property Consultant,94
+f7031452-83f8-4538-9efd-05059dc619c4,Munawar Iqbal,SUPERAGENT,264,"['English', 'Hindi', 'Urdu']",45265,7f09030a-2497-43d0-8a86-188d61ea34f8,sales & Leasing Advisor,264
+a07279c4-f299-418f-9777-158cddf0448f,Mahmoud Elshamy,REGULAR,121,"['English', 'Arabic']",48977,d69f81eb-3c7a-42fe-ad32-f193b5964cad,Founder and CEO,118
+4bd4f746-e31e-46c2-90b7-8dd3cade8b11,Mohamed El Kohli,SUPERAGENT,266,"['English', 'Arabic', 'French']",,6d22f706-6bbd-4c5d-b66e-0f8fcf091b00,Sales and Leasing Manager,266
+37790bac-e9c6-4d60-a3e2-3c6a2d088bd9,Shaimaa Eissa,SUPERAGENT,921,"['English', 'Arabic']",,7ab3abf6-e85c-4e44-abcb-7192cd072f6c,Agent,921
+ddfa2c77-2dae-4feb-a4cd-2a374af9f850,Emine Sidzhimova,SuperAgent,"1,215","['English', 'Bulgarian']",48356,f2f20d50-76f8-4081-a4b4-50e379ca85d8,Property Consultant,"1,213"
+db7be6cf-ec82-47b1-aca5-914419df2537,Mehmood Pervez,REGULAR,924,"['English', 'Hindi', 'Urdu']",46174,13811c85-1501-49cc-8937-64a5b5890401,Investment Manager,924
+2747bb15-f6db-4758-9876-44f671aca68a,Amr Aboushaban,REGULAR,378,"['English', 'Arabic']",47632,2036af3e-c8d9-4ff8-8eba-df9ac3f6ffb3,CEO of Allegiance Real Estate,378
+5b19f499-3e05-45cb-99cd-8a718f23c514,Ionela Costache,SUPERAGENT,940,"['English', 'Greek', 'Romanian']",55169,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Property Consultant,987
+9f07f697-b875-4abd-8221-3456d5d9be16,Victoria Parkhomets,REGULAR,892,"['English', 'Russian']",56523,4f869f17-f152-4f4b-b86d-62fb88503946,Real estate Sales Agent,879
+4983a0c6-e86a-4fdf-b093-997187392380,Rameshwari Bhalekar,SUPERAGENT,109,"['English', 'Hindi', 'Urdu']",49008,8b92a834-d92c-4509-9b33-bd283ec113e5,Senior Client Manager,109
+0fcdff25-56bf-4cc6-b57f-487256e6bb78,Pouya Mandavi,SUPERAGENT,84,"['English', 'Arabic', 'Persian/Farsi']",52000,5fcac14e-c161-423e-8dce-e60cc1d95be6,CEO,84
+7da67b42-5813-4524-92e3-04771d2c8b5a,Adeeb Ahmed Syed,REGULAR,83,"['English', 'Hindi', 'Urdu']",48296,cc19acee-2f9e-4133-a1ef-7d430a6d708c,Real Estate Consultant,85
+df5b40a1-5df0-4a96-9ff0-e18047fd5c47,Zac Paterson,REGULAR,228,['English'],47113,2b0a90fd-2ca2-45e9-a4a9-879b533ddb39,Senior Property Consultant,227
+d882d27a-76fa-45d1-af01-24f82a8e657a,Mazhar Elsayed Abdelmawgoud Mohamed,REGULAR,209,"['English', 'Arabic', 'Italian']",45547,cf218b1e-8eef-4fca-8ad8-2501cbdbc1c3,Managing Director,209
+dd8e9522-2bef-4973-b22e-fa467809d7d3,Aman Dhir,SUPERAGENT,140,"['English', 'Hindi', 'Punjabi']",6621,6327c4a7-22c7-4055-a2d3-98d511455e14,Senior Sale Consultant,140
+7a0f94d3-23be-416c-a82f-6d93d567d5e5,Maria Dinulescu,REGULAR,73,"['English', 'French', 'Italian', 'Romanian']",53279,ccff95ee-a279-4449-b2b9-1a0eaf9c2dbe,Real Estate Broker,73
+bfe30106-4324-42fd-9d90-0b64c18e4811,Shakila Khattak,REGULAR,118,"['English', 'Urdu']",,33d9978a-acb1-411c-ab3a-cc3a1c842852,Property Consultant,118
+81fc681d-9a03-4430-8152-ac0ee5007f7c,Poonam Ghimirea,REGULAR,62,"['English', 'Hindi']",40044,db4f0cdd-0791-4e2a-a3f1-61b778ba8a4b,Property consultant,62
+cfe20cc5-53f5-481d-b750-ca508b700558,Rajesh Haridas Nair,REGULAR,542,"['English', 'Hindi']",55616,558711c1-4bdf-4635-999c-9faebcc91cad,Property Consultant,545
+4d64ea34-d73f-4f75-8a21-55d9cb421d8e,Bharat Bedi,REGULAR,183,"['English', 'Hindi', 'Urdu', 'Punjabi']",37387,ae7a82b4-6a3f-4ba4-b88b-8491ce6f670e,Founder and Managing Director,183
+d52e8159-4b80-45ac-b9f6-183f0f55959f,Laura Matthews,SUPERAGENT,104,['English'],42470,dd2c4be9-49ac-488b-9d03-59e4cbe53f3f,Property Advisor,104
+80b2f277-eada-429f-b890-291286506a4d,Muhammad Sarfraz Haider,REGULAR,378,"['English', 'Hindi', 'Urdu', 'Punjabi']",52216,2036af3e-c8d9-4ff8-8eba-df9ac3f6ffb3,Senior Investment Advisor,378
+8ba1d9d6-ee5f-46b6-87ab-4d8ffc1963a9,Mark Lawson,SUPERAGENT,940,['English'],58272,9d759023-4f59-4a9d-9f9a-8088ff172ab3,Property Consultant,987
+f40a4ec0-44ec-43da-800b-10785ddfa96d,Hamzeh Alrousan,SUPERAGENT,319,"['English', 'Arabic']",,01c80920-0c6e-4b2d-825a-236ce2b0393b,Sales Consultant,319
+b8255261-fcd7-4a19-b48a-3a66aec9c5ba,Renu Chhipa,SUPERAGENT,270,"['English', 'Hindi']",51875,bb749c40-99fd-493f-8f3d-a153a753da3e,Property Manager,266
+a64eba9b-abe7-4e8b-9451-511d434f7980,Jubin Lodaya,SUPERAGENT,770,"['English', 'Hindi', 'Gujarati']",42733,150fd690-1f7a-45e1-a0b9-1cf7d0d26d9b,Portfolio Manager,770
+92845743-62f0-4af7-8596-fe7f94d3f9b1,Muhammad Shoaib,SUPERAGENT,713,"['English', 'Urdu']",,31b39a9c-3e2a-4d71-ad4e-5e3ecc23c794,Property Leasing Consultant,713
+dafb5e01-2429-4502-847f-e49d994b22fb,Hossein Mohajer,SUPERAGENT,472,['English'],47850,29e11b52-e16f-478e-a76a-a386cae9cd70,Associate Director,470
+b9372ad7-6bb2-4e30-abe4-bc8cd39daecc,Chris Valentine,REGULAR,260,['English'],46536,820cf849-a702-43a3-b7aa-3d464a90db36,Dubailand Branch Manager,265
+6ccd81b5-9da5-4b21-971a-8d684f4d0df4,Anna Petrova,REGULAR,782,"['English', 'Arabic', 'Russian']",,ab97aff5-2f6a-434d-80e8-5b0992c4016a,Property Consultant,782
+295535bf-6935-4d8a-b4a7-eca82ac495bf,Gillian Quinn,SUPERAGENT,355,['English'],48087,be878123-53fe-4f73-8f65-eae356ac8501,Senior Sales Consultant,355
+9383b777-367f-484c-adb5-aa7397d38ada,Sunny Adhiya,SUPERAGENT,71,"['English', 'Hindi', 'Gujarati']",32753,317fef56-509a-4074-8483-4e43cd4add40,Business Development Manager,71
+ceb0a1b0-6cff-4a2b-ab9c-ac80ab2ab7e9,Shakeel Khan,REGULAR,299,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,AQUA Properties,
+7210c99d-9c4c-449c-b135-3f6ad5e74d81,Charlie Wardale,REGULAR,313,['English'],54787,12d7c8bd-80a6-4e12-9ce4-d112e06fa5bc,Property Sales Consultant,326
+7b210e6d-d4d9-4189-a776-1e8875a17249,Ryan Pall,REGULAR,261,"['English', 'Punjabi']",,73c08bc0-c392-43d8-8ba3-d0dec96a91aa,Real Estate Consultant,261
+2e891170-ca21-4e8b-a81f-75325c011a36,Zaki Jawich,REGULAR,36,"['English', 'Arabic']",,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,HOME SWEET HOME REAL ESTATE,
+ee0c89fb-e050-44cd-a443-da98a2ff1466,Vikesh Desai,REGULAR,32,"['English', 'Hindi', 'Gujarati']",37667,0cbf3a12-8f99-40d6-bd7c-84b6447aa366,Client Manager,32
+d99bdfd3-9c2c-48b6-bd7e-a7360411f2bb,Adnan Aslam,REGULAR,137,"['English', 'Hindi', 'Urdu']",46467,3d229b3f-f7fb-41d4-908a-0479b78ac15a,Client Manager,137
+59d8f704-b9ab-46e4-8ff9-25305ece2675,Jemcy Joy,SUPERAGENT,270,"['English', 'Hindi', 'Malayalam']",51876,bb749c40-99fd-493f-8f3d-a153a753da3e,Client Manager,266
+997e5417-e9bc-49fc-bba7-7d31784b9f42,Jeetendra Punjabi,SUPERAGENT,67,"['English', 'French', 'Hindi', 'Gujarati', 'Punjabi']",40061,c21aaec6-49ad-4161-a410-c26e33dd55ca,Private Office Advisor,67
+f71d5f28-dfa4-49d2-9fb3-dd6e76cede44,Bakhodur Khaidarzoda,SUPERAGENT,282,['English'],46715,80cd35c3-9690-4a87-8519-9bc96936bdce,Real Estate Broker,282
+0349103e-6e93-4eff-8d42-3bc0f9e98fbe,Micheal Wilson,REGULAR,30,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Uber Homes Real Estate,
+848283df-ca5d-400b-90f1-6243a1a50622,Fahad M.S. Sheikh,REGULAR,266,['English'],,285f84e3-c68d-449e-9b09-c8a02a83b9e3,Client Associate,266
+6eeab94f-ceb7-40e5-a5ed-8910e79ce646,Samrawit fantu,REGULAR,305,"['English', 'Amharic']",60122,d8c580e6-1e04-4d71-be0a-ca4becc17304,Agent,305
+a820a9d8-0f65-4f96-9d65-d2ec24336a8b,Muhammad Kamran,SUPERAGENT,109,"['English', 'Arabic', 'Urdu']",,aa9856b8-2f7b-4eaa-a68a-5719f56f216f,Property Consultant,109
+dd17a1a5-474a-49ca-8131-fb052f329469,Evelina Bogotlieva,REGULAR,49,"['English', 'Russian', 'Bulgarian']",4634,04b3fd2b-fa92-400c-87ba-762cde12554e,Managing Partner,49
+2e4c2aea-bd3b-4c53-a49f-82352b252458,Vivian Abdeen,SUPERAGENT,626,"['English', 'Tagalog']",35999,98e094cb-3cf7-47ad-b811-b96ce37436e9,Property Consultant,629
+4ce03974-729a-475f-a1f8-77ca88d46b8e,Danny Stewart,REGULAR,260,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Allsopp & Allsopp - Motor City Sales,
+be39d18a-bc80-4080-83a7-393539afa3db,Clara Reymond,SUPERAGENT,311,['English'],54101,a1014eec-dc0e-4c56-a8df-48be312681ef,Palm Specialist,309
+f9a1345c-f1e2-4fe0-bb68-cbb639d7e252,Sergei Tarnovskii,REGULAR,118,"['English', 'Russian']",,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Bricks n Woods Real Estate Brokerage,
+5930bcf7-b935-4b6d-b3fa-b2da00b79985,Umme Farwa,REGULAR,137,"['English', 'Hindi', 'Urdu']",30699,3d229b3f-f7fb-41d4-908a-0479b78ac15a,Director,137
+aed3ccb8-06b8-483e-85a7-1ea2f36bdcb8,Nourhan Refaey,SUPERAGENT,374,"['English', 'Arabic']",45770,cb12c1df-9918-4cfc-9b77-d9d8f396346d,Sales Manager,367
+e36adedc-349b-4122-9b7e-d4cd92c1732f,Xperience Realty Real Estate,REGULAR,31,"['English', 'Arabic', 'Persian/Farsi']",29027,68f5b8c7-2364-44a1-9f54-c32bd646141c,Xperience Realty Real Estate,31
+7515fa67-5473-45fa-81f7-3fafe4519a05,Srikanth Kasula,REGULAR,190,"['English', 'Hindi', 'Urdu']",47765,34b01008-7341-438c-be10-d54bc1963790,Property Consultant,187
+47bbbc74-8ab2-4493-ae02-e991f4f44f5a,Charlie Bierton,REGULAR,928,"['English', 'Arabic', 'French']",58580,6b903cc4-cca8-429e-a62a-64e61692519a,Real Estate Broker,920
+ea19df1c-87e3-4267-a47a-6043ff3a41e1,Meryem Bouarsa,REGULAR,38,"['English', 'Arabic', 'French']",59283,4e4ee0f3-7370-4df3-b599-b4d1b47ebe28,CEO & FOUNDER,38
+bbe7f8e9-f733-4ca3-9de0-edc3893f6c87,Bhagyashri Ramawat,SUPERAGENT,270,['English'],54415,bb749c40-99fd-493f-8f3d-a153a753da3e,Client Manager,266
+1444cb8f-d1cc-43a1-88a1-364fb12d2812,Neville Dias,SUPERAGENT,69,"['English', 'Hindi']",53764,23cf9f1f-a554-4527-8049-379dc1091ef4,Property Consultant,69
+ba92dcfc-4600-44cb-8529-4ccaa30f70d5,Natalia Perkitli,SUPERAGENT,799,"['English', 'Arabic', 'Russian', 'Turkish']",,e935404f-955a-4864-989d-957a4b7152e2,CEO,799
+6918daf2-1c51-4409-8607-b48ef3974103,Benjamin Larrad,REGULAR,260,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Allsopp & Allsopp - Motor City Sales,
+bf200e4e-7665-4c7c-9813-03abb4897e08,Raed Thabet,SUPERAGENT,267,"['English', 'Arabic']",,91ce169a-09ef-4c47-a6bb-e02bf3b144d8,Property Consultant,267
+2d1e91a2-309a-4f0d-9ca9-decc1184e167,Callum RadfordAS,REGULAR,87,"['English', 'Hindi', 'Urdu']",46526,33d9ef41-7a96-4902-9f95-1484eb6ee504,Real Estate Agent,85
+af992064-d54e-4c74-83fb-b1ccb997128c,Tatyana Kirichenko,REGULAR,928,"['English', 'Russian']",23799,6b903cc4-cca8-429e-a62a-64e61692519a,Property Management,920
+3c3751af-28ef-4682-a2a9-c78b247f16a5,Rolf Manuel,SUPERAGENT,153,"['English', 'Hindi', 'Urdu', 'Bengali']",58346,543c74e4-3e54-4983-a10e-d8a57f5031d8,Property Consultant,149
+3ccb205d-6974-4967-b413-ee9c1cdac9a4,Fatima Sabri,SUPERAGENT,38,"['English', 'Urdu', 'Punjabi']",47298,06e737ef-80cf-469f-b73a-099feb589d8c,Sales &amp;amp; Leasing Property Consultant,38
+d511b28e-dc9d-48a8-8557-eba71d36fe05,Erica Assmann-Jonkers,REGULAR,369,"['English', 'Dutch']",,a7c3655f-fdba-4e24-8b60-3e4f9059e85c,Property Consultant,367
+32dfa749-f25a-428b-9a09-2c4d9280bfa0,Mukesh Jagdish Singh,SUPERAGENT,124,"['English', 'Hindi']",52123,15ce5a7f-9bb8-4c64-b68d-45f7137edf17,Real Estate Broker,124
+ea74ce67-d237-4c87-b072-77bb05b2d931,Ahmed Lalani,REGULAR,90,"['English', 'Hindi']",53136,c850ab91-a250-4833-a887-5c34b9e07137,Senior Real Estate Brokers,90
+5f6d2e49-ad47-4b73-9969-b836ff987976,Amro Homsi,REGULAR,435,"['English', 'Arabic', 'Spanish']",52768,cbc58ee9-9638-441b-b10f-da96fa96356c,Property Consultant,420
+ff9bdf2d-d421-4a7f-aa92-1c001168cf48,Aditya L Bhushan,SUPERAGENT,218,"['English', 'Hindi', 'Urdu']",52812,8c5e69d4-ca6d-4e42-8ee1-b4cd4d82bdfd,Investment Consultant,216
+568646dc-254c-458e-bca3-9f7e6e7ff163,Rabeet Saleem,SUPERAGENT,218,"['English', 'Urdu']",42148,8c5e69d4-ca6d-4e42-8ee1-b4cd4d82bdfd,Property Consultant,216
+fd358445-fa72-4694-b57f-24a31c961a69,Lilian Lopez,SUPERAGENT,97,['English'],57390,e114a636-9ee7-41a0-a586-7d38b69326be,Real Estate Broker,97
+0d72d791-28f0-4aef-9ce5-71ef2496e95c,Sayed Firoz,REGULAR,22,"['English', 'Hindi', 'Urdu']",11067,76faa41d-da6e-4217-bb3a-8343e0641424,Sales Manager,22
+0a1f6675-50e9-459c-9d1e-844b6538aaf9,Fadi Alsalem,SUPERAGENT,330,"['English', 'Arabic']",44340,bb82ed35-432d-43c2-97b8-6a4f267cf8ee,Senior Property Consultant,332
+36dad3a3-2e32-4a42-a3cb-2c5b24051bda,Shimroz Syed,REGULAR,26,"['English', 'Urdu']",25988,5e5e9f91-ddad-4777-8c03-e6c43ee60432,Senior Property Consultant,26
+4bf4c832-fc08-4889-bb4e-aa5be0057af6,Muhammad Nawaz,SUPERAGENT,48,"['English', 'Urdu']",37747,d26fd669-2a3c-4b9f-869d-83babe0a29cc,Managing Director,48
+5d1bc3fe-5878-4710-b3b8-7ed566f4e8fb,Ahmed Emadeldin,REGULAR,136,"['English', 'Arabic']",44727,2a370b43-67a8-4ba4-8e35-43c40cdfebdb,Managing Director,137
+94a857d7-3c40-44ba-9ee1-eb049e62759a,Elena Bukadida,REGULAR,30,"['English', 'Arabic', 'French', 'Russian']",43875,4bbabfaf-e430-4bee-91b8-4193223aa02f,General Manager,30
+169cd0b3-bffb-4e26-ac24-e7f51c145a72,Latef Yakoub,REGULAR,40,"['English', 'Arabic']",,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Loci Properties LLC,
+06be450f-a0de-47f5-bac7-314660f70a92,Mazhar Kapadia,SUPERAGENT,106,"['English', 'Hindi', 'Urdu', 'Gujarati']",44602,e2650114-3bb1-4a17-b163-54a47dc36d76,Sales Manager,106
+da44017d-010a-4581-98a8-e826935df870,Mazin Chahin,SUPERAGENT,168,"['English', 'Arabic', 'French', 'Russian']",36263,b0e00a07-082c-4640-923f-cf1332ae8532,General Manager,168
+75e1c691-aa26-4c7b-8b9e-7447f1ee11e1,Muhammad Noman Khan,REGULAR,46,"['English', 'Urdu']",,d02a2f94-3a64-4019-bed6-e995fe0c2457,managing partner,46
+7b75731b-2191-40e3-a405-687eaa552564,Rafiq Hassan,SUPERAGENT,165,"['English', 'Arabic', 'Hindi', 'Urdu', 'Pashto']",,dceb4bc6-7589-4234-bb96-560dc37eb8c3,CEO,165
+9f4abb15-ab17-42a1-b9af-2b751f9ff3e0,David Hughes,REGULAR,284,['nan'],59086,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Gold Mark Real Estate,
+2a52a516-1ec5-4f23-9a97-d9b328747c2c,Joshua Brooks,REGULAR,582,['English'],46330,803ce959-46ba-40fb-b253-52da9718a52a,Property Sales Consultant,584
+8ed48e76-70d6-4c36-a333-c4565216aa16,Noureen Ibrahim,SUPERAGENT,80,"['English', 'Hindi', 'Urdu']",51468,4b6e5064-e0a4-44f2-89b2-6373e3f6e2be,Head of Sales,80
+1ed2545f-c7bd-4ad9-b30e-c8c7df8bcf1c,Mansour Alawadi,REGULAR,"1,389",['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,H F Real Estate,
+d4730b95-01b3-4b58-a7e0-5b32969e7286,Smit Vora,SUPERAGENT,141,"['English', 'Hindi', 'Gujarati']",57521,7919a93f-a0b5-4624-a089-d4a43563a440,PROPERTY CONSULTANT,141
+0bef7b59-9e27-4fc4-95ba-6ae0d2a40833,Teona Buzaladze,SUPERAGENT,62,['English'],41507,f99a8527-7744-4baa-929a-64a4586a317b,Managing Director,62
+641dda57-6978-4f08-bd09-894045b6ff52,Gavin Pinchin,REGULAR,928,['English'],36999,6b903cc4-cca8-429e-a62a-64e61692519a,Senior Sales Consultant,920
+c64112d0-1bfd-477a-b421-56850ab5a348,Mohammad Mai,SUPERAGENT,912,"['English', 'Arabic']",,cfe2e893-e2ae-4100-8cc5-c3d395a6ad34,Sales Agent,912
+8215f530-2470-4d13-8a19-0daf4c24cded,Ghayth Ayache,SUPERAGENT,96,"['English', 'Arabic', 'French', 'Spanish']",55112,886de800-df3a-49d0-9eb3-914f0861a28f,Real Estate Advisor,96
+763c414c-9809-4d38-ad70-4ed1243910da,Sunil Nair,REGULAR,123,"['English', 'Hindi', 'Malayalam']",31264,6dac9c30-4c64-4275-ab55-e41f60e3ee07,Sales Manager,123
+a9455cdb-1137-4df3-956c-9d1ce1eadfc1,Fatima Zahra,REGULAR,892,"['English', 'Arabic', 'French']",54797,4f869f17-f152-4f4b-b86d-62fb88503946,Luxury Property Specialist,879
+97bcaa64-378a-4ed4-aaec-94b71d13a685,Rahab Nicar,REGULAR,542,"['English', 'Tagalog']",37326,558711c1-4bdf-4635-999c-9faebcc91cad,Property Consultant,545
+c5344d89-4459-4a62-b411-169b8bb204ac,Jeddy Pallogan,SUPERAGENT,609,"['English', 'Tagalog']",,e26c8a20-2cae-4124-9578-59d4c7582447,Property Consultant,609
+21c99d34-19f9-4739-8e15-35fd641cc421,Alaa Shkier,REGULAR,284,['nan'],57240,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Gold Mark Real Estate,
+bb9b4d0e-4233-4079-a156-82cf5f8fc827,Mariam El Bannani,REGULAR,289,"['English', 'Arabic']",,75709f50-5630-4585-904d-bfa4a4b5e5a5,Property Consultant,289
+fa0cd400-61ac-4e6d-a5d7-ed5e5e3d481f,Syed Wajih Uddin Ahmed,REGULAR,869,"['English', 'Hindi', 'Urdu']",3437,ad10c756-c3f1-4e9a-a8e0-45bc18d2450a,Executive,865
+a18ea702-a678-4215-a791-4a5142cdb4fc,Ahmed Eleiwat,SUPERAGENT,"1,625","['English', 'Arabic']",,b0f9e823-1122-4ad9-bc5b-f50c05fdc227,Property Consultant,"1,625"
+7e705ffa-b9a5-4643-8529-9b1ccf85740b,Umair Madni,REGULAR,131,"['English', 'Urdu']",30652,af1d3b9a-ab08-403e-ac7b-52183f637d1d,Real Estate Professional,132
+3434ecec-7e89-42f0-8774-6c79c0b4d1a4,Vicky Clark,REGULAR,36,['English'],49033,1dd43fe0-de4b-4a9a-8d47-d79bd097622f,Operations Manager,36
+91021e15-0f15-48a1-899b-83971e664ba7,Bernice Agbemashior,REGULAR,118,['nan'],,6fecff2a-4dc3-4f29-a068-3863f7d08a0f,Bricks n Woods Real Estate Brokerage,
+ef5f3a7e-ea1b-4f16-993b-dca24470b6a0,Mohamed Ashraf,REGULAR,468,"['English', 'Arabic']",939893,c1b07e4c-4116-4ba4-8ac1-fd845e605a85,Arabian Ranches Specialist,465
+0d0d0c34-27b5-4dab-a44b-85ce820c23e3,Julian Roverato,REGULAR,209,"['English', 'French', 'Spanish', 'Italian']",34036,6d9f6a42-da49-4d8f-a45e-19cc0986ff34,Senior Sales Negotiator,209
+9decbc08-7f0b-4461-8f38-e3822b8526bc,Mehroz Majeed,SUPERAGENT,108,"['English', 'Hindi', 'Urdu', 'Memon']",38671,0205eb76-97ba-4719-b6c4-53cd095fa6c2,Sales & Leasing Manager,108
+d0f07d7d-0e6b-423b-9625-7e0ba2d05cb9,Farhan Ali,REGULAR,148,['English'],45078,dcebe893-4a25-486c-a34a-75d183555873,Managing Director,148
+6c4e5d19-481c-4890-877f-7b2b7d8902cc,Wael Soultan,SUPERAGENT,101,"['English', 'Arabic']",,a46f1ca0-d114-4dc5-a72f-feb7d78cc313,Senior Property Consultant,101
+043ed79c-edad-4a92-a0f0-ff6eb4808ff2,Adil Mohamed,SUPERAGENT,27,['English'],37734,43054720-8b67-48ae-bf0c-a13ee6a3832b,Managing Director,27
+50ae70e1-e052-4dc6-95a4-a42665ae271d,Sandeep Upadhyay,REGULAR,97,"['English', 'Hindi']",57332,e114a636-9ee7-41a0-a586-7d38b69326be,Real Estate Broker,97
