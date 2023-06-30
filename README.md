@@ -7,25 +7,26 @@ This project focused on data analysis and visualization using Tableau and Python
 We performed several tasks throughout the project and implemented various visualization techniques to better explore and understand the data. We also conducted web scraping from PropertyFinder.ae to gather the latest property data for our analysis.
 
 Some of the key tasks and accomplishments include:
-Data Scraping:
+
+**Data Scraping:**
 
   Developed a web scraping script to extract property data from PropertyFinder.ae.
   Gathered property details such as property type, price, area, bedrooms, bathrooms, and location.
 
-Data Cleaning and Preparation:
+**Data Cleaning and Segmentation:**
 
   Imported the scraped data into Python and loaded it into a pandas DataFrame.
   Conducted data cleaning, including handling missing values, removing duplicates, and formatting columns.
   Performed data transformations and created derived columns to enhance the analysis.
   
-Data Visualization in Tableau:
+**Data Visualization in Tableau:**
 
   Created interactive dashboards in Tableau to provide a comprehensive view of the data.
   Developed multiple visualizations, including bar charts, line charts, scatter plots, maps, and heat maps, to showcase different aspects of the data.
   Implemented filters, tooltips, and context filters to enable interactivity and allow users to dynamically explore and analyze the data.
   Designed dashboards with multiple sheets and coordinated actions to provide a cohesive and intuitive user experience.
 
-Analysis and Insights:
+**Analysis and Insights:**
 
   Explored the relationship between property prices and various factors such as area, bedrooms, and property type using scatter plots and box plots.
   Analyzed the distribution of property types listed by agents using stacked bar charts and treemaps.
@@ -38,6 +39,7 @@ Analysis and Insights:
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Insights](#insights)
 
 ## Installation
 
@@ -88,6 +90,6 @@ If you come up with some interesting findings, add the Tableau dashboard link to
 
 All Rights of this data belong to PropertyFInder.ae
 
-##Insights
+## Insights
 https://public.tableau.com/app/profile/mehrab.mashrafi/viz/RealEstateMarketInsigtsofDubai/PropertyInsights?publish=yes
 
