@@ -3,6 +3,10 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 import time
 import pandas as pd
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument('--chromedriver_path', type=str, help="Chech the webdriver location on your PC")
+args = parser.parse_args()
 
 columns = ["Ad Type", "Agent Type", "Property Type", "Price (AED)", "Details", "Service Type", "Address", "Bedrooms", "Bathrooms", "Area (sqft)", "Listed on", "Agent Name", "Agent Position", "Total Properties", "Spoken Languages by Agent","Reference", "Broker ORN", "Agent BRN", "Amenities", "DLD Permit Number"]
 
@@ -208,8 +212,8 @@ def main():
 
 
     df = pd.DataFrame(property_data, columns=columns)
-    df.head(3000).to_csv("property_data4_additional.csv", index=False)
-    print("property_data4_additional.csv")
+    df.head(3000).to_csv("property_data.csv", index=False)
+    print("property_data.csv")
 
 if __name__ == "__main__":
     main()
