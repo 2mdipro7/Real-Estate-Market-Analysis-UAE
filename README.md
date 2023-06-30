@@ -31,4 +31,4 @@ python data_cleanup.ipynb
 python data_segmentation.ipynb
 ```
 
-Tableau Public View - https://public.tableau.com/trusted/1rlXLxVgTkWVoxBIw_-jFw==:KWk0bXthU1l4ySFlO7GdFT5W?:redirUrl=%2Fprofile%2Fapi%2Fpublish%2FRealEstateMarketInsigtsofDubai%2FDashboard1
+Tableau Public View - https://public.tableau.com/app/profile/mehrab.mashrafi/viz/RealEstateMarketInsigtsofDubai/PropertyInsights?publish=yes
