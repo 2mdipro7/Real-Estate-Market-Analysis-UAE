@@ -91,5 +91,6 @@ If you come up with some interesting findings, add the Tableau dashboard link to
 All Rights of this data belong to PropertyFInder.ae
 
 ## Insights
-https://public.tableau.com/app/profile/mehrab.mashrafi/viz/RealEstateMarketInsigtsofDubai/PropertyInsights?publish=yes
+1. Property Insights - https://public.tableau.com/app/profile/mehrab.mashrafi/viz/RealEstateMarketInsigtsofDubai/PropertyInsights?publish=yes
+2. Agent and Company Performance Insights - https://public.tableau.com/app/profile/mehrab.mashrafi/viz/RealEstateMarketInsigtsofDubai/AgentPerformance?publish=yes
 
