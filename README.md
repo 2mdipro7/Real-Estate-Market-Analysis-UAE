@@ -10,27 +10,27 @@ Some of the key tasks and accomplishments include:
 
 **Data Scraping:**
 
-  Developed a web scraping script to extract property data from PropertyFinder.ae.
-  Gathered property details such as property type, price, area, bedrooms, bathrooms, and location.
+  1. Developed a web scraping script to extract property data from PropertyFinder.ae.
+  2. Gathered property details such as property type, price, area, bedrooms, bathrooms, and location.
 
 **Data Cleaning and Segmentation:**
 
-  Imported the scraped data into Python and loaded it into a pandas DataFrame.
-  Conducted data cleaning, including handling missing values, removing duplicates, and formatting columns.
-  Performed data transformations and created derived columns to enhance the analysis.
+  1. Imported the scraped data into Python and loaded it into a pandas DataFrame.
+  2. Conducted data cleaning, including handling missing values, removing duplicates, and formatting columns.
+  3. Performed data transformations and created derived columns to enhance the analysis.
   
 **Data Visualization in Tableau:**
 
-  Created interactive dashboards in Tableau to provide a comprehensive view of the data.
-  Developed multiple visualizations, including bar charts, line charts, scatter plots, maps, and heat maps, to showcase different aspects of the data.
-  Implemented filters, tooltips, and context filters to enable interactivity and allow users to dynamically explore and analyze the data.
-  Designed dashboards with multiple sheets and coordinated actions to provide a cohesive and intuitive user experience.
+  1. Created interactive dashboards in Tableau to provide a comprehensive view of the data.
+  2. Developed multiple visualizations, including bar charts, line charts, scatter plots, maps, and heat maps, to showcase different aspects of the data.
+  3. Implemented filters, tooltips, and context filters to enable interactivity and allow users to dynamically explore and analyze the data.
+  4. Designed dashboards with multiple sheets and coordinated actions to provide a cohesive and intuitive user experience.
 
 **Analysis and Insights:**
 
-  Explored the relationship between property prices and various factors such as area, bedrooms, and property type using scatter plots and box plots.
-  Analyzed the distribution of property types listed by agents using stacked bar charts and treemaps.
-  Visualized the price range distribution across different property types and emirates using box plots and violin plots.
+  1. Explored the relationship between property prices and various factors such as area, bedrooms, and property type using various plots.
+  2. Analyzed the distribution of property types listed by agents using stacked bar charts and treemaps.
+  3. Visualized the price range distribution across different property types and emirates using several plots.
 
 
 ## Table of Contents
