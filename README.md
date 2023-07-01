@@ -70,14 +70,14 @@ python final.py
 
 5. Initiate data cleaning
 ```bash
-python data_cleanup.ipynb
+jupyter nbconvert --execute data_cleanup.ipynb
 ```
 You will get 7 separate CSV files, that represent separate tables.
 Combine all the files into a single Excel Worksheet.
 
 5. Initiate data segments
 ```bash
-python data_segmentation.ipynb
+jupyter nbconvert --execute data_segmentation.ipynb
 ```
 6. You will get a new properties table with its segmented data. Replace all the data in the property sheet with these new segmented data.
 7. Load this dataset into Tableau.
