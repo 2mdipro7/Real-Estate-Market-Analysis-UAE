@@ -4,7 +4,7 @@
 
 This project focused on data analysis and visualization using Tableau and Python, incorporating data scraped from the website PropertyFinder.ae. The objective was to analyze and gain insights from a dataset containing information about properties, agents, companies, amenities, and language. The dataset included various attributes such as property type, price, area, agent details, company information, and amenity names.
 
-We performed several tasks throughout the project and implemented various visualization techniques to better explore and understand the data. We also conducted web scraping from PropertyFinder.ae to gather the latest property data for our analysis.
+We performed several tasks throughout the project and implemented various visualization techniques to better explore and understand the Real Estate Market of UAE. To achieve that, we collected the data from scraping the PropertyFinder.ae website and then carefullu cleaned the data. After that we implemented some additional segmentation of the data to help with our analysis.
 
 Some of the key tasks and accomplishments include:
 
@@ -88,7 +88,7 @@ If you come up with some interesting findings, add the Tableau dashboard link to
 
 ## License
 
-All Rights of this data belong to PropertyFInder.ae
+All Rights of this data belong to PropertyFinder.ae
 
 ## Insights
 1. Property Insights - https://public.tableau.com/app/profile/mehrab.mashrafi/viz/RealEstateMarketInsigtsofDubai/PropertyInsights?publish=yes
