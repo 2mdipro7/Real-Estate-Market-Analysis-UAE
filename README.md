@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 2. Run the scraper
 ```bash
-python final.py
+python scraper.py
 ```
 3. You will get a file named 'property_data.csv' containing all the raw data.
 4. Make sure to import the scraped data as df in the data cleaning notebook.
