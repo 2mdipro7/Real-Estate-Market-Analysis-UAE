@@ -3,12 +3,11 @@
 ## Table of Contents
 
 - [Description](#description)
+- [Insights](#insights)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Insights](#insights)
-
 
 ## Description
 
@@ -49,6 +48,11 @@ Step-by-step description of the key tasks and accomplishments are as follows:
   3. Jumeirah Village Circle, Downtown Dubai and Dubai Marina are the best place for finding a property within lowest price range.
 
   **Please note that the dashboards are interactive and can lead to multiple insights by clicking on different area of the chart.**
+
+## Insights
+1. Property Insights - https://public.tableau.com/app/profile/mehrab.mashrafi/viz/RealEstateMarketAnalysisofUAE/PropertyInsights?publish=yes
+2. Agent and Company Performance Insights - https://public.tableau.com/app/profile/mehrab.mashrafi/viz/RealEstateMarketAnalysisofUAE/AgentPerformance?publish=yes
+
 
 ## Installation
 
@@ -98,8 +102,4 @@ If you come up with some interesting findings, add the Tableau dashboard link to
 ## License
 
 All Rights of this data belong to PropertyFinder.ae
-
-## Insights
-1. Property Insights - https://public.tableau.com/app/profile/mehrab.mashrafi/viz/RealEstateMarketInsigtsofDubai/PropertyInsights?publish=yes
-2. Agent and Company Performance Insights - https://public.tableau.com/app/profile/mehrab.mashrafi/viz/RealEstateMarketInsigtsofDubai/AgentPerformance?publish=yes
 
