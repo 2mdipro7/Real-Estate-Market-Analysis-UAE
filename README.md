@@ -3,16 +3,11 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Data Scraping](#data-scraping)
-- [Data Cleaning and Segmentation](#data-cleaning-and-segmentation)
-- [Data Visualization in Tableau](#data-visualization-in-tableau)
-- [Intersting Findings](#intersting-findings)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Insights](#insights)
-
 
 
 ## Description
