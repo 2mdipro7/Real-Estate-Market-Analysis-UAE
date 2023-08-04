@@ -1,5 +1,20 @@
 # Real Estate Market Analysis of UAE
 
+## Table of Contents
+
+- [Description](#description)
+- [Data Scraping](#data-scraping)
+- [Data Cleaning and Segmentation](#data-cleaning-and-segmentation)
+- [Data Visualization in Tableau](#data-visualization-in-tableau)
+- [Intersting Findings](#intersting-findings)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Insights](#insights)
+
+
+
 ## Description
 
 This project focused on data analysis and visualization using Tableau and Python, incorporating data scraped from the website PropertyFinder.ae. The objective was to analyze and gain insights from a dataset containing information about properties, agents, companies, amenities, and language. The dataset included various attributes such as property type, price, area, agent details, company information, and amenity names.
@@ -32,20 +47,19 @@ Step-by-step description of the key tasks and accomplishments are as follows:
   2. Analyzed the distribution of property types listed by agents using stacked bar charts and treemaps.
   3. Visualized the price range distribution across different property types and emirates using several plots.
 
+**Interesting Findings:**
 
-## Table of Contents
+  1. There is a general trend toward the availability of expensive properties. We observed a compelling trend indicating a higher abundance of expensive properties. As property values decrease, their availability also declines.
+  2. Apartments are the predominant property type, followed by villa and townhouse.
+  3. Jumeirah Village Circle, Downtown Dubai and Dubai Marina are the best place for finding a property within lowest price range.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Insights](#insights)
+  **Please note that the dashboards are interactive and can lead to multiple insights by clicking on different area of the chart.**
 
 ## Installation
 
 1. Clone the repo
 ```bash
-git clone https://github.com/2mdipro7/Real-Estate-UAE.git
+git clone https://github.com/2mdipro7/Real-Estate-Market-Analysis-UAE.git
 ```
 2. Initialize and activate the virtual environment
 ```bash
