@@ -29,6 +29,9 @@ Step-by-step description of the key tasks and accomplishments are as follows:
   1. Imported the scraped data into Python and loaded it into a pandas DataFrame.
   2. Conducted data cleaning, including handling missing values, removing duplicates, and formatting columns.
   3. Performed data transformations and created derived columns to enhance the analysis.
+
+  [![Data Cleaning](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MaQbwFEmH3kwCg2tlpeXIUpBl_MeoE2c?usp=sharing)
+
   
 **Data Visualization in Tableau:**
 
