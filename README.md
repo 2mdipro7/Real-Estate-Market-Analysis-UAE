@@ -30,7 +30,8 @@ Step-by-step description of the key tasks and accomplishments are as follows:
   2. Conducted data cleaning, including handling missing values, removing duplicates, and formatting columns.
   3. Performed data transformations and created derived columns to enhance the analysis.
 
-  [![Data Cleaning](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MaQbwFEmH3kwCg2tlpeXIUpBl_MeoE2c?usp=sharing)
+  [![Data Cleaning](https://img.shields.io/badge/Open%20in-Data%20Cleaning-blue?logo=Google-Colab)](https://colab.research.google.com/drive/1MaQbwFEmH3kwCg2tlpeXIUpBl_MeoE2c?usp=sharing)
+
 
   [![Data Segmentation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N_BgeG4Ix0D0IcAh1Fwlbnz5PsWPGGho?usp=sharing)
 
