@@ -33,7 +33,7 @@ Step-by-step description of the key tasks and accomplishments are as follows:
   [![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-blue?logo=Google-Colab)](https://colab.research.google.com/drive/1MaQbwFEmH3kwCg2tlpeXIUpBl_MeoE2c?usp=sharing)
 
 
-  [![Data Segmentation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N_BgeG4Ix0D0IcAh1Fwlbnz5PsWPGGho?usp=sharing)
+  [![Data Segmentation](https://img.shields.io/badge/Data%20Segmentation-red?logo=Google-Colab)](https://colab.research.google.com/drive/1N_BgeG4Ix0D0IcAh1Fwlbnz5PsWPGGho?usp=sharing)
 
 **Data Visualization in Tableau:**
 
