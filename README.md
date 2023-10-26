@@ -56,8 +56,9 @@ Step-by-step description of the key tasks and accomplishments are as follows:
   **Please note that the dashboards are interactive and can lead to multiple insights by clicking on different area of the chart.**
 
 ## Insights
-1. Property Insights - [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue.svg)](https://public.tableau.com/app/profile/mehrab.mashrafi/viz/RealEstateMarketAnalysisofUAE/PropertyInsights?publish=yes)
-2. Agent and Company Performance Insights - [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue.svg)](https://public.tableau.com/app/profile/mehrab.mashrafi/viz/RealEstateMarketAnalysisofUAE/AgentPerformance?publish=yes)
+[![Tableau Dashboard](https://img.shields.io/badge/Property-Dashboard-red.svg)](https://public.tableau.com/app/profile/mehrab.mashrafi/viz/RealEstateMarketAnalysisofUAE/PropertyInsights?publish=yes)
+
+[![Tableau Dashboard](https://img.shields.io/badge/Agents&Company-Dashboard-blue.svg)](https://public.tableau.com/app/profile/mehrab.mashrafi/viz/RealEstateMarketAnalysisofUAE/AgentPerformance?publish=yes)
 
 
 ## Installation
