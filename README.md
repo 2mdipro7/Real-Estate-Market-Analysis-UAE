@@ -1,5 +1,7 @@
 # Real Estate Market Analysis of UAE
 
+![Banner](banner/banner.png)
+
 Please visit my portfolio to learn more about this project.
 
 [![View Portfolio](https://img.shields.io/badge/View-Portfolio-brightgreen.svg?style=for-the-badge&logo=appveyor)](https://2mdipro7.github.io/portfolio/projects/real-estate-uae.html)
